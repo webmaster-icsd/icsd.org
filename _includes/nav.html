@@ -16,7 +16,7 @@
                     {% if item.type != 'collection' %}
                         {% assign navPage = site.nav_pages | where: "title", item.text %}
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ navPage[0].url }}">{{ navPage[0].title }}</a>
+                            <a class="nav-link" href="{{ navPage[0].url | prepend: site.baseurl}}">{{ navPage[0].title }}</a>
                         </li>
                     {% else %}
                         {% assign navCollection = item.text | downcase %}
@@ -26,7 +26,7 @@
                                aria-haspopup="true" aria-expanded="false">{{item.text}}</a>
                             <div class="dropdown-menu pb-3 " aria-labelledby="{{navCollection}}">
                                 {% for subitem in site.[navCollection] %}
-                                    <a class="dropdown-item" href="{{subitem.url}}">{{subitem.title}}</a>
+                                    <a class="dropdown-item" href="{{subitem.url | prepend: site.baseurl }}">{{subitem.title}}</a>
                                 {% endfor %}
                             </div>
                             <!--<div class="dropdown-menu pb-3 " aria-labelledby="{{item.text | downcase}}">-->
