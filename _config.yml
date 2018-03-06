@@ -43,6 +43,14 @@ collections:
 
 defaults:
   - scope:
+      type: services
+    values:
+      layout: page_layout
+  - scope:
+      type: applications
+    values:
+      layout: page_layout
+  - scope:
       type: nav_pages
     values:
       layout: page_layout
