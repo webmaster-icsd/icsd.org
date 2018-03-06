@@ -1,0 +1,21 @@
+{% include header.html %}
+<div role="main" class="container">
+    <div id="main-content" class="row px-md-3 px-lg-0">
+        <div id="left-content" class="col-lg-8 py-4 pr-lg-4">
+          <div class="row py-4">
+            <div id="page-title" class="col-12">
+              <h5 class="font-weight-bold">{{page.title}}</h5>
+            </div>
+           </div>
+           <div class="row py-3">
+             <div id="page-content" class="p-3 lh-150">
+               {{content}}
+             </div>
+          </div>
+        </div>
+        <div id="right-content" class=" bg-light col-lg-4 p-4 ">
+            {% include page_sidebar.html %}
+        </div>
+    </div>
+</div>
+{% include footer.html %}

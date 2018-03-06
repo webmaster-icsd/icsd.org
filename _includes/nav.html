@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg navbar-light px-md-3 py-0 px-lg-0 fixed-top bg-white">
+    <div class="container pl-lg-0">
+        <a class="navbar-brand pl-md-3" href="/">
+            <img src="images/logo.svg" height="60" class="pl-xs-5 pl-0 d-inline-block" alt="">
+        </a>
+        <button class="navbar-toggler border-0" type="button" data-toggle="offcanvas"
+                data-target="#offcanvas-collapse-menu"
+                aria-controls="offcanvas-collapse-menu" aria-expanded="false" aria-label="Toggle navigation">
+            <i id="offcanvas-collapse-menu-false" class="text-dark la la-bars"></i>
+            <i id="offcanvas-collapse-menu-true" class="text-dark la la-close d-none"></i>
+        </button>
+
+        <div class="navbar-collapse offcanvas-collapse bg-white" id="offcanvas-collapse-menu">
+            <ul class="navbar-nav ml-auto">
+                {% for item in site.data.menu %}
+                    {% if item.type != 'collection' %}
+                        {% assign navPage = site.nav_pages | where: "title", item.text %}
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ navPage[0].url }}">{{ navPage[0].title }}</a>
+                        </li>
+                    {% else %}
+                        {% assign navCollection = item.text | downcase %}
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="{{navCollection}}"
+                               data-toggle="dropdown"
+                               aria-haspopup="true" aria-expanded="false">{{item.text}}</a>
+                            <div class="dropdown-menu pb-3 " aria-labelledby="{{navCollection}}">
+                                {% for subitem in site.[navCollection] %}
+                                    <a class="dropdown-item" href="{{subitem.url}}">{{subitem.title}}</a>
+                                {% endfor %}
+                            </div>
+                            <!--<div class="dropdown-menu pb-3 " aria-labelledby="{{item.text | downcase}}">-->
+                                <!--{% for subitem in item.subitems %}-->
+                                    <!--<a class="dropdown-item" href="{{subitem.url}}">{{subitem.text}}</a>-->
+                                <!--{% endfor %}-->
+                            <!--</div>-->
+                        </li>
+                    {% endif %}
+                {% endfor %}
+                <li class="nav-item pt-3 pt-lg-1">
+                    <a class="btn btn-sm btn-success" href="https://www.icsd.org/donate">Donate</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
