@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
 
 # Collection Folder
-collections_dir: icsd_collections
+#collections_dir: icsd_collections
 collections:
   nav_pages:
     output: true
