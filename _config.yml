@@ -72,6 +72,7 @@ prose:
       - name: "layout"
         field:
           value: "page_layout"
+          element: "text"
       - name: "tags"
         field:
           element: "multiselect"
