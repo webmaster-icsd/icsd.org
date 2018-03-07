@@ -59,7 +59,7 @@ defaults:
       layout: page_layout
 
 prose:
-  rooturl: '_nav_pages'
+  rooturl: ''
   siteurl: 'https://webmaster-icsd.github.io/icsd.org/'
   media: 'media'
   ignore:
