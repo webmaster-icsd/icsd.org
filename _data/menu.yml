@@ -1,12 +1,9 @@
 - text: Activities
-  type: page
 - text: Calendar
-  type: page
 - text: Services
   type: collection
 - text: Applications
   type: collection
 - text: Islam
-  type: page
 - text: About Us
-  type: page
+- text: Classifieds

@@ -71,6 +71,7 @@ prose:
     _nav_pages:
       - name: "layout"
         field:
+          label: "Layout"
           value: "page_layout"
           element: "text"
       - name: "tags"
