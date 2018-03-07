@@ -67,6 +67,10 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /_scss
+    - /css
+    - /icsd_collections
+    - /js
   metadata:
     _nav_pages:
       - name: "layout"
