@@ -70,11 +70,11 @@ prose:
     - /icsd_collections
     - /js
   metadata:
-    _nav_pages:
+    _nav-pages:
       - name: "layout"
         field:
           label: "Layout"
-          value: "page_layout"
+          value: "page-layout"
           element: "text"
       - name: "tags"
         field:
