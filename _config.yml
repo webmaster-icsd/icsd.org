@@ -75,4 +75,24 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
+    _nav-pages:
+      - name: "layout"
+        field:
+          label: "Layout"
+          value: "page-layout"
+          element: "text"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
 
