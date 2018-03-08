@@ -1,8 +1,14 @@
-- text: Activities
-- text: Calendar
 - text: Services
   type: collection
+- text: Events
+- text: Calendar
 - text: Applications
   type: collection
-- text: About Us
 - text: Classifieds
+  type: collection
+- text: Media
+  type: collection
+- text: About Us
+  type: collection
+
+

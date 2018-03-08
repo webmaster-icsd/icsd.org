@@ -33,8 +33,7 @@ plugins:
 # Collection Folder
 #collections_dir: icsd_collections
 collections:
-  nav_pages:
-    title: :name
+  nav-pages:
     output: true
     permalink: /:title
   services:
@@ -43,20 +42,18 @@ collections:
   applications:
     output: true
     permalink: /:collection/:title
+  about-us:
+    output: true
+    permalink: /:collection/:title
+  media:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
   - scope:
-      type: services
+      path: ""
     values:
-      layout: page_layout
-  - scope:
-      type: applications
-    values:
-      layout: page_layout
-  - scope:
-      type: nav_pages
-    values:
-      layout: page_layout
+      layout: page-layout
 
 prose:
   rooturl: ''
@@ -68,6 +65,7 @@ prose:
     - /_layouts
     - /_includes
     - /_scss
+    - /_sass
     - /css
     - /icsd_collections
     - /js

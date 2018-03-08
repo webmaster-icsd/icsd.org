@@ -1,11 +1,8 @@
 ---
-title: About Us
+title: Visiting Info
 published: true
-layout: page_layout
 tags: ''
 ---
-## Visitation Info
-
 The Islamic Center of San Diego is open for visits from people of all faiths.
 
 Please note that shoes should be worn when entering Offices and the Library and while participating in activities held in the facility's Multi-Purpose room.

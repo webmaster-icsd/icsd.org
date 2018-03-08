@@ -22,7 +22,7 @@ p {
 
 u {
   text-decoration: none;
-  border-bottom:1px dotted;
+  border-bottom: 1px dotted;
 }
 
 .event-day {
@@ -46,12 +46,21 @@ u {
   min-height: 420px;
 }
 
-#page-title-box{
-  background: rgba(232,243,236, 1);
+#page-title-box {
+  background: rgba(232, 243, 236, 1);
 }
-#main-content{
+
+#page-content {
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 1.25rem;
+    padding-bottom: 1rem;
+  }
+}
+
+#main-content {
   min-height: 69vh;
 }
+
 .navbar-light .navbar-nav .nav-link {
   color: #212529;
 }
@@ -62,9 +71,11 @@ u {
   font-weight: inherit;
   border-radius: 0px;
 }
-.dropdown-toggle:after{
+
+.dropdown-toggle:after {
   display: none;
 }
+
 button:focus {
   outline: 0px;
 }
@@ -72,9 +83,6 @@ button:focus {
 .nav-item {
   font-size: 1rem;
   font-weight: 400;
-}
-
-.nav-item {
   display: block;
   padding-left: .5rem;
 }
@@ -128,21 +136,18 @@ button:focus {
   padding-top: 30px;
   height: 0;
   overflow: hidden;
-}
-
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  iframe, object, embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
 }
 
 /* Medium devices (desktops, 992px and up) */
 @media (max-width: 991.98px) {
-  .container{
+  .container {
     min-width: 100%;
     max-width: 100%;
     /*padding-left: 2rem;*/
