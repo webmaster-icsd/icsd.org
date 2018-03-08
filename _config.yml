@@ -55,7 +55,7 @@ prose:
     - /icsd_collections
     - /js
   metadata:
-    _nav-pages:
+    _services:
       - name: "layout"
         field:
           label: "Layout"
