@@ -1,6 +1,6 @@
 ---
 layout: page-layout
-published: false
+published: true
 title: Contact Us
 ---
 Contact us page
