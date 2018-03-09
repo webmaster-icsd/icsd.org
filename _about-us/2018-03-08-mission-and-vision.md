@@ -1,6 +1,6 @@
 ---
 layout: page-layout
-published: false
+published: true
 title: Mission and Vision
 ---
 Mission and vision page
