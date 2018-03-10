@@ -20,7 +20,7 @@ $(function () {
                     title:event.title,
                     placement:'right',
                     content: "<p>"+ event.description||"" +"</p>",
-                    trigger: 'focus'}
+                    trigger: 'hover'}
                 ).popover('show');
             },
             eventClick: function(event, jsEvent, view) {
