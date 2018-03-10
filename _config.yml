@@ -2,10 +2,10 @@ title: Islamic Center Of San Diego
 email: webmaster@icsd.org
 description: >- # this means to ignore newlines until "baseurl:"
   Build Strong Commmunities.
-baseurl: "/icsd.org" # the subpath of your site, e.g. /blog
-url: "https://webmaster-icsd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/icsd.org" # the subpath of your site, e.g. /blog
+#url: "https://webmaster-icsd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: IslamicCenterSD
 github_username:  webmaster.icsd
 
@@ -38,7 +38,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: page-layout
+      layout: page-with-sidebar-layout
 
 prose:
   rooturl: ''
@@ -59,7 +59,7 @@ prose:
       - name: "layout"
         field:
           label: "Layout"
-          value: "page-layout"
+          value: "page-with-sidebar-layout"
           element: "text"
       - name: "title"
         field:
@@ -79,27 +79,23 @@ prose:
       - name: "layout"
         field:
           label: "Layout"
-          value: "page-layout"
-          element: "text"
+          value: "page-with-sidebar-layout"
+          element: "select"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Page with sidebar"
+              value: "page-with-sidebar-layout"
+            - name: "Page with full width"
+              value: "page-with-full-width-layout"
       - name: "title"
         field:
           label: "Title"
           element: "text"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
     _applications:
       - name: "layout"
         field:
           label: "Layout"
-          value: "page-layout"
+          value: "page-with-sidebar-layout"
           element: "text"
       - name: "title"
         field:
@@ -119,7 +115,7 @@ prose:
       - name: "layout"
         field:
           label: "Layout"
-          value: "page-layout"
+          value: "page-with-sidebar-layout"
           element: "text"
       - name: "title"
         field:
@@ -139,7 +135,7 @@ prose:
       - name: "layout"
         field:
           label: "Layout"
-          value: "page-layout"
+          value: "page-with-sidebar-layout"
           element: "text"
       - name: "title"
         field:
