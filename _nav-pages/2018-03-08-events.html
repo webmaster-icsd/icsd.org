@@ -1,0 +1,9 @@
+---
+title:  "Events"
+layout: collection-with-sidebar-layout
+collection_name: events
+---
+    
+    {% for item in site.[page.collection_name] %}
+      <h5><a href="{{site.url}}{{site.baseurl}}/{{ item.url }}">{{ item.title }}</a></h5>
+    {% endfor %}

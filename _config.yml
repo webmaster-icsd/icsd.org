@@ -169,5 +169,19 @@ prose:
           element: "text"
       - name: "collection_name"
         field:
-          element: "hidden"
+          element: "text"
+          value: "classifieds"
+    _events:
+      - name: "layout"
+        field:
+          label: "Layout"
+          value: "collection-with-sidebar-layout"
+          element: "text"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+      - name: "collection_name"
+        field:
+          element: "text"
           value: "classifieds"
