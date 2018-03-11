@@ -33,6 +33,12 @@ collections:
   media:
     output: true
     permalink: /:collection/:title
+  classifieds:
+    output: true
+    permalink: /:collection/:title
+  events:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -151,4 +157,17 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-
+    _classifieds:
+      - name: "layout"
+        field:
+          label: "Layout"
+          value: "collection-with-sidebar-layout"
+          element: "text"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+      - name: "collection_name"
+        field:
+          element: "hidden"
+          value: "classifieds"

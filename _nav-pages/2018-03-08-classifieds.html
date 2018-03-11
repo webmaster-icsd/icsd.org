@@ -1,0 +1,10 @@
+---
+title:  "Classifieds"
+layout: collection-with-sidebar-layout
+collection_name: classifieds
+---
+    
+    {% for item in site.[page.collection_name] %}
+      <h5><a href="{{ item.url }}">{{ item.title }}</a></h5>
+    {% endfor %}
+    
