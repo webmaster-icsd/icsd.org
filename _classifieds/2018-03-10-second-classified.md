@@ -1,7 +1,7 @@
 ---
 collection_name: classifieds
 layout: collection-with-sidebar-layout
-published: false
+published: true
 title: Second classified
 ---
 ## A New Post
