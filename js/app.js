@@ -26,11 +26,12 @@ $(function () {
             eventClick: function(event, jsEvent, view) {
                 return false;
             },
+            defaultView:'listWeek',
             themeSystem: 'bootstrap4',
             header: {
-                left: 'prev,next today',
+                left: 'prev,next',
                 center: 'title',
-                right: 'month,agendaWeek,agendaDay,listMonth'
+                right: 'listWeek,month,agendaWeek'
             },
             eventLimit: true, // allow "more" link when too many events
             buttonText : {
