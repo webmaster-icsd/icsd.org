@@ -15,7 +15,9 @@ body {
   font-size: 0.85rem;
   letter-spacing: .025rem;
 }
-
+img {
+  max-width: 100%;
+}
 p {
   color: #737373;
 }
@@ -50,7 +52,7 @@ u {
   background: rgba(232, 243, 236, 1);
 }
 
-#page-content {
+#page-content,#collection-content {
   h1, h2, h3, h4, h5, h6 {
     font-size: 1.25rem;
     padding-bottom: 1rem;
