@@ -72,6 +72,9 @@ u {
   border-radius: 0px;
 }
 
+.dropdown-item{
+  font-size: .85rem;
+}
 .dropdown-toggle:after {
   display: none;
 }
@@ -81,7 +84,6 @@ button:focus {
 }
 
 .nav-item {
-  font-size: 1rem;
   font-weight: 400;
   display: block;
   padding-left: .5rem;
@@ -157,6 +159,12 @@ button>span.la {
 }
 .fc-content {
   text-overflow: ellipsis;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background: red;
 }
 
 /* Medium devices (desktops, 992px and up) */

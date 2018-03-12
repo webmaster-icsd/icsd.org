@@ -39,6 +39,9 @@ collections:
   events:
     output: true
     permalink: /:collection/:title
+  islam:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -185,3 +188,17 @@ prose:
         field:
           element: "text"
           value: "classifieds"
+    _islam:
+      - name: "layout"
+        field:
+          label: "Layout"
+          value: "collection-with-sidebar-layout"
+          element: "text"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+      - name: "collection_name"
+        field:
+          element: "text"
+          value: "islam"
