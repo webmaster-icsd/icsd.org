@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: classifieds
-published: false
+published: true
 title: Classified 4
 ---
 ## A New Post
