@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: classifieds
-published: false
+published: true
 title: Brother Looking for a room to rent - $600/month
 ---
 ## A New Post
