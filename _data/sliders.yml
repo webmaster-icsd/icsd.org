@@ -1,0 +1,11 @@
+slides:
+  - title: 'Introduction to Islam'
+    description: 'Join us <u>every Sunday at 1230p</u> at Islamic Center of San Diego to learn about Islam.'
+    image-url: 'images/icsd-musallah.jpg'
+    target-url: 'http://www.caretweb.com'
+    target-window: 'self'
+  - title: 'Introduction to Islam - In Urdu'
+    description: 'Join us <u>every Sunday at 1230p</u> at Islamic Center of San Diego to learn about Islam.'
+    image-url: 'images/icsd-musallah.jpg'
+    target-url: 'http://www.icsd.org'
+    target-window: 'blank'

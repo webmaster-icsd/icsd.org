@@ -4,10 +4,10 @@ var GOOGLE_API_KEY = 'AIzaSyDzV4tcu-80oWSp0MsR5r2CFD1i6PgSTys';
 $(function () {
     'use strict'
     var upcomingEvents = $('#upcoming-events');
+    var eventsCalendar = $("#event-calendar");
     if (upcomingEvents.length) {
         loadUpcomingEvents();
     }
-    var eventsCalendar = $("#event-calendar");
     if (eventsCalendar.length) {
         eventsCalendar.fullCalendar({
             googleCalendarApiKey: GOOGLE_API_KEY,
@@ -49,12 +49,9 @@ $(function () {
         })
     }
     $(".carousel").swipe({
-
         swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
-
             if (direction == 'left') $(this).carousel('next');
             if (direction == 'right') $(this).carousel('prev');
-
         },
         allowPageScroll:"vertical"
     });
@@ -63,7 +60,6 @@ $(function () {
 var loadUpcomingEvents = function () {
     var calendarEventTemplateHtml = $('#calender-event-template').html();
     var calendarEventHtml;
-
     $.ajax({
         url: "https://www.googleapis.com/calendar/v3/calendars/" + GOOGLE_CALENDAR_ID + "/events",
         data: {
