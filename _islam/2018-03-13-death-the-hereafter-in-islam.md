@@ -4,7 +4,6 @@ collection_name: islam
 published: false
 title: Death & the Hereafter in Islam
 ---
-## Death & the Hereafter in Islam
 “Every soul shall taste death.”Qur’an 29:57
 
 ### Death is Near
