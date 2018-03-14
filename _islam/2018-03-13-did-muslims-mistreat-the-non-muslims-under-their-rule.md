@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: Did Muslims Mistreat the Non-Muslims Under Their Rule?
 ---
 Allah Almighty orders Muslims to treat the people of other faiths, as long as they do not fight the Muslims with kindness, and justice. See Quranic translation (60:7-8): “Allâh does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes. Verily, Allâh loves those who deal with equity. (8) It is only as regards those who fought against you on account of religion, and have driven you out of your homes, and helped to drive you out, that Allâh forbids you to befriend them. And whosoever will befriend them, then such are the Zâlimûn (wrong-doers those who disobey Allâh).”
