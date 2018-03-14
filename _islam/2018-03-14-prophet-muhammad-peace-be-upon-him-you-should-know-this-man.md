@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: 'Prophet Muhammad (peace be upon him) : You Should Know This Man'
 ---
 
@@ -34,8 +34,7 @@ Muhammad (peace be upon him) was all for forgiveness and no amount of crime or a
 ### Equality
 “Indeed the most honoured of you in the sight of Allah is the most righteous of you.” Qur’an 49:13
 
-In the following sayings of the Prophet (peace be upon him), he taught that all humans are equal in the sight of God:
-
+In the following sayings of the Prophet (peace be upon him), he taught that all humans are equal in the sight of God:  
 “All humanity is from Adam and Adam is from clay. There is no superiority for an Arab over a non-Arab, nor for a black over a white; except through piety.”
 
 “God does not judge you according to your appearance and your wealth, but He looks at your hearts and looks into your deeds.”
@@ -71,8 +70,7 @@ The Prophet (peace be upon him) used to prevent people from standing up for him 
 
 Addressing his companions, he said: “Allah has revealed to me, that you must be humble. No one should boast over one another, and no one should oppress another.”
 
-Such was his humbleness that he was fearful of being worshipped, a privilege only befitting God:
-
+Such was his humbleness that he was fearful of being worshipped, a privilege only befitting God:  
 “Do not exceed bounds in praising me as the Christians do in praising Jesus, Son of Mary. I am only the Lord’s servant; then call me the Servant of Allah and His Messenger.”
 
 ### The Ideal Husband
