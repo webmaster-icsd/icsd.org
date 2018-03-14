@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: Death & the Hereafter in Islam
 ---
 “Every soul shall taste death.”Qur’an 29:57
@@ -72,15 +72,15 @@ Those who believe in Allah as the only God worthy of being worshipped, and perfo
 Prophet Muhammad (peace be upon him) narrated that Allah said:  
 “I have prepared for My righteous slaves such excellent things as no eye has ever seen, nor an ear has ever heard, nor a human heart can ever think of.”
 
-This is in sharp contrast to the people who deny the Oneness of Allah, who will be told:
-
+This is in sharp contrast to the people who deny the Oneness of Allah, who will be told:  
 “This is the Hell which you were promised! Burn therein this day, for that which you used to disbelieve.” Qur’an 36:63-64
 
 For the disbelievers is the worst of punishments:  
 “Indeed, Hell has been lying in wait for the transgressors, a place of return, in which they will remain for ages [unending]. They will not taste therein any coolness or drink except scalding water and dirty wound discharges – an appropriate recompense [according to their evil acts]! Indeed, they were not expecting an account, and denied our verses with emphatic denial. But all things We have recorded in a Book. ‘So taste the penalty, and never will We (God) increase you except in torment.’ ” Qur’an 78:21-30
 
 ### Conclusion
-“O man! What has deceived you concerning your Lord, the Most Generous? Who created you, fashioned you perfectly, and gave you due proportion. In whatever form He willed, He put you together. No! But you deny the Recompense (reward for good deeds and punishment for evil deeds on the Day of Judgement).” Qur’an 82:6-9  
+“O man! What has deceived you concerning your Lord, the Most Generous? Who created you, fashioned you perfectly, and gave you due proportion. In whatever form He willed, He put you together. No! But you deny the Recompense (reward for good deeds and punishment for evil deeds on the Day of Judgement).” Qur’an 82:6-9
+
 “Indeed, the righteous will be in pleasure, and indeed, the wicked will be in Hellfire.” Qur’an 82:13-14
 
 Death is inevitable. Our purpose in life is to worship Allah alone, perform acts of righteousness and to avoid all that is forbidden. Our fate is being decided on the basis of our present actions, so we can either make use of our opportunities on Earth to ensure an eternal place for ourselves in Paradise, or we can waste them and condemn ourselves to eternal punishment in Hell.
