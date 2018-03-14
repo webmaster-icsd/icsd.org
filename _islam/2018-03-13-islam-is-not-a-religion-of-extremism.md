@@ -4,7 +4,6 @@ collection_name: islam
 published: false
 title: Islam is not a Religion of Extremism
 ---
-## Islam is not a Religion of Extremism
 Allah says:  
 “…Whosoever kills an innocent human being, it shall be as if he has killed all mankind, and whosoever saves the life of one, it shall be as if he had saved the life of all mankind…” Qur’an 5:32
 
@@ -26,8 +25,7 @@ The problem of ignorance is highlighted by a survey which revealed that more tha
 The prevalence of media bias and ignorance regarding Islam can be countered by understanding Islam through its proper teachings. That means referring to the Qur’an (which Muslims believe to be the word of God) and the authentic sayings of the Prophet Muhammad (peace be upon him). Through the proper understanding of these teachings, one will discover Islam to be completely against any form of extremism.
 
 ### How the Qur’an can be misunderstood
-When reading through the Qur’an or the sayings of the Prophet (peace be upon him), one must understand the context in which the wording applies. The following verse of the Qur’an is a favourite amongst those seeking to mislead people about Islam:
-
+When reading through the Qur’an or the sayings of the Prophet (peace be upon him), one must understand the context in which the wording applies. The following verse of the Qur’an is a favourite amongst those seeking to mislead people about Islam:  
 “And kill them wherever you find them, and expel them from where they expelled you, as persecuting people to sway them from God’s Religion is worse than killing. But do not fight them at the Sacred Mosque, unless they fight you there. But if they do fight you, then slay them; This is the recompense of the disbelievers.” Qur’an 2:191
 
 On occasions, this verse has been dangerously trimmed down to the following:
@@ -36,6 +34,7 @@ On occasions, this verse has been dangerously trimmed down to the following:
 The obvious question is, “Kill who?”. To answer this question, one should read the verses before and after verse 2:191.
 
 “And fight in the way of Allah those who fight with you, and do not exceed the limits, surely Allah does not love those who exceed the limits.“ Qur’an 2:190
+
 The above verse mentions fighting as a means of self defence (i.e. with those who fight you). The verse after 2:191 is:  
 “But if they cease, Allah is Oft-forgiving, Most Merciful.” Qur’an 2:192
 
@@ -47,7 +46,7 @@ Hence, the above verse can only be applied in such circumstances.
 
 This example demonstrates that verses in the Qur’an should be understood in their proper context since verses were revealed in stages in relation to particular situations, over a period of 23 years. It is also important to note that the Qur’an was revealed in Arabic. Therefore, translations into different languages may be misleading and/or inaccurate.
 
-Permissible Warfare/Fighting
+### Permissible Warfare/Fighting
 There can be no doubt that Muslims (like anybody else) have a legitimate right to fight against aggression or when oppressed.
 
 Islam teaches that warfare is permitted in order to preserve the wellbeing of the community or to prevent oppression from spreading – this may be in the context of defensive or offensive warfare depending on the particular situation. Islam, just like any ‘way of life’ that wants to ensure its survival, has the right to defend itself when war is declared against it. In the Qur’an (22:39) we read:  
