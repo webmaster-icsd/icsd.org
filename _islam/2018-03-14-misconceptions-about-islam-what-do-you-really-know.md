@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: 'Misconceptions About Islam: What do you Really Know?'
 ---
 Islam is one of the world’s largest religions yet it is also one of the most misunderstood. For various reasons – be they political, economic, biased media or fear of the “other” – mistruths and misconceptions have been spread about Islam. The key to understanding Islam and Muslims is to resist stereotypes and examine each situation according to Islamic teachings and authentic sources.
@@ -17,7 +17,7 @@ Muslims cherish noble and universal values such as:
 – allowing freedom of religion  
 – respecting parents, relatives, neighbours, and the elderly  
 – being charitable, generous, and looking after the poor and needy  
-– not lying, cheating, swearing or backbiting anyone
+– not lying, cheating, swearing or backbiting anyone  
 Muslims are required to contribute positively towards society and to always conduct themselves with the highest of morals and best of actions.
 
 ### Misconception 2 – “Muslims Worship a New God Called Allah”
@@ -91,7 +91,7 @@ Although it is a duty on Muslims to convey and share the beautiful message of Is
 ### Consider the following:
 Indonesia has the largest Muslim population yet no battles were fought to bring Islam there.
 
-There are around 14 million Arab Coptic Christians that have been living in the heart of Arabia for generations.
+There are around 14 million Arab Coptic Christians that have been living in the heart of Arabia for generations.  
 Islam is one of the fastest growing religions in the western world today.  
 Although fighting oppression and promoting justice are valid reasons for waging jihad, forcing people to accept Islam is not one of them.  
 Muslims ruled Spain for around 800 years yet never coerced people to convert.
