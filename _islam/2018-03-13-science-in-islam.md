@@ -1,10 +1,9 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: Science in Islam
 ---
-## Science in Islam
 “We (God) shall show them Our signs in the Universe and within themselves, until it becomes clear to them that this is the Truth.” Quran 41:53
 
 The Quran, the book of Islam, is the final book of revelation from God to humanity and the last in the line of revelations given to the Prophets.
@@ -16,13 +15,13 @@ The Quran was revealed at a time when Science was primitive; there were no teles
 Some of the many scientific facts found in the Quran include:
 
 ### Fact 1 - Origin of Life
-“And We (God) made every living thing from water. Will they not believe?”Quran 21:30
+“And We (God) made every living thing from water. Will they not believe?” Quran 21:30  
 Water is pointed out as the origin of all life. All living things are made of cells and we now know that cells are mostly made of water. This was discovered only after the invention of the microscope. In the deserts of Arabia, it would be inconceivable to think that someone would have guessed that all life came from water.
 
 ### Fact 2 - Human Embryonic Development
-God speaks about the stages of man’s embryonic development:
+God speaks about the stages of man’s embryonic development:  
+“We (God) created man from an extract of clay. Then We made him as a drop in a place of settlement, firmly fixed. Then We made the drop into an alaqah [leech, suspended thing, and blood clot], then We made the alaqah into a mudghah [chewed substance]…” Quran, 23:12-14
 
-“We (God) created man from an extract of clay. Then We made him as a drop in a place of settlement, firmly fixed. Then We made the drop into an alaqah [leech, suspended thing, and blood clot], then We made the alaqah into a mudghah [chewed substance]…” Quran, 23:12-14  
 The Arabic word “alaqah” has three meanings: a leech, a suspended thing and a blood clot. “Mudghah” means a chewed substance. Embryology scientists have observed that the usage of these terms in describing the formation of the embryo is accurate and in conformity with our current scientific understanding of the development process.
 
 Little was known about the staging and classification of human embryos until the twentieth century, which means that the descriptions of the human embryo in the Quran cannot be based on scientific knowledge from the seventh century.
