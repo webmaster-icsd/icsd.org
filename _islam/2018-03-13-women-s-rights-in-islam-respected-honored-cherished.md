@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: 'Women''s Rights in Islam: Respected, Honored & Cherished'
 ---
 Women in Islam are thought to be subjugated, degraded, oppressed – but are they really? Are millions of Muslims simply that oppressive or are these misconceptions fabricated by a biased media?
