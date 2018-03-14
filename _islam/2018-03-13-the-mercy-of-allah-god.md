@@ -91,4 +91,3 @@ Allah is the Most-Merciful, however, He is also Swift in Reckoning. One cannot t
 Muslims are encouraged to have hope of reward for good deeds, while being concerned about sins they may perform. When they commit sins, they repent sincerely, and are hopeful of being forgiven.
 And finally, they feel content with the words of their Creator, and keep it close to their heart:  
 “Surely Allah is Most Gentle, Ever Compassionate to people.” Qur’an 22:65
-
