@@ -4,7 +4,7 @@ collection_name: islam
 published: false
 title: Death & the Hereafter in Islam
 ---
-Death & the Hereafter in Islam
+## Death & the Hereafter in Islam
 “Every soul shall taste death.”Qur’an 29:57
 
 ### Death is Near
@@ -12,7 +12,7 @@ Death & the Hereafter in Islam
 
 Death is the reality from which none can escape. It draws nearer every day; every hour; every minute. According to the CIA’s The World Factbook 2007, almost two people die each second. That’s a staggering 57.9 million people each year! Every single being will reach this inescapable fate, regardless of their age, health, background, social status or piety. Where are the past kings, the billionaires and the powerful? Where are the once beautiful, the famous, and the intellectual elite?
 
-The Reality of Death
+### The Reality of Death
 Death is not a disaster, but simply a passing from this world onto the next. It should make us reflect and ponder about the purpose of life, and what will become of us after death.
 
 Allah (God) has informed us in the Qur’an that He has created us with the purpose of worshipping Him alone and that He made this life a test to see who will fulfil that purpose:  
@@ -25,6 +25,7 @@ One does not prepare for death by pre-paying funeral services or selecting a cof
 
 ### The Moment of Death
 “Let every person consider what they have sent ahead for tomorrow.” Qur’an 59:18
+
 Every day we see examples of death. We perceive a peaceful death as one with neither pain nor violence. However, this is not necessarily the case. When a person dies, the soul leaves the body, and so the physical appearance of the body may not reflect the situation of the soul. The peacefulness or unease of the soul will be a direct result of how well a person fulfilled their purpose in this life, and has little to do with the cause of death.
 
 Consider an example of two people who have a one-way ticket to a destination they have never been to before. The first person takes the time to learn about the language, culture and practices relating to the destination. He acquires the right currency and vaccinations, and when it comes time to travel, he arrives without any surprises. He is safe and content, because he has taken the time to prepare.
@@ -51,12 +52,13 @@ Hence it is an absolute demand of justice that there be a Day of Judgement on wh
 “Shall We then treat the People of Faith like the People of Sin? What is the matter with you? How do you judge?” Qur’an 68:35-36
 
 ### The Day of Judgement
-“Death, from which you are running away from, will certainly catch up with you. Then you will be returned to the Knower of the Unseen and the Visible (i.e. Allah) and He will inform you about what you did.”Qur’an 62:8
+“Death, from which you are running away from, will certainly catch up with you. Then you will be returned to the Knower of the Unseen and the Visible (i.e. Allah) and He will inform you about what you did.” Qur’an 62:8
+
 Everyone’s deeds in this life are meticulously recorded and preserved, as Allah says:  
-“And the Book (of Deeds) will be placed open, and you will see the sinful in great terror because of what is recorded therein. They will say, “Ah! Woe to us! What is this book that leaves nothing small or great, but takes account thereof!” They will find all that they did placed before them. And your Lord does injustice to no one.”Qur’an 18:49
+“And the Book (of Deeds) will be placed open, and you will see the sinful in great terror because of what is recorded therein. They will say, “Ah! Woe to us! What is this book that leaves nothing small or great, but takes account thereof!” They will find all that they did placed before them. And your Lord does injustice to no one.” Qur’an 18:49
 
 We will be amazed by the accuracy of such a record of all our actions, as we will be reminded of matters long forgotten. Allah says,  
-“Allah has kept account of it, while they have forgotten it.”Qur’an 58:6
+“Allah has kept account of it, while they have forgotten it.” Qur’an 58:6
 
 Thinking deeply on this should make us ashamed of committing any sin while knowing that it will be recorded against us and exposed on the Day of Judgement in front of Allah.
 
