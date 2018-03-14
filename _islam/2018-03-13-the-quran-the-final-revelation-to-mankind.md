@@ -1,10 +1,9 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: The Quran - The Final Revelation to Mankind
 ---
-## The Quran – The Final Revelation to Mankind
 ### What is the Qur’an?
 
 ### The Word of God
