@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: The Burqa & Niqab – Uncovering the Facts
 ---
 
@@ -63,10 +63,10 @@ Wearing the burqa does not go against acceptable community values. Community val
 No doubt, seeing women wearing the burqa is strange for many people. It is not a common sight, as only a minority of Muslim women wear it, and as such it is new and unfamiliar to many. This fact does not make the burqa something which ought to be feared or hated. The fierce media campaign of fear which has been launched against the burqa has caused many people to pass judgment on this Islamic practice without having any knowledge of its significance. It is important to consider who benefits from such prejudiced propaganda. Some political parties, for example, capitalise on people’s misunderstandings and fears in order to make political gains.
 
 ### Does it make sense to pass judgement on someone without first verifying the facts?
-The Right to Freedom of Religion and Expression
+The Right to Freedom of Religion and Expression  
 Modern societies were founded on the basis of freedom and liberty. This entitles their members to freely practise their own religion and dress as they wish. Banning the burqa goes against these very core values, and is a form of hypocrisy and double standards. In fact, there are international laws which explicitly ensure people’s right to expression and to practise their religion:
 
-International Covenant on Civil and Political Rights
+International Covenant on Civil and Political Rights  
 Article 18:1. Everyone shall have the right to freedom of thought, conscience and religion. This right shall include freedom to… manifest his religion or belief in worship, observance, practice and teaching.
 
 Furthermore, banning a religious item based merely on emotional rhetoric may open the door to further discrimination and human rights abuses. It is worth noting that Nazi Germany first began with minor discrimination against Jews and other minorities, then, when that was accepted, proceeded with more severe repression.
