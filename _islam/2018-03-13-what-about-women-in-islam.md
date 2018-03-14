@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: What about Women in Islam?
 ---
 Women were liberated by Islam. It was a revolution much more significant than the women’s rights liberation movement in the 1960s. Women in pre-Islamic Arabia were treated like belongings and were inherited when their husbands died. They had no marital rights and promiscuity was rampant. Female girls were buried alive just because they were females and though to bring shame to a family if it had too many girls, and justifying what they considered “honor killing”.
