@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: Who is Prophet Mohammed?
 ---
 ## Who is Prophet Mohammed?
