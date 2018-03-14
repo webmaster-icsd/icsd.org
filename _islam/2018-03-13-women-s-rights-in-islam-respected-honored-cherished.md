@@ -7,7 +7,8 @@ title: 'Women''s Rights in Islam: Respected, Honored & Cherished'
 ## Women's Rights in Islam: Respected, Honored & Cherished
 Women in Islam are thought to be subjugated, degraded, oppressed – but are they really? Are millions of Muslims simply that oppressive or are these misconceptions fabricated by a biased media?
 
-“And for women are rights over men, similar to those of men over women.”Qur’an 2:228  
+“And for women are rights over men, similar to those of men over women.”Qur’an 2:228
+
 Over fourteen hundred years ago, Islam gave women rights that women in the West have only recently began to enjoy. In the 1930’s, Annie Besant observed, “It is only in the last twenty years that Christian England has recognised the right of woman to property, while Islam has allowed this right from all times. It is a slander to say that Islam preaches that women have no souls.” (The Life and Teachings of Mohammed, 1932).
 
 Men and women all descended from a single person – the Prophet Adam (peace be upon him). Islam does not accept for either of them anything but justice and kind treatment.
