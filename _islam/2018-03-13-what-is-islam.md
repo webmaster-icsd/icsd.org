@@ -2,7 +2,7 @@
 layout: collection-with-sidebar-layout
 collection_name: islam
 published: true
-title: What is islam
+title: The Mercy of Allah
 ---
 
 page 1: The Mercy of Allah (God)
