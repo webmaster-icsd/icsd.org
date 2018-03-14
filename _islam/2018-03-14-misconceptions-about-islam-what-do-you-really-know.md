@@ -11,7 +11,7 @@ Islam is one of the world’s largest religions yet it is also one of the most m
 
 Some people allege that Islamic values are somehow incompatible with decent “Western” values. Such claims could not be further from the truth.
 
-Muslims cherish noble and universal values such as:
+Muslims cherish noble and universal values such as:  
 – being honest and just  
 – keeping one’s word  
 – allowing freedom of religion  
