@@ -1,10 +1,9 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: Jesus in Islam
 ---
-## Jesus in Islam
 “[Jesus] said, ‘Indeed, I am the slave of Allah. He has given me the Scripture and made me a prophet.’ ” Qur’an 19:30
 
 ### The Truth about Jesus
@@ -58,7 +57,8 @@ As an honourable obedient Messenger of God, Jesus submitted willingly to God’s
 ### The Miracles of Jesus
 Jesus performed great miracles by the will and permission of God. One of his greatest miracles was that he was conceived with no father. He also spoke as a baby in the cradle to defend his mother against the children of Israel who accused her of fornication.
 
-“He (Jesus) will speak to the people in the cradle and in manhood, and he will be one of the righteous.” Qur’an 3:46  
+“He (Jesus) will speak to the people in the cradle and in manhood, and he will be one of the righteous.” Qur’an 3:46
+
 Jesus also gave life to the dead, cured the leper and the blindall by the will of God:  
 “Indeed, I have come to you with a sign from your Lord, that I design for you out of clay like the form of a bird, then I breathe into it and it becomes a bird with God’s permission; and I heal the blind and the leper, and bring the dead to life with God’s permission and I inform you of what you eat and what you store in your houses; most surely there is a sign in this for you, if you are believers.” Qur’an 3.49
 
@@ -78,5 +78,4 @@ He will descend as a Muslim (one who submits to God’s laws) and call others to
 Muslims view Jesus in the same way they view all Prophets of God. They respect and love him dearly, however, they do not worship him, as worship is for God alone who created him and everything that exists. Jesus is not god, nor is he the son of god, nor is he three entities in one.
 
 God tells the Muslims to come to common terms and understanding between them and the People of the Scriptures (Jews and Christians). He says:
-
 “Say: ‘O People of the Scripture! Come to a word that is equitable between us and you: that we will not worship anything except Allah and not associate anything with Him and not take one another as lords instead of Allah.” But if they turn away, then say, ‘Bear witness that we are Muslims [submitting to God].’” Qur’an 3:64
