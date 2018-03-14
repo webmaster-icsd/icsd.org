@@ -1,10 +1,9 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: islam
-published: false
+published: true
 title: Prophethood in Islam
 ---
-##  Prophethood in Islam
 Allah (God), the Creator of the universe and everything in it, created humans for a noble purpose: to worship Him alone and lead a virtuous life based on His teachings and guidance. However, one cannot fulfil this purpose without receiving clear guidelines from Allah. Allah, the Most Merciful and Just, did not leave us to wander the Earth aimlessly. In order to inform us of our purpose, Allah appointed certain individuals to communicate and demonstrate His message to all of mankind. These individuals are known as Prophets, which include Adam, Noah, Abraham, Moses, Jesus and Muhammad – may peace be upon them all.
 
 ### The Characteristics of Prophets
