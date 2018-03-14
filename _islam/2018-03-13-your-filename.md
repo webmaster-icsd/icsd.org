@@ -2,7 +2,7 @@
 layout: collection-with-sidebar-layout
 collection_name: islam
 published: false
-title: ''
+title: 'Islam Q&A: Frequently Asked Questions'
 ---
 ## Islam Q&A: Frequently Asked Questions
 ### WHAT is Islam and who are Muslims?
