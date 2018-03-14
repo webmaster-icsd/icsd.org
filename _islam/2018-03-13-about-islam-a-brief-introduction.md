@@ -39,7 +39,7 @@ The most rational explanation for the many unique and miraculous aspects of the 
 ### 4. Belief in the Prophets
 Muslims believe that thousands of Prophets were sent by Allah, at least one to every nation, to convey God’s revelation. These Prophets include Adam, Noah, Abraham, David, Joseph, Moses, Jesus and Muhammad (peace be upon them all). Their mission was to return people to the worship of the One True God, to serve as practical examples of how to obey God, and to guide people to the path of salvation. Prophets do not share in any part of God’s divinity, and any type of prayer or worship towards the Prophets, or to God through them, is strictly forbidden and considered a violation of God’s right to be worshipped alone.
 
-– Prophet Jesus
+– Prophet Jesus  
 Muslims believe that Jesus is an honourable prophet of God, born miraculously through his virgin mother Mary. He performed many miracles with the permission of God, such as healing the sick, curing the blind and speaking as a newborn defending his mother from accusations. Although Muslims respect and love Jesus, they do not worship him. He is not considered the son of God, nor part of a trinity, nor does he share in any of God’s perfect attributes. God says:  
 “It is not befitting for Allah to take a son; exalted is He! When he decrees an affair, He only says, ‘Be’ and it is.” Quran 19:35
 
