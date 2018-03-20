@@ -25,9 +25,9 @@ layout: home-layout
         <a class=""> View All</a>
       </div>
     </div>
-
-    {% for post in site.announcement | sort: 'date' | reverse %}
-      {{post.content}}
+    {% assign announcements = site.announcement | sort: 'date' | reverse %}
+    {% for announcement in announcements limit:1 %}
+      {{announcement.content}}
     {% endfor %}
 
   </div>
