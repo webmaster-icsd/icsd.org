@@ -2,7 +2,7 @@
 layout: collection-with-sidebar-layout
 collection_name: annoucement
 published: false
-title: ''
+title: Announcements 4
 ---
 Save a Life – Donate Blood
 
