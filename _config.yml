@@ -42,6 +42,9 @@ collections:
   islam:
     output: true
     permalink: /:collection/:title
+  announcement:
+    output: true
+    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -202,3 +205,17 @@ prose:
         field:
           element: "text"
           value: "islam"
+    _announcement:
+      - name: "layout"
+        field:
+          label: "Layout"
+          value: "collection-with-sidebar-layout"
+          element: "text"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+      - name: "collection_name"
+        field:
+          element: "text"
+          value: "annoucement"

@@ -14,19 +14,20 @@ $(function () {
             events: {
                 googleCalendarId: GOOGLE_CALENDAR_ID
             },
-            eventRender: function(event, element) {
+            eventRender: function (event, element) {
                 element.popover({
-                    html:true,
-                    title:event.title,
-                    placement:'right',
-                    content: "<p>"+ event.description||"" +"</p>",
-                    trigger: 'hover'}
+                        html: true,
+                        title: event.title,
+                        placement: 'right',
+                        content: "<p>" + event.description || "" + "</p>",
+                        trigger: 'hover'
+                    }
                 ).popover('show');
             },
-            eventClick: function(event, jsEvent, view) {
+            eventClick: function (event, jsEvent, view) {
                 return false;
             },
-            defaultView:'listMonth',
+            defaultView: 'listMonth',
             themeSystem: 'bootstrap4',
             header: {
                 left: 'prev,next',
@@ -34,14 +35,14 @@ $(function () {
                 right: 'listMonth,month,agendaWeek'
             },
             eventLimit: true, // allow "more" link when too many events
-            buttonText : {
-                today:    'Today',
-                month:    'Month',
-                week:     'Week',
-                day:      'Day',
-                list:     'List'
+            buttonText: {
+                today: 'Today',
+                month: 'Month',
+                week: 'Week',
+                day: 'Day',
+                list: 'List'
             },
-            bootstrapFontAwesome:{
+            bootstrapFontAwesome: {
                 prev: 'la la la-angle-left',
                 next: 'la la la-angle-right'
             }
@@ -49,11 +50,21 @@ $(function () {
         })
     }
     $(".carousel").swipe({
-        swipe: function(event, direction, distance, duration, fingerCount, fingerData) {
+        swipe: function (event, direction, distance, duration, fingerCount, fingerData) {
             if (direction == 'left') $(this).carousel('next');
             if (direction == 'right') $(this).carousel('prev');
         },
-        allowPageScroll:"vertical"
+        allowPageScroll: "vertical"
+    });
+
+    $('form').submit(function (event) {
+        $.ajax({
+            type: 'POST', // define the type of HTTP verb we want to use (POST for our form)
+            url: this.action, // the url where we want to POST
+            data: $(this).serialize(), // our data object
+            dataType: 'json' // what type of data do we expect back from the server
+        });
+        event.preventDefault();
     });
 });
 
