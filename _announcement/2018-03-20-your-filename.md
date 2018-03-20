@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection_name: annoucement
-published: false
+published: true
 title: Announcements 4
 ---
 Save a Life – Donate Blood
@@ -17,4 +17,3 @@ Moms and Tots Play Group
 Introducción al Islam 101
 
 Introduction to Islam
-
