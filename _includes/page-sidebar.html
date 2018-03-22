@@ -1,38 +1,16 @@
 <div class="row py-4 px-lg-3 ">
     <div class="col-12">
-        <h5 class="font-weight-bold mb-3 pb-2">Recent Posts</h5>
+        <h5 class="font-weight-bold mb-3 pb-2">Related Links </h5>
+        {% for item in site.[page.collection] %}
         <div class="row pb-2">
             <div class="col-12">
-              <p class="lh-150 text-dark">Please join Sister Huda Elshazly (of Mesjid Nebawi) for
-                  Qur’an Recitation and Tajweed Classes.</p>
+                <a class="lh-150 text-dark" href="{{ item.url | prepend: site.baseurl }}}">{{item.title}}</a>
             </div>
         </div>
-        <div class="row pb-2">
-            <div class="col-12">
-              <p class="lh-150 text-dark">Please join Sister Huda Elshazly (of Mesjid Nebawi) for
-                  Qur’an Recitation and Tajweed Classes.</p>
-            </div>
-        </div>
-        <div class="row pb-2">
-            <div class="col-12">
-              <p class="lh-150 text-dark">Please join Sister Huda Elshazly (of Mesjid Nebawi) for
-                  Qur’an Recitation and Tajweed Classes.</p>
-            </div>
-        </div>
-        <div class="row pb-2">
-            <div class="col-12">
-              <p class="lh-150 text-dark">Please join Sister Huda Elshazly (of Mesjid Nebawi) for
-                  Qur’an Recitation and Tajweed Classes.</p>
-            </div>
-        </div>
-        <div class="row pb-2">
-            <div class="col-12">
-              <p class="lh-150 text-dark">Please join Sister Huda Elshazly (of Mesjid Nebawi) for
-                  Qur’an Recitation and Tajweed Classes.</p>
-            </div>
-        </div>
+        {% endfor %}
     </div>
 </div>
+
 <div class="row py-4 px-lg-3 ">
     <div class="col-12">
         <h5 class="font-weight-bold mb-3 pb-2">Subscribe</h5>

@@ -1,5 +1,6 @@
 var GOOGLE_CALENDAR_ID = 'icsd.org_p8flfo1mj6nftembusod09qj6s@group.calendar.google.com';
 var GOOGLE_API_KEY = 'AIzaSyDzV4tcu-80oWSp0MsR5r2CFD1i6PgSTys';
+var UPCOMING_EVENT_COUNT = 7;
 
 $(function () {
     'use strict'
@@ -58,30 +59,42 @@ $(function () {
     });
 
     $('form').submit(function (event) {
+        event.preventDefault();
         $.ajax({
             type: 'POST', // define the type of HTTP verb we want to use (POST for our form)
             url: this.action, // the url where we want to POST
             data: $(this).serialize(), // our data object
             dataType: 'json' // what type of data do we expect back from the server
         });
-        event.preventDefault();
+        $(this)[0].reset();
+        $(this).find(".form-submit-message").removeClass('d-none');
     });
+    var classifiedsList = new List('classifieds-list',
+        {
+            valueNames: [
+                'name',
+                { name: 'posting-date', attr: 'data-timestamp' },
+
+            ],
+            page: 20,
+            pagination: true
+        }
+    );
 });
 
 var loadUpcomingEvents = function () {
     var calendarEventTemplateHtml = $('#calender-event-template').html();
-    var calendarEventHtml;
+    var calendarEventHtml='';
     $.ajax({
         url: "https://www.googleapis.com/calendar/v3/calendars/" + GOOGLE_CALENDAR_ID + "/events",
         data: {
-            maxResults: 5,
+            maxResults: UPCOMING_EVENT_COUNT,
             orderBy: 'startTime',
             singleEvents: true,
             timeMin: new Date().toISOString(),
             key: GOOGLE_API_KEY
         },
         success: function (result) {
-            console.log(result)
             var dataArray = result.items;
             var eventStartDateTime, eventTime;
             for (var i = 0; i < dataArray.length; i++) {
@@ -95,15 +108,17 @@ var loadUpcomingEvents = function () {
                 } else {
                     eventStartDateTime = moment(dataArray[i]["start"]["date"]);
                 }
-                calendarEventHtml = calendarEventTemplateHtml.replace(/##event-day##/g, eventStartDateTime.format('DD') || '')
+                calendarEventHtml += calendarEventTemplateHtml.replace(/##event-day##/g, eventStartDateTime.format('DD') || '')
                     .replace(/##event-month##/g, eventStartDateTime.format('MMM') || '')
                     .replace(/##event-title##/g, dataArray[i]["summary"] || '')
                     .replace(/##event-description##/g, dataArray[i]["description"] || '')
                     .replace(/##event-weekday##/g, eventStartDateTime.format('ddd') || '')
                     .replace(/##event-time##/g, eventTime || '')
-                    .replace(/##event-location##/g, dataArray[i]["location"] || 'Islamic Center Of San Diego');
-                $('#upcoming-events').append(calendarEventHtml);
+                    .replace(/##event-location##/g, dataArray[i]["location"] || 'Islamic Center Of San Diego')
+                    .replace(", Public Calendar","");
+
             }
+            $('#upcoming-events').html(calendarEventHtml);
         }
     });
 };

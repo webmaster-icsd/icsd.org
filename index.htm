@@ -3,13 +3,16 @@ layout: home-layout
 ---
 
 <div class="row py-4">
-  <div id="upcoming-events" class="col-12">
+  <div class="col-12">
     <div href="#" class="row">
       <div class="col-8">
         <h5 class="font-weight-bold">Upcoming Events</h5>
       </div>
       <div class="col-4 text-right pt-1">
         <a class=""> View All</a>
+      </div>
+      <div id="upcoming-events" class="col-12">
+          <span class="h5"><i class=" py-5 la la-spinner la-spin"></i> Loading ... </span>
       </div>
     </div>
   </div>
@@ -19,16 +22,17 @@ layout: home-layout
   <div class="col-12">
     <div href="#" class="row pb-4">
       <div class="col-8">
-        <h5 class="font-weight-bold">Recent Annoucements</h5>
+        <h5 class="font-weight-bold">Recent Announcements</h5>
       </div>
       <div class="col-4 text-right  pt-1">
         <a class=""> View All</a>
       </div>
     </div>
-    {% assign announcements = site.announcement | sort: 'date' | reverse %}
-    {% for announcement in announcements limit:1 %}
+    <div id="recent-announcements" class="col-12 px-0">
+      {% assign announcements = site.announcement | sort: 'date' | reverse %}
+      {% for announcement in announcements limit:1 %}
       {{announcement.content}}
-    {% endfor %}
-
+      {% endfor %}
+    </div>
   </div>
 </div>

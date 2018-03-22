@@ -35,7 +35,10 @@ published: true
         <input id="entry.1054331308" name="entry.1054331308" placeholder="" type="tel" required="required" class="form-control here">
       </div>
       </div>
-  <div class="g-recaptcha py-4" data-sitekey="6Le5vUwUAAAAAEMEmatuLIVrv6hNwuf2paZBntpk"></div>
+  <div class="g-recaptcha py-3" data-sitekey="6Le5vUwUAAAAAEMEmatuLIVrv6hNwuf2paZBntpk"></div>
+  <div class="form-submit-message alert alert-success alert-dismissible fade show d-none" role="alert">
+          Thank You! Your request has been submitted. We will review the request and notify the person of contact of the outcome within 30 days. InshaAllah
+      </div>
   <div class="form-group">
     <button name="submit" type="submit" class="btn btn-primary">Submit</button>
   </div>

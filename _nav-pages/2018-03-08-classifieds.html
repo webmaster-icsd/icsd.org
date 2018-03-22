@@ -4,7 +4,26 @@ layout: collection-with-sidebar-layout
 collection_name: classifieds
 ---
 
-{% for item in site.[page.collection_name] %}
+<div id="classifieds-list">
+    <input class="fuzzy-search" placeholder="Search" />
+    <button class="sort" data-sort="name">
+        Sort by Name
+    </button><button class="sort" data-sort="posting-date">
+    Sort by Date
+</button>
+    <ul class="pagination"></ul>
+    <ul class="list">
+        {% for item in site.[page.collection_name] %}
+        <li>
+            <h6 class="row pb-2">
+                <span class="col-2 posting-date" data-timestamp="{{ item.date}}">{{ item.date | date: "%d %b" }}</span>
+                <a href="{{item.url | prepend: site.baseurl }}">
+                    <span class="col-10 name pl-3">{{ item.title }}</span>
+                </a>
+            </h6>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
-<span class="square"></span> <h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
-{% endfor %}
+

@@ -27,26 +27,38 @@ title: Contact Us
         <label for="name">Message</label>
         <textarea class="form-control" id="message" name="entry.655979142" rows="4"></textarea>
       </div>
-      <div class="g-recaptcha py-4" data-sitekey="6Le5vUwUAAAAAEMEmatuLIVrv6hNwuf2paZBntpk"></div>
+      <div class="g-recaptcha py-3" data-sitekey="6Le5vUwUAAAAAEMEmatuLIVrv6hNwuf2paZBntpk"></div>
+      <div class="form-submit-message alert alert-success alert-dismissible fade show d-none" role="alert">
+              Thank You. Your message has been submitted. We usually respond within 1 business day.
+       </div>
       <span class="input-group-btn"><button type="submit" class="btn btn-primary">Send Message</button></span>
     </form>
   </div>
   <div class="col-md-6 px-5">
       <div class="h5 pb-3"> Contact Information </div>  
-
-        <div>
-            <i class="la la-map-marker float-left pr-3"></i>
+        <div class="lh-200 align-baseline">
+            <i class="font-large la la-map-marker float-left pr-3"></i>
             <address>7050 Eckstrom Avenue,
              San Diego, CA 92117</address>
         </div>
-        
-        <div class="pb-3">
-                  <i class="la la-phone float-left pr-3"></i>
-                  <a href="tel:+1-858-278-5240">(858) 278-5240</a>
+        <div class="pb-3 lh-200 align-baseline">
+            <i class="font-large la la-phone float-left pr-3"></i>
+            <a href="tel:+1-858-278-5240">(858) 278-5240</a>
         </div>          
-        <div class="pb-3">
-          <i class="la la-envelope float-left pr-3"></i>
-                            <a href="mailto:admin@icsd.org">admin@icsd.org</a>
+        <div class="pb-3 lh-200 align-baseline">
+            <i class="font-large la la-envelope float-left pr-3"></i>
+            <a href="mailto:admin@icsd.org">admin@icsd.org</a>
+        </div>
+        <div class="pb-3 lh-200 align-baseline">
+            <i class="font-large la la-facebook float-left pr-3" style="color:#4864B1"></i>
+            <a title="Islamic Center of San Diego - ICSD" href="https://www.facebook.com/IslamicCenterSD/">Islamic Center of San Diego - ICSD</a>
+        </div>         
+        <div class="pb-3 lh-200 align-baseline">
+            <i class="font-large la la-twitter float-left pr-3" style="color:#60AAED"></i>
+            <a target="_blank" id="follow-button" title="Follow Islamic Center of SD (@islamiccentersd) on Twitter" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.icsd.org%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=islamiccentersd&amp;tw_p=followbutton"><i></i><span class="label" id="l">Follow <b>@islamiccentersd</b></span></a>        </div>
+        <div class="pb-3 lh-200 align-baseline">
+            <i class="font-large la la-youtube-play float-left pr-3" style="color:#F9000E"></i>
+            <a href="https://www.youtube.com/channel/UCu-7HnVhfTd-GPqCnGesG1A">icsd.org</a>
         </div> 
   </div>
 </div>

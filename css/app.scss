@@ -27,6 +27,14 @@ u {
   border-bottom: 1px dotted;
 }
 
+ul{
+  padding-left: 0rem;
+}
+
+li{
+  list-style: none;
+}
+
 .event-day {
   font-size: 1.5rem;
   color: #03a87c;
@@ -52,17 +60,36 @@ u {
   background: rgba(232, 243, 236, 1);
 }
 
-#page-content,#collection-content {
+#page-content {
   h1, h2, h3, h4, h5, h6 {
     font-size: 1.25rem;
     padding-bottom: 1rem;
   }
 }
 
+.pagination li {
+  display:inline-block;
+  padding:5px;
+}
+
 #main-content {
   min-height: 69vh;
 }
 
+#recent-announcements {
+  li::before, p::before {
+    content: '\f156';
+    font-family: LineAwesome;
+    color: $primary;
+    padding-right: 1rem;
+  }
+  li , p {
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    font-weight:500;
+  }
+
+}
 .navbar-light .navbar-nav .nav-link {
   color: #212529;
 }
@@ -163,11 +190,6 @@ button>span.la {
   text-overflow: ellipsis;
 }
 
-.square {
-  width: 100px;
-  height: 100px;
-  background: red;
-}
 
 /* Medium devices (desktops, 992px and up) */
 @media (max-width: 991.98px) {
