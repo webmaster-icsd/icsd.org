@@ -4,7 +4,7 @@
         {% for item in site.[page.collection] %}
         <div class="row pb-2">
             <div class="col-12">
-                <a class="lh-150 text-dark" href="{{ item.url | prepend: site.baseurl}}">{{item.title}}</a>
+                <a class="lh-150" href="{{ item.url | prepend: site.baseurl}}">{{item.title}}</a>
             </div>
         </div>
         {% endfor %}
