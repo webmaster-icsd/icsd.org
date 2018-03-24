@@ -1,8 +1,8 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: classifieds
-published: false
+published: true
 title: Sister looking for job
+categories: [Business]
 ---
 ## A New Post
 

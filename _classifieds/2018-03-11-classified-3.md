@@ -1,8 +1,9 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: classifieds
 published: true
 title: 'Classified 3 '
+categories: [Tech, Business]
+
 ---
 ## A New Post
 

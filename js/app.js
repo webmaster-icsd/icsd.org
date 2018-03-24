@@ -74,12 +74,36 @@ $(function () {
             valueNames: [
                 'name',
                 { name: 'posting-date', attr: 'data-timestamp' },
-
+                'category'
             ],
             page: 20,
             pagination: true
         }
     );
+    $('.filter li').click(function() {
+
+        var selection = $(this).data('category').toLowerCase();
+        classifiedsList.filter(function(item) {
+            var toBeSplit = item.values().category.toLowerCase();
+            var tryThis = toBeSplit.split(',');
+            for (var i=0, j=tryThis.length; i<j; i++) {
+                if (tryThis[i].trim() == selection) {
+                    return true;
+                }
+            }
+            if (selection == "none") {
+                return false;
+            } else {
+                return false;
+            }
+        });
+        return false;
+    });
+
+    $('#filter-none').click(function() {
+        classifiedsList.filter();
+        return false;
+    });
 });
 
 var loadUpcomingEvents = function () {

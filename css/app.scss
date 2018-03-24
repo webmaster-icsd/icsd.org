@@ -57,13 +57,16 @@ li{
 }
 
 #page-title-box {
-  background: rgba(232, 243, 236, 1);
+  background: $primary-light;
 }
 
-#page-content {
+#page-content, #collection-content {
   h1, h2, h3, h4, h5, h6 {
-    font-size: 1.25rem;
+    font-size: 1rem;
     padding-bottom: 1rem;
+    a {
+      color: inherit;
+    }
   }
 }
 
@@ -76,6 +79,9 @@ li{
   min-height: 69vh;
 }
 
+#left-content{
+  min-height: 85vh;
+}
 #recent-announcements {
   li::before, p::before {
     content: '\f156';
@@ -183,13 +189,22 @@ button>span.la {
   background: $primary;
 }
 .fc-event {
-  background: $primary;
+  background: $primary-light;
+  color: inherit;
   border-radius: 0px;
+  border: none;
+}
+.fc-event:hover{
+  color: inherit;
+  font-weight: bold;
 }
 .fc-content {
   text-overflow: ellipsis;
 }
 
+.fc-event-dot {
+  background-color: $primary;
+}
 
 /* Medium devices (desktops, 992px and up) */
 @media (max-width: 991.98px) {

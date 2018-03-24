@@ -1,8 +1,8 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: classifieds
 published: true
 title: Classified 4
+categories: [Personal]
 ---
 ## A New Post
 

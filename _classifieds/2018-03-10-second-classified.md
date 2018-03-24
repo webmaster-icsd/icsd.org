@@ -1,8 +1,8 @@
 ---
-collection_name: classifieds
 layout: collection-with-sidebar-layout
 published: true
 title: Second classified
+categories: [Tech, Personal]
 ---
 ## A New Post
 

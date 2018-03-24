@@ -1,11 +1,16 @@
 ---
 title:  "Classifieds"
-layout: collection-with-sidebar-layout
+layout: collection-with-full-width-layout
 collection_name: classifieds
 ---
 
 <div id="classifieds-list">
     <input class="fuzzy-search" placeholder="Search" />
+    <ul class="filter">
+        <li class="btn filter" id="filter-none" data-category="none">Show all</li>
+        <li class="btn filter" id="filter-Business" data-category="Business">Only show Business</li>
+        <li class="btn filter" id="filter-Personal" data-category="Personal">Only show Personal</li>
+    </ul>
     <button class="sort" data-sort="name">
         Sort by Name
     </button><button class="sort" data-sort="posting-date">
@@ -13,17 +18,28 @@ collection_name: classifieds
 </button>
     <ul class="pagination"></ul>
     <ul class="list">
+        {% assign collection_categories = "" | split: ", " %}
         {% for item in site.[page.collection_name] %}
-        <li>
-            <h6 class="row pb-2">
-                <span class="col-2 posting-date" data-timestamp="{{ item.date}}">{{ item.date | date: "%d %b" }}</span>
-                <a href="{{item.url | prepend: site.baseurl }}">
-                    <span class="col-10 name pl-3">{{ item.title }}</span>
-                </a>
-            </h6>
-        </li>
+            {% assign collection_categories = collection_categories | concat: item.categories | uniq %}
+            <li>
+                <h6>
+                    <span class="posting-date" data-timestamp="{{ item.date}}">{{ item.date | date: "%d %b" | upcase }}</span> -
+                    <a href="{{item.url | prepend: site.baseurl }}">
+                        <span class="name">{{ item.title }}</span>
+                    </a>
+                </h6>
+
+                    <span class="category">
+                    {% for category in item.categories %}
+                        {{ category }},
+                    {% endfor %}
+                    </span>
+            </li>
         {% endfor %}
     </ul>
+    {% for category in collection_categories |  split: ", " %}
+        {{category}}
+    {% endfor%}
 </div>
 
 
