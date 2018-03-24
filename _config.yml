@@ -222,6 +222,10 @@ prose:
           element: "text"
           value: "annoucement"
     _sliders:
+      - name: "title"
+        field:
+        label: "Title"
+        element: "text"
       - name: "image-url"
         field:
           label: "Background Image"
