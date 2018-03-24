@@ -29,7 +29,7 @@ layout: home-layout
       </div>
     </div>
     <div id="recent-announcements" class="col-12 px-0">
-      {% assign announcements = site.announcement | sort: 'date' | reverse %}
+      {% assign announcements = site.announcements | sort: 'date' | reverse %}
       {% for announcement in announcements limit:1 %}
       {{announcement.content}}
       {% endfor %}
