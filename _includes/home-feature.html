@@ -9,7 +9,7 @@
         {% endfor %}
     </ol>
     <div class="carousel-inner">
-        {% for slide in site.data.sliders.slides %}
+        {% for slide in site.sliders limit:5  %}
         {% if forloop.first == true %}
         <div class="carousel-item active">
             {% else %}
@@ -20,7 +20,7 @@
                     <div class="col-12 lh-200">
                         <h2>{{slide.title}}</h2>
                         <p class="lh-200 my-3 my-lg-4 font-normal">
-                            {{slide.description}}
+                            {{slide.content}}
                         </p>
                         <p>
                             <a class="btn btn-sm btn-dark" href="{{slide.target-url}}" target="_{{target.window}}">Learn
