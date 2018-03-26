@@ -1,14 +1,40 @@
 ---
 ---
-
-[
-{% for collection in site.collections %}
-    {% for post in site[collection.label] %}
-        {
-        "text": "{{ collection.label}} : {{ post.title }}",
-        "href": "{{ post.url }}"
-        }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-    {% unless forloop.last %},{% endunless %}
-{% endfor %}
-]
+callback([
+  {
+    "text": "About Rachel",
+    "href": "{{site.url}}/about-rachel/"
+  } ,
+  {
+    "text": "Aerial Fitness",
+    "href": "{{site.url}}/aerial-fitness-in-south-carolina/"
+  } ,
+  {
+    "text": "Rachel's Motivation",
+    "href": "{{site.url}}/blog/"
+  } ,
+  {
+    "text": "Classes",
+    "href": "{{site.url}}/classes/"
+  } ,
+  {
+    "text": "Contact Rachel",
+    "href": "{{site.url}}/contact-rachel/"
+  } ,
+  {
+    "text": "Make an Appointment",
+    "href": "{{site.url}}/make-an-appointment/"
+  } ,
+  {
+    "text": "Personal Training",
+    "href": "{{site.url}}/personal-training/"
+  } ,
+  {
+    "text": "5 Day Kickstart Program",
+    "href": "{{site.url}}/product/5-day-kickstart-program"
+  } ,
+  {
+    "text": "Testimonials",
+    "href": "{{site.url}}/testimonials/"
+  }
+])
