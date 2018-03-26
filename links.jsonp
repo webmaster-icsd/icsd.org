@@ -1,6 +1,7 @@
 ---
 ---
-callback([
+
+[
   {
     "text": "About Rachel",
     "href": "{{site.url}}/about-rachel/"
@@ -37,4 +38,4 @@ callback([
     "text": "Testimonials",
     "href": "{{site.url}}/testimonials/"
   }
-])
+]
