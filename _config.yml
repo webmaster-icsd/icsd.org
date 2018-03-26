@@ -48,16 +48,12 @@ collections:
   sliders:
     target-window: 'blank'
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: page-with-sidebar-layout
 
 prose:
   rooturl: ''
   siteurl: 'https://webmaster-icsd.github.io/icsd.org/'
   media: 'media'
+  relativeLinks: 'https://webmaster-icsd.github.io/icsd.org/links.jsonp'
   ignore:
     - index.md
     - _config.yml
@@ -175,6 +171,11 @@ prose:
         field:
           label: "Title"
           element: "text"
+      - name: "expiration_date"
+        field:
+          label: "Expiration Date"
+          element: "text"
+          value: CURRENT_DATETIME
       - name: "collection_name"
         field:
           element: "text"
