@@ -237,3 +237,9 @@ prose:
         field:
           label: "Target Url"
           element: "text"
+      - name: "expiration_date"
+        field:
+          label: "Expiration Date"
+          element: "date"
+          value: CURRENT_DATETIME
+          type: "date"
