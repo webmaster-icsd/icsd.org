@@ -176,6 +176,7 @@ prose:
           label: "Expiration Date"
           element: "text"
           value: CURRENT_DATETIME
+          type: "date"
       - name: "collection_name"
         field:
           element: "text"
