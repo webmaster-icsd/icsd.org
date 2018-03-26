@@ -1,7 +1,7 @@
 ---
 ---
 
-callback([
+[
 {% for collection in site.collections %}
     {% for post in site[collection.label] %}
         {
@@ -11,4 +11,4 @@ callback([
     {% endfor %}
     {% unless forloop.last %},{% endunless %}
 {% endfor %}
-]);
+]
