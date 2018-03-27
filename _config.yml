@@ -237,7 +237,7 @@ prose:
         field:
           label: "Target Url"
           element: "text"
-      - name: "expiration"
+      - name: "expire"
         field:
           label: "Expire"
           element: "checkbox"
@@ -245,5 +245,6 @@ prose:
       - name: "expiration_date"
         field:
           label: "Expiration Date"
+          help: "Expiration Date will be considered only if Expire checkbox is clecked."
           element: "text"
           value: CURRENT_DATETIME

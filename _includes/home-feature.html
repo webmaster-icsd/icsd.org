@@ -4,7 +4,7 @@
         {% for slide in site.sliders limit:5 %}
         {% assign current_time = site.time | date: "%s" | plus: 0 %}
         {% assign slide_expiration_date = slide.expiration_date | date: "%s" | plus: 0 %}
-        {% if slide_expiration_date > current_time %}
+        {% if  (slide.expire == false) or (slide.expire and slide_expiration_date > current_time) %}
                 {% if is_active_set == false %}
                     <li data-target="#home-page-slider" class="active"></li>
                     {% assign is_active_set = true %}
@@ -19,7 +19,7 @@
         {% for slide in site.sliders limit:5 %}
         {% assign current_time = site.time | date: "%s" | plus: 0 %}
         {% assign slide_expiration_date = slide.expiration_date | date: "%s" | plus: 0 %}
-        {% if slide_expiration_date > current_time %}
+        {% if (slide.expire == false) or (slide.expire and slide_expiration_date > current_time) %}
             {% if is_active_set == false %}
                 <div class="carousel-item active">
                     {% assign is_active_set = true %}
