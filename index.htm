@@ -9,7 +9,7 @@ layout: home-layout
         <h5 class="font-weight-bold">Upcoming Events</h5>
       </div>
       <div class="col-4 text-right pt-1">
-        <a class=""> View All</a>
+        <a href="{{site.base_url}}/events"> View All</a>
       </div>
       <div id="upcoming-events" class="col-12">
           <span class="h5"><i class=" py-5 la la-spinner la-spin"></i> Loading ... </span>
@@ -22,16 +22,16 @@ layout: home-layout
   <div class="col-12">
     <div href="#" class="row pb-4">
       <div class="col-8">
-        <h5 class="font-weight-bold">Recent Announcements</h5>
+        <h5 class="font-weight-bold">Announcements</h5>
       </div>
       <div class="col-4 text-right  pt-1">
-        <a class=""> View All</a>
+        <!--<a href="#"> View All</a>-->
       </div>
     </div>
     <div id="recent-announcements" class="col-12 px-0">
       {% assign announcements = site.announcements | sort: 'date' | reverse %}
       {% for announcement in announcements limit:1 %}
-      {{announcement.content}}
+        {{announcement.content}}
       {% endfor %}
     </div>
   </div>

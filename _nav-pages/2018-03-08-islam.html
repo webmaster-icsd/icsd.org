@@ -5,6 +5,5 @@ collection_name: islam
 ---
 
 {% for item in site.[page.collection_name] %}
-
-<span class="square"></span> <h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
+<h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
 {% endfor %}

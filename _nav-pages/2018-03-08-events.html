@@ -4,16 +4,6 @@ layout: collection-with-full-width-layout
 collection_name: events
 ---
 
-<div class="row">
-    <div id="filters" class="col-12 pb-4">
-        <ul class="list-inline">
-            <li class="list-inline-item"><a href="#">All</a></li>
-            <li class="list-inline-item"><a href="#">Upcoming</a></li>
-            <li class="list-inline-item"><a href="#">Past</a></li>
-        </ul>
-    </div>
-</div>
-
 {% for item in site.[page.collection_name] %}
 <h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
 {% endfor %}

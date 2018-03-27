@@ -237,6 +237,11 @@ prose:
         field:
           label: "Target Url"
           element: "text"
+      - name: "expiration"
+        field:
+          label: "Expire"
+          element: "checkbox"
+          value: false
       - name: "expiration_date"
         field:
           label: "Expiration Date"
