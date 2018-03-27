@@ -15,9 +15,11 @@
                 {% for item in site.data.menu %}
                     {% if item.type != 'collection' %}
                         {% assign navPage = site.nav-pages | where: "title", item.text %}
+                        {% if navPage[0] %}
                         <li class="nav-item">
                             <a class="nav-link" href="{{ navPage[0].url | prepend: site.baseurl}}">{{navPage[0].title}}</a>
                         </li>
+                        {% endif %}
                     {% else %}
                         {% assign navCollection = item.text | slugify %}
                         <li class="nav-item dropdown">

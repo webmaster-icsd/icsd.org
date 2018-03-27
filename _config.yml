@@ -101,6 +101,16 @@ prose:
         field:
           label: "Title"
           element: "text"
+    _nav-pages/prayer-times:
+      - name: "fajr"
+        field:
+          label: "Fajr"
+          value: "00:00"
+          element: "text"
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
     _applications:
       - name: "layout"
         field:
