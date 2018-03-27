@@ -1,7 +1,7 @@
 ---
 title: Visiting Info
 published: true
-tags: ''
+layout: page-with-sidebar-layout
 ---
 The Islamic Center of San Diego is open for visits from people of all faiths.
 
@@ -18,4 +18,3 @@ Please check with the Administration Office upon entering the Center.
 For large groups, please call or email the Center prior to visiting, so we can better serve you.
 
 We look forward to hosting you and others in the spirit of brotherhood, peace, and unity.
-
