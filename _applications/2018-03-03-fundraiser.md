@@ -1,6 +1,7 @@
 ---
 title: Fundraiser
 published: true
+layout: page-with-sidebar-layout
 ---
 
 <form method="POST" action="https://docs.google.com/forms/u/4/d/e/1FAIpQLScJDjZEHeH3f1CJTkYy9P_Sz3GICXuevHICvQR6Vxr7qrgbhw/formResponse">
