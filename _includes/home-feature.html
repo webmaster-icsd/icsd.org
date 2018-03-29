@@ -2,9 +2,15 @@
     <ol class="carousel-indicators">
         {% assign is_active_set = false %}
         {% for slide in site.sliders limit:5 %}
+        {% assign show_slide = true %}
         {% assign current_time = site.time | date: "%s" | plus: 0 %}
         {% assign slide_expiration_date = slide.expiration_date | date: "%s" | plus: 0 %}
-        {% if  (slide.expire == false) or (slide.expire and slide_expiration_date > current_time) %}
+        {% if slide.expire %}
+            {% if slide_expiration_date < current_time %}
+                {% assign show_slide = false %}
+            {% endif %}
+        {% endif %}
+        {% if show_slide %}
                 {% if is_active_set == false %}
                     <li data-target="#home-page-slider" class="active"></li>
                     {% assign is_active_set = true %}
@@ -14,12 +20,14 @@
         {% endif %}
         {% endfor %}
     </ol>
+    <h6> {{ show_slide }}</h6>
+
     <div class="carousel-inner">
         {% assign is_active_set = false %}
         {% for slide in site.sliders limit:5 %}
         {% assign current_time = site.time | date: "%s" | plus: 0 %}
         {% assign slide_expiration_date = slide.expiration_date | date: "%s" | plus: 0 %}
-        {% if (slide.expire == false) or (slide.expire and slide_expiration_date > current_time) %}
+        {% if show_slide %}
             {% if is_active_set == false %}
                 <div class="carousel-item active">
                     {% assign is_active_set = true %}
