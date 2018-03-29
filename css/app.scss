@@ -63,10 +63,14 @@ li{
 #page-content, #collection-content {
   h1, h2, h3, h4, h5, h6 {
     font-size: 1rem;
-    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    margin-top:2.5rem;
     a {
       color: inherit;
     }
+  }
+  h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child{
+    margin-top:0rem;
   }
 }
 
