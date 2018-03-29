@@ -1,9 +1,9 @@
 ---
 title:  "Islam"
 layout: collection-with-full-width-layout
-collection_name: islam
+collection-name: islam
 ---
 
-{% for item in site.[page.collection_name] %}
+{% for item in site.[page.collection-name] %}
 <h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
 {% endfor %}

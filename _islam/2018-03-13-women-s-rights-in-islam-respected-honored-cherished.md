@@ -1,6 +1,6 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: islam
+collection-name: islam
 published: true
 title: 'Women''s Rights in Islam: Respected, Honored & Cherished'
 ---

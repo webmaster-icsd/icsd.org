@@ -1,6 +1,6 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: islam
+collection-name: islam
 published: true
 title: What are the Authentic Sources of Islamic Teaching?
 ---

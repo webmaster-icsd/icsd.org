@@ -1,6 +1,6 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: annoucement
+collection-name: annoucement
 published: true
 title: Announcements 4
 ---

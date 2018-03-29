@@ -1,53 +1,59 @@
 <div id="home-page-slider" class="row carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         {% assign is_active_set = false %}
-        {% for slide in site.sliders limit:5 %}
-        {% assign show_slide = true %}
         {% assign current_time = site.time | date: "%s" | plus: 0 %}
-        {% assign slide_expiration_date = slide.expiration_date | date: "%s" | plus: 0 %}
-        {% if slide.expire %}
-            {% if slide_expiration_date < current_time %}
-                {% assign show_slide = false %}
-            {% endif %}
-        {% endif %}
-        {% if show_slide %}
-                {% if is_active_set == false %}
-                    <li data-target="#home-page-slider" class="active"></li>
-                    {% assign is_active_set = true %}
-                {% else %}
-                    <li data-target="#home-page-slider"></li>
+        {% for slide in site.sliders limit:5 %}
+            {% assign show_slide = true %}
+            {% if slide.expire %}
+                {% assign slide_expiration_date = slide.expiration-date | date: "%s" | plus: 0 %}
+                {% if slide_expiration_date < current_time %}
+                    {% assign show_slide = false %}
                 {% endif %}
-        {% endif %}
+            {% endif %}
+            {% if show_slide %}
+                    {% if is_active_set == false %}
+                        <li data-target="#home-page-slider" class="active"></li>
+                        {% assign is_active_set = true %}
+                    {% else %}
+                        <li data-target="#home-page-slider"></li>
+                    {% endif %}
+            {% endif %}
         {% endfor %}
     </ol>
 
     <div class="carousel-inner">
         {% assign is_active_set = false %}
-        {% for slide in site.sliders limit:5 %}
         {% assign current_time = site.time | date: "%s" | plus: 0 %}
-        {% assign slide_expiration_date = slide.expiration_date | date: "%s" | plus: 0 %}
-        {% if show_slide %}
-            {% if is_active_set == false %}
-                <div class="carousel-item active">
-                    {% assign is_active_set = true %}
-            {% else %}
-                <div class="carousel-item ">
+        {% for slide in site.sliders limit:5 %}
+            {% assign show_slide = true %}
+            {% if slide.expire %}
+                {% assign slide_expiration_date = slide.expiration-date | date: "%s" | plus: 0 %}
+                {% if slide_expiration_date < current_time %}
+                    {% assign show_slide = false %}
+                {% endif %}
             {% endif %}
-                <div id="feature-box" class="row d-flex text-center align-items-center p-3 p-lg-5 "
-                     style="background: linear-gradient(to right, rgba(232,243,236, .9), rgba(232,243,236, 0.9) ), url({{slide.image-url}}); background-position: center; background-size:cover">
-                    <div class="col-12 lh-200">
-                        <h2>{{slide.title}}</h2>
-                        <div class="lh-200 my-3 my-lg-4 font-normal">
-                            {{slide.content}}
+            {% if show_slide %}
+                {% if is_active_set == false %}
+                    <div class="carousel-item active">
+                    {% assign is_active_set = true %}
+                {% else %}
+                    <div class="carousel-item ">
+                {% endif %}
+                        <div id="feature-box" class="row d-flex text-center align-items-center p-3 p-lg-5 "
+                             style="background: linear-gradient(to right, rgba(232,243,236, .9), rgba(232,243,236, 0.9) ), url({{slide.image-url}}); background-position: center; background-size:cover">
+                            <div class="col-12 lh-200">
+                                <h2>{{slide.title}}</h2>
+                                <div class="lh-200 my-3 my-lg-4 font-normal">
+                                    {{slide.content}}
+                                </div>
+                                <p>
+                                    <a class="btn btn-sm btn-dark" href="{{slide.target-url}}" target="_{{target.window}}">Learn
+                                        More</a>
+                                </p>
+                            </div>
                         </div>
-                        <p>
-                            <a class="btn btn-sm btn-dark" href="{{slide.target-url}}" target="_{{target.window}}">Learn
-                                More</a>
-                        </p>
                     </div>
-                </div>
-            </div>
-        {% endif %}
+            {% endif %}
         {% endfor %}
      </div>
         <a class="carousel-control-prev" href="#home-page-slider" role="button" data-slide="prev">

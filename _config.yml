@@ -181,13 +181,13 @@ prose:
         field:
           label: "Title"
           element: "text"
-      - name: "expiration_date"
+      - name: "expiration-date"
         field:
           label: "Expiration Date"
           element: "text"
           value: CURRENT_DATETIME
           type: "date"
-      - name: "collection_name"
+      - name: "collection-name"
         field:
           element: "text"
           value: "classifieds"
@@ -201,7 +201,7 @@ prose:
         field:
           label: "Title"
           element: "text"
-      - name: "collection_name"
+      - name: "collection-name"
         field:
           element: "text"
           value: "classifieds"
@@ -215,7 +215,7 @@ prose:
         field:
           label: "Title"
           element: "text"
-      - name: "collection_name"
+      - name: "collection-name"
         field:
           element: "text"
           value: "islam"
@@ -229,10 +229,10 @@ prose:
         field:
           label: "Title"
           element: "text"
-      - name: "collection_name"
+      - name: "collection-name"
         field:
           element: "text"
-          value: "annoucement"
+          value: "annoucements"
     _sliders:
       - name: "title"
         field:
@@ -252,7 +252,7 @@ prose:
           label: "Expire"
           element: "checkbox"
           value: false
-      - name: "expiration_date"
+      - name: "expiration-date"
         field:
           label: "Expiration Date"
           help: "Expiration Date will be considered only if Expire checkbox is clecked."

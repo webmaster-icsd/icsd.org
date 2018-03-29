@@ -1,6 +1,6 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: islam
+collection-name: islam
 published: true
 title: What is the Purpose of Life
 ---

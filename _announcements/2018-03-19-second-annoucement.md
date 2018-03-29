@@ -1,6 +1,6 @@
 ---
 layout: collection-with-sidebar-layout
-collection_name: announcement
+collection-name: announcement
 published: true
 title: 'About Islam: A Brief Introduction'
 ---

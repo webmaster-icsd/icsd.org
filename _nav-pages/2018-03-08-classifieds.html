@@ -1,7 +1,7 @@
 ---
 title: Classifieds
 layout: collection-with-full-width-layout
-collection_name: classifieds
+collection-name: classifieds
 published: false
 ---
 
@@ -20,7 +20,7 @@ published: false
     <ul class="pagination"></ul>
     <ul class="list">
         {% assign collection_categories = "" | split: ", " %}
-        {% for item in site.[page.collection_name] %}
+        {% for item in site.[page.collection-name] %}
             {% assign collection_categories = collection_categories | concat: item.categories | uniq %}
             <li>
                 <h6>
