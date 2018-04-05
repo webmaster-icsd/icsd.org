@@ -15,10 +15,20 @@ We hold a comprehensive Saturday school to provide our children with basic Islam
 ### Youth Group
 Our Mission is to develop, through knowledge and practice, committed young Muslim men and women capable of spreading and giving root to a comprehensive understanding of Islam and to prepare them to be at the forefront in the development of their communities.
 
-### Organization
 Our youth group is divided into three groups. Group A is for ages 7-10, Group B is for ages 11-13, and Group C is for ages 14-18. The latter group is run by dedicated Muslim college students.
 
-We meet EVERY Friday at ICSD from 5:30PM to 7:30PM
+We meet EVERY Friday at ICSD from 7:30PM to 9:30PM
+
+### Women’s Committee
+The women’s committee works on programming geared specifically toward women. The objectives and goals of the women’s committee are:
+
+### To provide Islamic lectures in English and Arabic.
+- To provide Quran memorization for beginning and advanced learners.  
+- To plan Quran memorization classes for young ladies ages 7 and up.  
+- To teach the Arabic language in both beginning and advanced levels.  
+- To establish an Islamic book club (book suggestions are welcomed).  
+- To organize Quran / Islamic contests in Ramadan for women and children.  
+- To establish an audio/visual library to exchange resources and offer translating services.
 
 ### Past Activities
 
@@ -33,14 +43,3 @@ We meet EVERY Friday at ICSD from 5:30PM to 7:30PM
 - Complete this registration form and bring it to any of our meetings. Please note that this youth group is FREE of charge.
 
 Email us or contact the ICSD office for more information.
-
-### Women’s Committee
-The women’s committee works on programming geared specifically toward women. The objectives and goals of the women’s committee are:
-
-### To provide Islamic lectures in English and Arabic.
-- To provide Quran memorization for beginning and advanced learners.  
-- To plan Quran memorization classes for young ladies ages 7 and up.  
-- To teach the Arabic language in both beginning and advanced levels.  
-- To establish an Islamic book club (book suggestions are welcomed).  
-- To organize Quran / Islamic contests in Ramadan for women and children.  
-- To establish an audio/visual library to exchange resources and offer translating services.
