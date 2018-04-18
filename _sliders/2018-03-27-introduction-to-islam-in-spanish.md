@@ -5,7 +5,7 @@ published: true
 title: Introducción al Islam 101
 target-url: >-
   https://webmaster-icsd.github.io/icsd.org/islam/about-islam-a-brief-introduction
-expire: true
+expire: false
 ---
 ## Los Domingos 11am - 12pm
 
