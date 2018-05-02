@@ -30,7 +30,7 @@ published: true
         </div>
         <div class="row py-2">
             <div class="col-4">Isha</div>
-            <div class="col-8">{{page.jumuah}}</div>
+            <div class="col-8">{{page.isha}}</div>
         </div>
         <div class="row pt-2">
             <div class="col-4">Jumu'ah</div>
