@@ -1,11 +1,11 @@
 ---
 title: Prayer Times
 layout: page-with-full-width-layout
-fajr: '06:15 am'
+fajr: '05:15 am'
 dhuhr: '01:15 pm'
 asr: '04:45 pm'
 magrib: 5 mins after Sunset
-isha: '08:30 pm'
+isha: '09:30 pm'
 jumuah: '12:30 pm / 01:45pm'
 published: true
 ---
