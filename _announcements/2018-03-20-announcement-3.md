@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: annoucement
-published: true
+published: false
 title: Announcement 3
 ---
 ## A New Post
