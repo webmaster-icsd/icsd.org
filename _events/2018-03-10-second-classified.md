@@ -1,7 +1,8 @@
 ---
 layout: collection-with-sidebar-layout
-published: true
+published: false
 title: Second Event
+collection-name: classifieds
 ---
 ## A New Post
 
