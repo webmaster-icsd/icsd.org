@@ -5,7 +5,7 @@ callback([
 {% for collection in site.collections %}
     {% for post in site[collection.label] reversed %}
         {
-        "text": "{{ post.title }}",
+        "text": "{{collection.label}}  : {{ post.title }}",
         "href": "{{ post.url }}"
         }{% unless forloop.last %},{% endunless %}{% endfor %}{% unless forloop.last %},{% endunless %}{% endfor %}
 ])

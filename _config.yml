@@ -204,7 +204,7 @@ prose:
       - name: "collection-name"
         field:
           element: "text"
-          value: "classifieds"
+          value: "events"
     _islam:
       - name: "layout"
         field:
