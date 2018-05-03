@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: Introduction to Islam
 ---
 Basic teachings of Islam and Q&A.
