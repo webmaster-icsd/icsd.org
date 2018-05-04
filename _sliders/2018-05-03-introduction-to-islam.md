@@ -4,7 +4,7 @@ published: true
 title: Introduction to Islam
 expire: false
 expiration-date: '2018-05-03 13:47 -0700'
-target-url: events/introduction-to-islam
+target-url: /events/introduction-to-islam
 ---
 Basic teachings of Islam  
 Question and Answer  

@@ -20,6 +20,7 @@ img {
 }
 p {
   color: #737373;
+  line-height: 1.5rem;
 }
 
 u {
@@ -29,6 +30,11 @@ u {
 
 ul{
   padding-left: 0rem;
+}
+
+b, strong {
+  font-weight: 600;
+  color: $gray-900;
 }
 
 li{
@@ -60,7 +66,7 @@ li{
   background: $primary-light;
 }
 
-#page-content, #collection-content {
+#page-content, #collection-content,#recent-announcements {
   h1, h2, h3, h4, h5, h6 {
     font-size: 1rem;
     margin-bottom: 1rem;
@@ -71,6 +77,16 @@ li{
   }
   h1:first-child, h2:first-child, h3:first-child, h4:first-child, h5:first-child, h6:first-child{
     margin-top:0rem;
+  }
+}
+
+#recent-announcements {
+  h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 0.35rem;
+    margin-top: 0.25rem;
+  }
+  li , p {
+    padding-bottom: 0.75rem;
   }
 }
 
@@ -86,20 +102,20 @@ li{
 #left-content{
   min-height: 85vh;
 }
-#recent-announcements {
-  li::before, p::before {
-    content: '\f156';
-    font-family: LineAwesome;
-    color: $primary;
-    padding-right: 1rem;
-  }
-  li , p {
-    padding-bottom: 1rem;
-    font-size: 1rem;
-    font-weight:500;
-  }
+//#recent-announcements {
+//  //li::before, p::before {
+//  //  content: '\f156';
+//  //  font-family: LineAwesome;
+//  //  color: $primary;
+//  //  padding-right: 1rem;
+//  //}
+//  li , p {
+//    padding-bottom: 1rem;
+//    //font-size: 1rem;
+//    font-weight:300;
+//  }
 
-}
+//}
 .navbar-light .navbar-nav .nav-link {
   color: #212529;
 }
@@ -215,8 +231,8 @@ button>span.la {
   .container {
     min-width: 100%;
     max-width: 100%;
-    /*padding-left: 2rem;*/
-    /*padding-right:2rem*/
+    padding-left: 2rem;
+    padding-right:2rem
   }
   .salah {
     padding: .5em;
