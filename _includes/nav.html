@@ -10,8 +10,8 @@
             <i id="offcanvas-collapse-menu-true" class="text-dark la la-close d-none"></i>
         </button>
 
-        <div class="navbar-collapse offcanvas-collapse bg-white" id="offcanvas-collapse-menu">
-            <ul class="navbar-nav ml-auto">
+        <div class="navbar-collapse offcanvas-collapse bg-white px-2" id="offcanvas-collapse-menu">
+            <ul class="navbar-nav ml-auto px-5">
                 {% for item in site.data.menu %}
                     {% if item.type != 'collection' %}
                         {% assign navPage = site.nav-pages | where: "title", item.text %}
