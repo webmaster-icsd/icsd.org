@@ -2,8 +2,8 @@ title: Islamic Center Of San Diego
 email: webmaster@icsd.org
 description: >- # this means to ignore newlines until "baseurl:"
   Build Strong Commmunities.
-baseurl: "/icsd.org" # the subpath of your site, e.g. /blog
-url: "https://webmaster-icsd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.icsd.org" # the base hostname & protocol for your site, e.g. http://example.com
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: IslamicCenterSD
