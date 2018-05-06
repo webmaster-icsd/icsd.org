@@ -6,7 +6,6 @@ title: Introducción al Islam
 target-url: /islam/about-islam-a-brief-introduction
 expire: false
 ---
-
 - Enseñanzas del Islam
 - Preguntas y respuestas
 - Observación de la Oración
