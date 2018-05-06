@@ -7,7 +7,6 @@ target-url: /islam/about-islam-a-brief-introduction
 expire: false
 ---
 
-### BIENVENIDOS:
 - Enseñanzas del Islam
 - Preguntas y respuestas
 - Observación de la Oración
