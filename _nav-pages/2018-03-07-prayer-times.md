@@ -4,7 +4,7 @@ layout: page-with-full-width-layout
 fajr: '05:00 am'
 dhuhr: '01:15 pm'
 asr: '04:45 pm'
-magrib: 5 mins after Sunset
+magrib: 5 mins after sunset
 isha: '09:00 pm'
 jumuah: '12:30 pm / 01:45pm'
 published: true
