@@ -6,9 +6,9 @@ title: Introducción al Islam
 target-url: /islam/about-islam-a-brief-introduction
 expire: false
 ---
-## Los Domingos 11am - 12pm
 
 ### BIENVENIDOS:
 - Enseñanzas del Islam
 - Preguntas y respuestas
 - Observación de la Oración
+- Los Domingos 11am - 12pm
