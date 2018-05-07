@@ -12,6 +12,9 @@
 
         <div class="navbar-collapse offcanvas-collapse bg-white px-2" id="offcanvas-collapse-menu">
             <ul class="navbar-nav ml-auto px-5">
+                <li class="nav-item d-lg-none ">
+                    <a class="nav-link" href="{{site.baseurl}}/prayer-times">Prayer Times</a>
+                </li>
                 {% for item in site.data.menu %}
                     {% if item.type != 'collection' %}
                         {% assign navPage = site.nav-pages | where: "title", item.text %}

@@ -10,7 +10,7 @@ jumuah: '12:30 pm / 01:45pm'
 published: true
 ---
 
-<div id = 'prayer-times' class="row py-4 px-lg-3 ">
+<div id = 'prayer-times' class="row py-4 px-lg-3 pb-5">
     <div class="col-12">
         <div class="row pb-2">
             <div class="col-4 ">Fajr</div>
@@ -38,3 +38,10 @@ published: true
         </div>
     </div>
 </div>
+
+<div id = 'subscribe-form' class="row py-4 px-lg-3 ">
+    <div class="col-12">
+            <p> ** Please use below form to subscribe to notifications.</p>
+    </div>
+    {% include subscribe-widget.html %}
+</div>        
