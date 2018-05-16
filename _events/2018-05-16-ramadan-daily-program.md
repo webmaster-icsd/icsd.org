@@ -13,7 +13,7 @@ title: Ramadan Daily Program
 ### Babysitting is offered during Taraweeh prayers upstairs.
 ### Ramadan Qur'an contest will be announced soon.
 ### ICSD is collecting Iftar sponsorship for Syrian refugees ($2/meal).
-### ICSD collects and distribues Azkat-ul-Fitr $10/person, and Fidyah $10/day.
+### ICSD collects and distribues Zakat-ul-Fitr $10/person, and Fidyah $10/day.
 
 For more information, please visit www.icsd.org or visit ICSD's Admin Office.
 
