@@ -11,11 +11,10 @@ title: Ramadan Daily Program
 ### A light Iftar will be served everyday (soup, milk, bread, dates).
 ### Suhoor will be served in the last 10 days of Ramadan.
 ### Babysitting is offered during Taraweeh prayers upstairs.
-### Ramadan Qur'an contest will be announced soon.
+### [Ramadan Qur'an contest.](events/qur-an-contest-1439-2018 "Ramadan Qur'an Contest")
 ### ICSD is collecting Iftar sponsorship for Syrian refugees ($2/meal).
 ### ICSD collects and distribues Zakat-ul-Fitr $10/person, and Fidyah $10/day.
 
 For more information, please visit www.icsd.org or visit ICSD's Admin Office.
 
 **Ramadan Mubarak**
-
