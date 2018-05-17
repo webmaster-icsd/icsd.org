@@ -4,7 +4,7 @@ collection-name: events
 published: true
 title: Ramadan Daily Program
 ---
-### [1st day of Ramadan](shuracouncil.com/ramadan-and-eidul-fitr-1439-ah-2018): Wednesday, May 16, 2018  
+### [1st day of Ramadan](https://shuracouncil.com/ramadan-and-eidul-fitr-1439-ah-2018): Wednesday, May 16, 2018  
 ### 1st night of Taraweeh: Tuesday, May 15, 2018  
 ### Eid ul-Fitr: Friday, June 15, 2018
 ### Kahtirah (short talk): Everyday after half of Taraweeh prayer.
