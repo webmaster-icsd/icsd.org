@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: annoucements
-published: false
+published: true
 title: Al Rashid School Summer Program 2018
 ---
 This 4-week Qur'an, Arabic, and Islamic Studies Program begins July 9th through August 1st.  
