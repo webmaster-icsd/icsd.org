@@ -8,8 +8,8 @@ title: Eid al-Fitr
 Friday, June 15, 2018
 
 ## Where:	
-Qualcomm/SDCCU Stadium
-9449 Friars Rd
+[Qualcomm/SDCCU Stadium](https://drive.google.com/open?id=1k82sBxMLp0qASN_b9auJ-QQcwSycxFoF)  
+9449 Friars Rd  
 San Diego, CA 92108
 
 Free Parking
@@ -26,5 +26,5 @@ Prayer is on an outdoor field so grass may be wet because of moring dew. Please 
 
 Please leave home early as you may hit traffic.
 
-Rained Overnight or Raining?
+Rained Overnight or Raining?  
 Check ICSD website for updates
