@@ -4,6 +4,8 @@ collection-name: events
 published: true
 title: Eid al-Fitr
 ---
+## [Eid Mubarak](https://drive.google.com/open?id=1KB6j8KT4uBnpu1JsFPaFL8XP-JTO63pa)
+
 ## When: 	
 Friday, June 15, 2018
 
