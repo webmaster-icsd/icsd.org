@@ -22,9 +22,11 @@ Free Parking
 
 Please maintain silence during khutba as sound system may not be optimal.
 
-Prayer is on an outdoor field so grass may be wet because of moring dew. Please bring your own prayer mat and umbrella. High temperature due to outdoors and open field.
+Prayer is on an outdoor field so grass may be wet because of morning dew. Please bring your own prayer mat and umbrella. High temperature due to outdoors and open field.
 
 Please leave home early as you may hit traffic.
 
 Rained Overnight or Raining?  
 Check ICSD website for updates
+
+
