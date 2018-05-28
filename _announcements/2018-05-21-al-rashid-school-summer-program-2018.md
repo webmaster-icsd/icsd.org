@@ -4,6 +4,9 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
+## Imam Suhaib Webb
+Imam Suhaib Webb will be giving the khatira tonight, May 28, at Taraweeh.
+
 ## [Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018)
 The test (tasmee’) will take place at ICSD on Sunday, Ramadan 26/June 10, at 1:30pm (right after Dhuhr prayer).
 
@@ -18,4 +21,3 @@ This 4-week Qur'an, Arabic, and Islamic Studies Program begins July 9th through 
 Registration is Saturday, July 7 from 10am-2pm.  
 $10 late registration fee per student after July 7th.
 Contact ICSD Admin: 858-278-5240 for more information.
-
