@@ -26,6 +26,3 @@ San Diego, CA 92111
 If your zip code is not listed, please submit the application to the closest address to your residence.
 
 JzkumAllah khair
-
-
-
