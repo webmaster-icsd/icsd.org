@@ -1,5 +1,5 @@
 ---
-title: Prayer Times
+title: Prayer (Iqama) Times
 layout: page-with-full-width-layout
 fajr: '04:45 am'
 dhuhr: '01:15 pm'
@@ -44,4 +44,4 @@ published: true
             <p> ** Please use below form to subscribe to notifications.</p>
     </div>
     {% include subscribe-widget.html %}
-</div>        
+</div>
