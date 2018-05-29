@@ -4,8 +4,8 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
-## Imam Suhaib Webb
-Imam Suhaib Webb will be giving the khatira tonight, May 28, at Taraweeh.
+## Ramadan Calendar
+![1.jpg]({{site.baseurl}}/media/1.jpg)
 
 ## [Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018)
 The test (tasmee’) will take place at ICSD on Sunday, Ramadan 26/June 10, at 1:30pm (right after Dhuhr prayer).
