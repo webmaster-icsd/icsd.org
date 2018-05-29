@@ -21,10 +21,11 @@ Partnership for the Advancement of New Americans (PANA)
 4089 Fairmont Ave  
 San Diego, CA  92105
 
-The Islamic Center of San Diego
-7050 Eckstrom Ave
+## Clairemont Area and North
+The Islamic Center of San Diego  
+7050 Eckstrom Ave  
 San Diego, CA 92111
 
-If your zip code is not listed, please submit the application to the closest address to your residence.
+*If your zip code is not listed, please submit the application to the address closest to your residence.
 
 JzkumAllah khair
