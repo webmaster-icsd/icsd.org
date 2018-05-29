@@ -7,6 +7,9 @@ title: Programs
 ## Ramadan Calendar
 ![1.jpg]({{site.baseurl}}/media/1.jpg)
 
+## Zakat al-Fitr applications
+ICSD is now accepting applications for Zakat al-Fitr. Please [submit your applications](http://www.icsd.org/events/zakat-al-fitr) to the facility in your area or listed zip code.
+
 ## [Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018)
 The test (tasmee’) will take place at ICSD on Sunday, Ramadan 26/June 10, at 1:30pm (right after Dhuhr prayer).
 
