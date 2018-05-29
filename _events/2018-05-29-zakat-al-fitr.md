@@ -4,7 +4,6 @@ collection-name: events
 published: true
 title: Zakat al Fitr
 ---
-## Zakat al-Fitr
 ![kul am.jpg]({{site.baseurl}}/media/kul am.jpg)
 
 Please print [the application](https://mail.google.com/mail/u/0/#sent/1638e5c3c6b0427e) and submit it to the following locations:
