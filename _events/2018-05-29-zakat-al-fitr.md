@@ -17,7 +17,7 @@ Wednesdays and Sundays: 12-4pm
 
 and
 
-Masjid Salam
+Masjid Salam  
 1357 Broadway  
 El Cajon, CA 92021
 
