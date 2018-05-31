@@ -13,7 +13,7 @@ and those with **zip codes 92019, 92020, 92021, 92040, 92071, 91977, 91978, 9194
 Khalid Bakrawi Community Center  
 327 E Main St  
 El Cajon, CA  92020  
-Sunday: 12-4pm
+Wednesdays and Sundays: 12-4pm
 
 and
 
