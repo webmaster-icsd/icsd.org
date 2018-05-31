@@ -6,7 +6,7 @@ title: Zakat al Fitr
 ---
 ![kul am.jpg]({{site.baseurl}}/media/kul am.jpg)
 
-Please print [the application](https://drive.google.com/drive/u/0/folders/1WJhf60dHzXnKXo4_3Xmv8th4K6uSUwB1) and submit it to the following locations:
+Please print [the application](https://drive.google.com/open?id=1uWtsGEAbofSg1wnkcT3uMMGQe0Xhf5SU) and submit it to the following locations:
 
 ## El Cajon Residents 
 and those with **zip codes 92019, 92020, 92021, 92040, 92071, 91977, 91978, 91941, 91942** at:  
