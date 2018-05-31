@@ -13,6 +13,7 @@ and those with **zip codes 92019, 92020, 92021, 92040, 92071, 91977, 91978, 9194
 Khalid Bakrawi Community Center  
 327 E Main St  
 El Cajon, CA  92020  
+Sunday: 12-4pm
 
 and
 
@@ -29,7 +30,8 @@ San Diego, CA  92105
 ## Clairemont Area and North
 The Islamic Center of San Diego  
 7050 Eckstrom Ave  
-San Diego, CA 92111
+San Diego, CA 92111  
+Daily: 12-4pm  
 
 *If your zip code is not listed, please submit the application to the address closest to your residence.
 
