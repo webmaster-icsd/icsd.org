@@ -1,6 +1,6 @@
 ---
 layout: page-with-sidebar-layout
-published: false
+published: true
 title: Zakat al-Fitr
 ---
 ![kul am.jpg]({{site.baseurl}}/media/kul am.jpg)
