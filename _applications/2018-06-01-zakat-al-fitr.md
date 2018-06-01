@@ -23,7 +23,7 @@ El Cajon, CA 92021
 ## City Heights Residents 
 and those with **zip codes 92101, 92102 92103, 92104, 92105, 92114, 92115, 92116, 92118, 92134, 92136, 92139, 92182** at:  
 Partnership for the Advancement of New Americans (PANA)  
-4089 Fairmont Ave  
+4089 Fairmount Ave  
 San Diego, CA  92105
 
 ## Clairemont Area and North
