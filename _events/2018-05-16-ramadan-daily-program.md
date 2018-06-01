@@ -9,7 +9,7 @@ title: Ramadan Daily Program
 ### [Eid al-Fitr](https://drive.google.com/open?id=1KB6j8KT4uBnpu1JsFPaFL8XP-JTO63pa): Friday, June 15, 2018; [Directions](https://drive.google.com/open?id=1k82sBxMLp0qASN_b9auJ-QQcwSycxFoF)
 ### Kahtirah (short talk): Everyday after half of Taraweeh prayer.
 ### A light Iftar will be served everyday (soup, milk, bread, dates).
-### Suhoor will be served in the last 10 days of Ramadan.
+### Suhoor will be served in the [last 10 days](https://prose.io/#webmaster-icsd/icsd.org/edit/gh-pages/_events/2018-06-01-itikaf.md) of Ramadan.
 ### Babysitting is offered during Taraweeh prayers upstairs.
 ### [Ramadan Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018). 
 ### ICSD is collecting Iftar sponsorship for Syrian refugees ($2/meal).
