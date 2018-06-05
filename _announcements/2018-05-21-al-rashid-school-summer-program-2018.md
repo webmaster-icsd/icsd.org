@@ -10,8 +10,10 @@ title: Programs
 ## [Zakat al-Fitr applications](http://www.icsd.org/applications/zakat-al-fitr)
 ICSD is now accepting applications for Zakat al-Fitr. Please submit your application to the facility in your area or listed zip code.
 
-## Office Renovation Survey
-Kindly stop by the Islamic Center administration office to share your opinion by submitting an Office Renovation Survey.
+## [I'tikaf](http://www.icsd.org/events/itikaf)
+Tahajid 2:30a - 3:30a
+Suhoor served daily.
+Brothers are invited to perform I'tikaf.
 
 ## [Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018)
 The test (tasmee’) will take place at ICSD on Sunday, Ramadan 26/June 10, at 1:30pm (right after Dhuhr prayer).
