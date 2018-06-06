@@ -11,8 +11,8 @@ title: Programs
 ICSD is now accepting applications for Zakat al-Fitr. Please submit your application to the facility in your area or listed zip code.
 
 ## [I'tikaf](http://www.icsd.org/events/itikaf)
-Tahajid 2:30a - 3:30a
-Suhoor served daily.
+Tahajid 2:30a - 3:30a  
+Suhoor served daily.  
 Brothers are invited to perform I'tikaf.
 
 ## [Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018)
