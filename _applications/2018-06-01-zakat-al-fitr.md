@@ -14,12 +14,6 @@ Khalid Bakrawi Community Center
 El Cajon, CA  92020  
 Wednesdays and Sundays: 12-4pm
 
-and
-
-Masjid Salam  
-1357 Broadway  
-El Cajon, CA 92021
-
 ## City Heights Residents 
 Partnership for the Advancement of New Americans (PANA)  
 4089 Fairmount Ave  
