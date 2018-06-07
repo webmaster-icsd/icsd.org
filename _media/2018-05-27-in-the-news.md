@@ -3,7 +3,7 @@ layout: page-with-sidebar-layout
 published: true
 title: In the News
 ---
-## [Ramadan Interfaith Iftar](http://www.sandiegouniontribune.com/news/religion/sd-me-interfaith-iftar-20180601-story.html) covered by the Union Tribune
+## [Ramadan Interfaith Iftar](http://www.sandiegouniontribune.com/news/religion/sd-me-interfaith-iftar-20180601-story.html) covered by the San Diego Union Tribune
 
 ## The Islamic Center of San Diego on [Al-Iraqia TV](https://www.youtube.com/watch?v=iHw3gAdknhg)
 
