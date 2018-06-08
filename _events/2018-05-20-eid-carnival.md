@@ -6,4 +6,4 @@ title: Eid Carnival
 ---
 ## Eid Mubarak!
 Bring your children and enjoy a wonderful time.  
-Games, Food, Sweets, Henna, Pony Rides!
+Games, Food, Sweets, Henna, and Pony Rides!
