@@ -11,6 +11,8 @@ title: Programs
 ICSD is now accepting applications for Zakat al-Fitr. Please submit your application to the facility in your area or listed zip code.
 
 ## [Eid Bazaar](http://www.icsd.org/events/eid-bazaar)
+June 9th at 11am - 5pm.
+Purchase your Eid clothing and gifts! Put Henna
 
 ## [I'tikaf](http://www.icsd.org/events/itikaf)
 Tahajid 2:30a - 3:30a  
