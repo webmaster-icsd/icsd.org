@@ -7,9 +7,6 @@ title: Programs
 ## Ramadan Calendar
 ![1.jpg]({{site.baseurl}}/media/1.jpg)
 
-## [Zakat al-Fitr applications](http://www.icsd.org/applications/zakat-al-fitr)
-ICSD is now accepting applications for Zakat al-Fitr. Please submit your application to the facility in your area or listed zip code.
-
 ## [Eid Bazaar](http://www.icsd.org/events/eid-bazaar)
 June 9th at 11am - 5pm.  
 Purchase your Eid clothing and gifts! Put Henna!
