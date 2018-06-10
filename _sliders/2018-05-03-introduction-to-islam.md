@@ -1,6 +1,6 @@
 ---
 image-url: images/icsd-musallah.jpg
-published: false
+published: true
 title: Introduction to Islam
 expire: true
 expiration-date: '2018-05-03 13:47 -0700'
