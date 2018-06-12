@@ -1,6 +1,6 @@
 ---
 layout: page-with-sidebar-layout
-published: true
+published: false
 title: Zakat al-Fitr
 ---
 Please print [the application](https://drive.google.com/open?id=1uWtsGEAbofSg1wnkcT3uMMGQe0Xhf5SU) and submit it to the following locations:
