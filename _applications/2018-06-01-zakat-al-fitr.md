@@ -3,8 +3,6 @@ layout: page-with-sidebar-layout
 published: true
 title: Zakat al-Fitr
 ---
-![kul am.jpg]({{site.baseurl}}/media/kul am.jpg)
-
 Please print [the application](https://drive.google.com/open?id=1uWtsGEAbofSg1wnkcT3uMMGQe0Xhf5SU) and submit it to the following locations:
 
 ## El Cajon Residents 
