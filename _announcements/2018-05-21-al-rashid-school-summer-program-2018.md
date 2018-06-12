@@ -12,9 +12,6 @@ Tahajid 2:30a - 3:30a
 Suhoor served daily.  
 Brothers are invited to perform I'tikaf.
 
-## [Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018)
-The test (tasmee’) will take place at ICSD on Sunday, Ramadan 26/June 10, at 1:30pm (right after Dhuhr prayer).
-
 ## [Eid al-Fitr](http://www.icsd.org/events/eid-al-fitr)
 Friday, June 15  
 At Qualcomm Stadium  
