@@ -6,6 +6,6 @@ published: true
 title: Eid al-Fitr
 target-url: events/eid-al-fitr
 ---
-## [Eid Mubarak](http://www.icsd.org/events/eid-al-fitr)!
+## Eid Mubarak!
 
 Join the Eid Prayer at Qualcomm Stadium
