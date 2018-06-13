@@ -19,7 +19,7 @@ Takbeer: 7am
 Prayer: 7:30am
 
 ## [Eid Carnival](http://www.icsd.org/events/eid-carnival)
-June 16th
+June 16th  
 Games, Food, Sweets, Henna, and Pony Rides!
 
 ## Al Rashid School [Summer Program 2018](http://www.icsd.org/events/alrashid-summer-program)
