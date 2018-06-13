@@ -4,14 +4,6 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
-## Ramadan Calendar
-![1.jpg]({{site.baseurl}}/media/1.jpg)
-
-## [I'tikaf](http://www.icsd.org/events/itikaf)
-Tahajid 2:30a - 3:30a  
-Suhoor served daily.  
-Brothers are invited to perform I'tikaf.
-
 ## [Eid al-Fitr](http://www.icsd.org/events/eid-al-fitr)
 Friday, June 15  
 At Qualcomm Stadium  
