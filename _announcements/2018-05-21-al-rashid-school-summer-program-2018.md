@@ -15,7 +15,7 @@ Brothers are invited to perform I'tikaf.
 ## [Eid al-Fitr](http://www.icsd.org/events/eid-al-fitr)
 Friday, June 15  
 At Qualcomm Stadium  
-Takbeer: 7am  
+Takbeer: 7:00am  
 Prayer: 7:30am
 
 ## [Eid Carnival](http://www.icsd.org/events/eid-carnival)
