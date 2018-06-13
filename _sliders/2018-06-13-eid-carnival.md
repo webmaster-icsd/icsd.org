@@ -7,5 +7,6 @@ title: Eid Carnival
 ---
 Come Join the Celebration!  
 June 16th  
-11pm - 5pm
+11pm - 5pm  
+at the Islamic Center of San Diego
 
