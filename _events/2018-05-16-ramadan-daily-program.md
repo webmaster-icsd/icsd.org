@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: true
+published: false
 title: Ramadan Daily Program
 ---
 ### [1st day of Ramadan](http://shuracouncil.com/ramadan-and-eidul-fitr-1439-ah-2018): Wednesday, May 16, 2018  
