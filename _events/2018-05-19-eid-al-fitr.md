@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: true
+published: false
 title: Eid al-Fitr
 ---
 ## [Eid Mubarak](https://drive.google.com/open?id=1KB6j8KT4uBnpu1JsFPaFL8XP-JTO63pa)
