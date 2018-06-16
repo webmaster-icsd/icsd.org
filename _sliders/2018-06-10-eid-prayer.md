@@ -2,7 +2,7 @@
 image-url: images/icsd-musallah.jpg
 expire: false
 expiration-date: '2018-05-16 04:46 -0700'
-published: true
+published: false
 title: Eid al-Fitr
 target-url: events/eid-al-fitr
 ---
