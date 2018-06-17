@@ -4,10 +4,6 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
-## [Eid Carnival](http://www.icsd.org/events/eid-carnival)
-June 16th  
-Games, Food, Sweets, Henna, and Pony Rides!
-
 ## Al Rashid School [Summer Program 2018](http://www.icsd.org/events/alrashid-summer-program)
 This 4-week Qur'an, Arabic, and Islamic Studies Program begins July 9th through August 1st.  
 Registration is Saturday, July 7 from 10am-2pm.  
