@@ -4,7 +4,7 @@ published: true
 title: Introduction to Islam
 expire: false
 expiration-date: '2018-05-03 13:47 -0700'
-target-url: 'http://www.icsd.org/about-us/visiting-info'
+target-url: about-us/visiting-info
 ---
 Basic teachings of Islam  
 Question and Answer  
