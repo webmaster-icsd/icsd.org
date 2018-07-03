@@ -6,4 +6,4 @@ title: Hajj Seminar
 ---
 ## Hajj Seminar
 
-Please join Sh Abdeljalil Mezgouri to understand the Hajj rites and requirements.
+Please join Sh Abdeljalil Mezgouri to understand the Hajj rites and requirements. See the Calendar for details.
