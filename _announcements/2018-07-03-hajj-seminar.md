@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: annoucements
-published: false
+published: true
 title: Hajj Seminar
 ---
 ## Hajj Seminar
