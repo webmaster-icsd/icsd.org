@@ -4,6 +4,9 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
+## Medicare Seminar
+Learn how to maximize medicare and social security benefits.
+
 ## Al Rashid School [Summer Program 2018](http://www.icsd.org/events/alrashid-summer-program)
 This 4-week Qur'an, Arabic, and Islamic Studies Program begins July 9th through August 1st.  
 Registration is Saturday, July 7 from 10am-2pm.  
