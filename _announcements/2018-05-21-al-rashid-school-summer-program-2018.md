@@ -5,7 +5,7 @@ published: true
 title: Programs
 ---
 ## [Medicare Seminar](http://www.icsd.org/events/medicare-seminar)
-Learn how to maximize medicare and social security benefits.
+July 6th after Maghrib in the Multipurpose room. Learn how to maximize medicare and social security benefits.
 
 ## Al Rashid School [Summer Program 2018](http://www.icsd.org/events/alrashid-summer-program)
 This 4-week Qur'an, Arabic, and Islamic Studies Program begins July 9th through August 1st.  
