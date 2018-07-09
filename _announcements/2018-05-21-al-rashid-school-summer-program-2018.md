@@ -4,15 +4,6 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
-## [Medicare Seminar](http://www.icsd.org/events/medicare-seminar)
-July 6th after Maghrib in the Multipurpose room. Learn how to maximize medicare and social security benefits.
-
-## Al Rashid School [Summer Program 2018](http://www.icsd.org/events/alrashid-summer-program)
-This 4-week Qur'an, Arabic, and Islamic Studies Program begins July 9th through August 1st.  
-Registration is Saturday, July 7 from 10am-2pm.  
-$10 late registration fee per student after July 7th.
-Contact ICSD Admin: 858-278-5240 for more information.
-
 ## Hajj Seminar
 Please join Sh Abdeljalil Mezgouri to understand the Hajj rites and requirements. Sunday, July 8th, at 1:30p in the Multipurpose Room.
 
