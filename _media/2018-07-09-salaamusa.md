@@ -1,6 +1,6 @@
 ---
 layout: page-with-sidebar-layout
-published: false
+published: true
 title: SalaamUSA
 ---
 https://vimeo.com/278724244
