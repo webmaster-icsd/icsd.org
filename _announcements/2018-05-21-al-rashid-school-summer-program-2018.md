@@ -4,9 +4,6 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
-## Hajj Seminar
-Please join Sh Abdeljalil Mezgouri to understand the Hajj rites and requirements. Sunday, July 8th, at 1:30p in the Multipurpose Room.
-
 ## Interpreters Needed
 The Federal Defenders of San Diego is the organization appointed to represent indigent persons in the current border crisis. If you would like to volunteer as an interpreter, and can speak either Arabic, Punjabi, Urdu, Bengali, or other regional dialect, please contact:
 
