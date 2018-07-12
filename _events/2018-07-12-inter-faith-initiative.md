@@ -8,7 +8,7 @@ title: Inter-Faith Picnic
 
 **'Our Common Home' Inter-Faith Initiative**  
 July 26th  
-6-7:30pm  
+6:00 - 7:30pm  
 Pacific Beach, Library Lawn  
 
 Music, fellowship, food to share
