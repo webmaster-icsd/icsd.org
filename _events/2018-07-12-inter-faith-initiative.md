@@ -2,7 +2,7 @@
 layout: collection-with-sidebar-layout
 collection-name: events
 published: true
-title: Inter-Faith Initiative
+title: Inter-Faith Picnic
 ---
 ## Community Picnic
 
