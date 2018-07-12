@@ -16,4 +16,5 @@ Music, fellowship, food to share
 For more information contact Mike Roberts  
 mroberts@ymca.org or 858-273-9622
 
-![]({{site.baseurl}}/)
+![Community Picnic Flyer.jpg]({{site.baseurl}}/media/Community Picnic Flyer.jpg)
+
