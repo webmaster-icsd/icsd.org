@@ -4,8 +4,10 @@ collection-name: annoucements
 published: true
 title: Programs
 ---
-## Community Picnic
+## Investment Seminar
+July 20th, 8-9:30pm in the Multipurpose Room
 
+## Community Picnic
 **'Our Common Home' Inter-Faith Initiative**  
 July 26th  
 6-7:30pm  
