@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: Holistic Healing
 ---
 ![madiha.png]({{site.baseurl}}/media/madiha.png)
