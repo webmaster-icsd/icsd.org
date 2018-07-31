@@ -1,21 +1,9 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: annoucements
-published: true
+published: false
 title: Programs
 ---
-## Community Picnic
-
-**'Our Common Home' Inter-Faith Initiative**  
-July 26th  
-6-7:30pm  
-Pacific Beach, Library Lawn  
-
-Music, fellowship, food to share
-
-For more information contact Mike Roberts  
-mroberts@ymca.org or 858-273-9622
-
 ## Interpreters Needed
 The Federal Defenders of San Diego is the organization appointed to represent indigent persons in the current border crisis. If you would like to volunteer as an interpreter, and can speak either Arabic, Punjabi, Urdu, Bengali, or other regional dialect, please contact:
 
