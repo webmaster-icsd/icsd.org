@@ -6,7 +6,7 @@ title: Introducción al Islam
 target-url: about-us/visiting-info
 expire: false
 ---
-- Enseñanzas del Islam
+- Enseñanzas del Islam en Español
 - Preguntas y respuestas
 - Observación de la Oración
 - Los Domingos 11am - 12pm
