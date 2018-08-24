@@ -6,11 +6,10 @@ published: true
 ---
 
 <h1> Upcoming Events </h1>
-<p>
 
 {% for item in site.[page.collection-name] %}
 <h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
 {% endfor %}
 
-<\p>
+
   
