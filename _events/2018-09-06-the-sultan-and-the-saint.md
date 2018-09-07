@@ -4,6 +4,5 @@ collection-name: events
 published: false
 title: The Sultan and the Saint
 ---
-## A New Post
+![sultan and saint.jpg]({{site.baseurl}}/media/sultan and saint.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
