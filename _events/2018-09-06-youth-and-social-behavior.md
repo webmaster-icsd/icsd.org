@@ -4,6 +4,5 @@ collection-name: events
 published: false
 title: Youth and Social Behavior
 ---
-## A New Post
+![youth social behavior.jpg]({{site.baseurl}}/media/youth social behavior.jpg)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
