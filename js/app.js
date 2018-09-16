@@ -1,4 +1,5 @@
 var GOOGLE_CALENDAR_ID = 'icsd.org_p8flfo1mj6nftembusod09qj6s@group.calendar.google.com';
+var GOOGLE_YOUTH_CALENDAR_ID = 'nextgen@icsd.org';
 var GOOGLE_API_KEY = 'AIzaSyDzV4tcu-80oWSp0MsR5r2CFD1i6PgSTys';
 var UPCOMING_EVENT_COUNT = 7;
 
@@ -14,6 +15,48 @@ $(function () {
             googleCalendarApiKey: GOOGLE_API_KEY,
             events: {
                 googleCalendarId: GOOGLE_CALENDAR_ID
+            },
+            eventRender: function (event, element) {
+                element.popover({
+                        html: true,
+                        title: event.title,
+                        placement: 'right',
+                        content: "<p>" + event.description || "" + "</p>",
+                        trigger: 'hover'
+                    }
+                ).popover('show');
+            },
+            eventClick: function (event, jsEvent, view) {
+                return false;
+            },
+            defaultView: 'listMonth',
+            themeSystem: 'bootstrap4',
+            header: {
+                left: 'prev,next',
+                center: 'title',
+                right: 'listMonth,month,agendaWeek'
+            },
+            eventLimit: true, // allow "more" link when too many events
+            buttonText: {
+                today: 'Today',
+                month: 'Month',
+                week: 'Week',
+                day: 'Day',
+                list: 'List'
+            },
+            bootstrapFontAwesome: {
+                prev: 'la la la-angle-left',
+                next: 'la la la-angle-right'
+            }
+
+        })
+    }
+    var youthEventsCalendar = $("#youth-event-calendar");
+    if (youthEventsCalendar.length) {
+        youthEventsCalendar.fullCalendar({
+            googleCalendarApiKey: GOOGLE_API_KEY,
+            events: {
+                googleCalendarId: GOOGLE_YOUTH_CALENDAR_ID
             },
             eventRender: function (event, element) {
                 element.popover({

@@ -30,6 +30,9 @@ collections:
   about-us:
     output: true
     permalink: /:collection/:title
+  youth:
+    output: true
+    permalink: /:collection/:title
   media:
     output: true
     permalink: /:collection/:title
