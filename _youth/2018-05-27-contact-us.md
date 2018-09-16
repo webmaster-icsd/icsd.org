@@ -23,7 +23,7 @@ title: Contact Us
         </div>          
         <div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-envelope float-left pr-3"></i>
-            <a href="mailto:admin@icsd.org">admin@icsd.org</a>
+            <a href="mailto:nextgen@icsd.org">nextgen@icsd.org</a>
         </div>
         <div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-facebook float-left pr-3" style="color:#4864B1"></i>
