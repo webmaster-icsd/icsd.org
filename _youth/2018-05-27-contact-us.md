@@ -30,9 +30,7 @@ title: Contact Us/Register
             <i class="font-large la la-facebook float-left pr-3" style="color:#4864B1"></i>
             <a title="Islamic Center of San Diego - ICSD" href="https://www.facebook.com/IslamicCenterSD/">Islamic Center of San Diego - ICSD</a>
         </div>         
-        <div class="pb-3 lh-200 align-baseline">
-            <i class="font-large la la-twitter float-left pr-3" style="color:#60AAED"></i>
-            <a target="_blank" id="follow-button" title="Follow Islamic Center of SD (@islamiccentersd) on Twitter" href="https://twitter.com/intent/follow?original_referer=http%3A%2F%2Fwww.icsd.org%2F&amp;ref_src=twsrc%5Etfw&amp;region=follow_link&amp;screen_name=islamiccentersd&amp;tw_p=followbutton"><i></i><span class="label" id="l">Follow <b>@islamiccentersd</b></span></a>        </div>
+        
         <div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-youtube-play float-left pr-3" style="color:#F9000E"></i>
             <a href="https://www.youtube.com/channel/UCu-7HnVhfTd-GPqCnGesG1A">icsd.org</a>
