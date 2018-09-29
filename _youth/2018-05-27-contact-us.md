@@ -28,7 +28,7 @@ title: Contact Us/Register
         </div>
     	<div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-instagram float-left pr-3" style="color:#4864B1"></i>
-            <a title="Islamic Center of San Diego - ICSD" href="https://www.facebook.com/IslamicCenterSD/">Islamic Center of San Diego - ICSD</a>
+            <a title="icsdnextgen" href="https://www.facebook.com/IslamicCenterSD/">icsdnextgen</a>
         </div>
         <div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-facebook float-left pr-3" style="color:#4864B1"></i>
