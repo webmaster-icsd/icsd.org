@@ -28,7 +28,7 @@ title: Contact Us/Register
         </div>
     	<div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-instagram float-left pr-3" style="color:#4864B1"></i>
-            <a title="icsdnextgen" href="https://www.facebook.com/IslamicCenterSD/">icsdnextgen</a>
+            <a title="icsdnextgen" href="">icsdnextgen</a>
         </div>
         <div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-facebook float-left pr-3" style="color:#4864B1"></i>
