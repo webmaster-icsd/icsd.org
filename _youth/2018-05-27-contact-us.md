@@ -11,7 +11,7 @@ title: Contact Us/Register
 </div>
 <div class="row">
   <div class="col-md-12 px-5 pt-5">
-    <h2><a href="http://www.123formbuilder.com/form-4273808/membership-application-form">Register here</a></h2>
+    <h1><a href="http://www.123formbuilder.com/form-4273808/membership-application-form">Register here</a></h1>
       <div class="h5 pb-3"> Contact Information </div>  
         <div class="lh-200 align-baseline">
             <i class="font-large la la-map-marker float-left pr-3"></i>
