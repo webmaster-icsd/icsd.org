@@ -1,9 +1,9 @@
 ---
 title: Prayer (Iqama) Times
 layout: page-with-full-width-layout
-fajr: '05:15 am'
+fajr: '05:30 am'
 dhuhr: '01:15 pm'
-asr: '03:30 pm'
+asr: '03:00 pm'
 magrib: 5 mins after sunset
 isha: '07:30 pm'
 jumuah: '12:30 pm / 01:45pm'
