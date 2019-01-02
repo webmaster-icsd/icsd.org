@@ -6,5 +6,3 @@ title: Ameen Housing Cooperative
 ---
 ![ameen.jpg]({{site.baseurl}}/media/ameen.jpg)
 
-![ameen.jpg]({{site.baseurl}}/media/ameen.jpg)
-
