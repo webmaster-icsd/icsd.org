@@ -4,5 +4,6 @@ collection-name: events
 published: true
 title: Ameen Housing Cooperative
 ---
+![ameen1.jpg]({{site.baseurl}}/media/ameen1.jpg)
 
 
