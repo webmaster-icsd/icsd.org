@@ -4,4 +4,5 @@ collection-name: events
 published: true
 title: 'Help Yourself: Get Fit Physically, Emotionally & Spiritually'
 ---
+**## FOR WOMEN ONLY! BRING YOUR OWN MAT**
 ![help yourself.jpg]({{site.baseurl}}/media/help yourself.jpg)
