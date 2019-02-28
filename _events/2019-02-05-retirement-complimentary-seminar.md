@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: Retirement Complimentary Seminar
 ---
 ![retire.jpg]({{site.baseurl}}/media/retire.jpg)
