@@ -1,10 +1,11 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: 'Help Yourself: Get Fit Physically, Emotionally & Spiritually'
 ---
 ## FOR WOMEN ONLY  
 ## BRING YOUR OWN MAT!
 
-![Flyer.jpg]({{site.baseurl}}/media/Flyer.jpg)
+![Stretch&Empowerment Flyer.jpg]({{site.baseurl}}/media/Stretch&Empowerment Flyer.jpg)
+
