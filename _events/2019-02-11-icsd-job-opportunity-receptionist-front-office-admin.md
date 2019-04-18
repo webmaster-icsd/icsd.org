@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: true
+published: false
 title: ICSD Job Opportunity - Receptionist/Front Office Admin
 ---
 ## Job Opportunity @ ICSD - Receptionist/Front Office Admin
