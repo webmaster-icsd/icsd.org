@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: events
-published: true
+published: false
 title: Muslima Support Group
 ---
 ## Support Group (Women Only!)
