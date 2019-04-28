@@ -197,8 +197,7 @@ prose:
     _events:
       - name: "event-date"
         field:
-          label: "Expiration Date"
-          help: "Expiration Date will be considered only if Expire checkbox is clecked."
+          label: "Event Date"
           element: "text"
           value: CURRENT_DATETIME
       - name: "layout"
