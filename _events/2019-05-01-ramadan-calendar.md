@@ -5,5 +5,6 @@ collection-name: events
 published: true
 title: Ramadan Calendar
 ---
-![]({{site.baseurl}}/media/1440Ramadan.jpg)![1440Ramadan.jpg]
+![1440Ramadan.jpg]({{site.baseurl}}/media/1440Ramadan.jpg)
+
 
