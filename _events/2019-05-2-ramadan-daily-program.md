@@ -14,7 +14,7 @@ event-date: '2019-05-01 14:56 -0700'
 ### Babysitting is offered during Taraweeh prayers upstairs.
 ### [Ramadan Qur'an Contest](http://www.icsd.org/events/qur-an-contest-1439-2018). 
 ### ICSD is collecting Iftar sponsorship for Syrian refugees ($2/meal).
-### ICSD collects and distribues Zakat-ul-Fitr $10/person, and Fidyah $10/day.
+### ICSD collects and distributes Zakat-ul-Fitr $10/person, and Fidyah $10/day.
 
 For more information, please visit www.icsd.org or visit ICSD's Admin Office.
 
