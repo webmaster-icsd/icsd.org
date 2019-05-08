@@ -12,7 +12,7 @@ event-date: '2019-05-01 14:56 -0700'
 ### A light Iftar will be served everyday (soup, milk, fruit, bread, dates, water).
 ### Suhoor will be served in the last 10 days of Ramadan.
 ### Babysitting is offered during Taraweeh prayers upstairs.
-### Ramadan Qur'an Contest. 
+### [Ramadan Qur'an Contest](http://www.icsd.org/events/quran-memorization-contest). 
 ### ICSD collects and distributes Zakat-ul-Fitr $10/person, and Fidyah $10/day.
 
 For more information, please visit www.icsd.org or visit ICSD's Admin Office.
