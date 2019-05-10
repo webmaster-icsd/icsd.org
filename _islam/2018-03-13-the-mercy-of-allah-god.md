@@ -1,9 +1,10 @@
 ---
+title: The Mercy of Allah (God)
+date: 2018-03-13 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: The Mercy of Allah (God)
 ---
+
 "Limitless is your Lord in His mercy..." Qur'an 6:147
 
 God Almighty is full of love and kindness to His creation. All blessings and goodness in this world and the next are clear proofs of His Mercy. Indeed, Islam teaches that God is more merciful toward us than our own mothers. How can it be otherwise, when some of God's names and attributes include:

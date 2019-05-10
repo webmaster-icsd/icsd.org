@@ -1,9 +1,11 @@
 ---
+title: ICSD Job Opportunity - Receptionist/Front Office Admin
+date: 2019-02-11 00:00:00 Z
+published: false
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
-title: ICSD Job Opportunity - Receptionist/Front Office Admin
 ---
+
 ## Job Opportunity @ ICSD - Receptionist/Front Office Admin
 
 We are looking for a Receptionist/Front Office Admin for the Islamic Center of San Diego, CA.

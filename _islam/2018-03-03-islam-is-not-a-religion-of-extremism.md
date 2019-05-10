@@ -1,9 +1,10 @@
 ---
+title: Islam is not a Religion of Extremism
+date: 2018-03-03 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: Islam is not a Religion of Extremism
 ---
+
 Allah says:  
 “…Whosoever kills an innocent human being, it shall be as if he has killed all mankind, and whosoever saves the life of one, it shall be as if he had saved the life of all mankind…” Qur’an 5:32
 

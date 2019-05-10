@@ -1,13 +1,13 @@
 ---
 title: Prayer (Iqama) Times
+date: 2018-03-07 00:00:00 Z
 layout: page-with-full-width-layout
-fajr: '05:00 am'
-dhuhr: '01:15 pm'
-asr: '04:45 pm'
+fajr: 05:00 am
+dhuhr: 01:15 pm
+asr: 04:45 pm
 magrib: 5 mins after sunset
 isha: '09:30 pm'
-jumuah: '12:30 pm / 01:45pm'
-published: true
+jumuah: 12:30 pm / 01:45pm
 ---
 
 <div id = 'prayer-times' class="row py-4 px-lg-3 pb-5">

@@ -1,8 +1,9 @@
 ---
-layout: page-with-sidebar-layout
-published: true
 title: Activities
+date: 2018-03-02 00:00:00 Z
+layout: page-with-sidebar-layout
 ---
+
 ## Activities
 There are various regular activities held at ICSD throughout the week. See the ICSD calendar for details. More information on some of the activities can be found below.
 

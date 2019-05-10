@@ -1,9 +1,11 @@
 ---
+title: 'Help Yourself: Get Fit Physically, Emotionally & Spiritually'
+date: 2019-04-07 00:00:00 Z
+published: false
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
-title: 'Help Yourself: Get Fit Physically, Emotionally & Spiritually'
 ---
+
 ## FOR WOMEN ONLY  
 ## BRING YOUR OWN MAT!
 

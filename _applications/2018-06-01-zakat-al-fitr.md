@@ -1,8 +1,10 @@
 ---
-layout: page-with-sidebar-layout
-published: false
 title: Zakat al-Fitr
+date: 2018-06-01 00:00:00 Z
+published: false
+layout: page-with-sidebar-layout
 ---
+
 Please print [the application](https://drive.google.com/open?id=1uWtsGEAbofSg1wnkcT3uMMGQe0Xhf5SU) and submit it to the following locations:
 
 ## El Cajon Residents 

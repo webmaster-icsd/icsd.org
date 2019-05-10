@@ -1,7 +1,7 @@
 ---
-layout: page-with-full-width-layout
-published: true
 title: Contact Us/Register
+date: 2018-05-27 00:00:00 Z
+layout: page-with-full-width-layout
 ---
 
 <div class="row">

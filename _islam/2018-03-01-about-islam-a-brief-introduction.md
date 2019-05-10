@@ -1,9 +1,10 @@
 ---
+title: 'About Islam: A Brief Introduction'
+date: 2018-03-01 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: 'About Islam: A Brief Introduction'
 ---
+
 Islam is a natural and complete way of life. It encourages one to give due attention to their relationship with their Creator (God). It teaches that people find true lasting happiness and peace through being close to God, following His guidance and performing good deeds.
 
 Muslims constitute approximately one fifth of the world’s population, making Islam one of the largest religions. Belief in and worship of the One True God is the purpose of life and cornerstone of Islam.

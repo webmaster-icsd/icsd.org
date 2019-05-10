@@ -1,9 +1,10 @@
 ---
+title: Who is Prophet Mohammed?
+date: 2018-03-14 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: Who is Prophet Mohammed?
 ---
+
 ## Who is Prophet Mohammed?
 Prophet Mohammed Peace Be upon Him (PBUH) is the seal of all prophets from God. He was born in the city of Mecca, where he grew up until he was 40 years of age. God Almighty, through Arch Angel Gabriel, entrusted him with the message of Islam. Before he became a prophet he was nicknamed as the Truthful, the Trustworthy, and known as the go to person when someone wanted to entrust something valuable when they are away. He also was known for his wisdom and when disputes happened he would be the one to resolve them. Unlike young people in his generation he never drank alcohol nor associated with women outside of marriage and his kind and gentle character was known to everyone.
 

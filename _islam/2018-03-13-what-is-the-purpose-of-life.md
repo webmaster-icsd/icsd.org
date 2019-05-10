@@ -1,9 +1,10 @@
 ---
+title: What is the Purpose of Life
+date: 2018-03-13 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: What is the Purpose of Life
 ---
+
 Where did I come from? Why am I here? Where am I going?
 
 One of the first questions that comes to mind when considering our purpose of life is, “where did we come from?” Are we here based on random natural coincidences or is there a higher intelligent being, a creator? Acknowledging the existence of a creator is the first step in understanding our true purpose in life. There are many logical and rational reasons for believing in a creator. Three reasons are briefly mentioned below.

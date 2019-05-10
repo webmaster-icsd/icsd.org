@@ -1,9 +1,10 @@
 ---
+title: Jesus in Islam
+date: 2018-03-13 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: Jesus in Islam
 ---
+
 “[Jesus] said, ‘Indeed, I am the slave of Allah. He has given me the Scripture and made me a prophet.’ ” Qur’an 19:30
 
 ### The Truth about Jesus

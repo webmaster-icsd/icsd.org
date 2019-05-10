@@ -1,5 +1,5 @@
 ---
 image-url: images/icsd-musallah.jpg
-published: true
 ---
+
 Basic teachings of Islam and Q&A

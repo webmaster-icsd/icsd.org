@@ -1,9 +1,10 @@
 ---
+title: 'Misconceptions About Islam: What do you Really Know?'
+date: 2018-03-14 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: 'Misconceptions About Islam: What do you Really Know?'
 ---
+
 Islam is one of the world’s largest religions yet it is also one of the most misunderstood. For various reasons – be they political, economic, biased media or fear of the “other” – mistruths and misconceptions have been spread about Islam. The key to understanding Islam and Muslims is to resist stereotypes and examine each situation according to Islamic teachings and authentic sources.
 
 ### Misconception 1 – “Muslims Do Not Share Good and Noble Values with non-Muslims”

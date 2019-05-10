@@ -1,9 +1,11 @@
 ---
+title: Eid al-Fitr
+date: 2018-05-19 00:00:00 Z
+published: false
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
-title: Eid al-Fitr
 ---
+
 ## [Eid Mubarak](https://drive.google.com/open?id=1KB6j8KT4uBnpu1JsFPaFL8XP-JTO63pa)
 
 ## When: 	

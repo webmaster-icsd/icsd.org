@@ -1,9 +1,10 @@
 ---
+title: Science in Islam
+date: 2018-03-13 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
-title: Science in Islam
 ---
+
 “We (God) shall show them Our signs in the Universe and within themselves, until it becomes clear to them that this is the Truth.” Quran 41:53
 
 The Quran, the book of Islam, is the final book of revelation from God to humanity and the last in the line of revelations given to the Prophets.
