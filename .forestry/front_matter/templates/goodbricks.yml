@@ -11,3 +11,8 @@ fields:
 - type: text
   name: permalink
   label: permalink
+- name: pictures
+  type: image_gallery
+  config: {}
+  label: Pictures
+  description: Pictures of event go here
