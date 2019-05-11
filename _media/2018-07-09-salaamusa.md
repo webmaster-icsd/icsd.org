@@ -4,7 +4,7 @@ date: 2018-07-09 00:00:00 Z
 layout: page-with-sidebar-layout
 ---
 
-[Salaam](https://vimeo.com/278724244)
+[Salaam!](https://vimeo.com/278724244)
 
 Published by: Steve Slocum  
 Founder, Salaam  
