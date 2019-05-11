@@ -54,7 +54,7 @@ collections:
     permalink: "/:collection/:title"
 email: webmaster@icsd.org
 description: Build Strong Commmunities.
-baseurl: '/icsd.org'
+baseurl: "/icsd.org"
 url: https://webmaster-icsd.github.io
 twitter_username: IslamicCenterSD
 github_username: webmaster.icsd
