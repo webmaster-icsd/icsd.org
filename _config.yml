@@ -253,7 +253,7 @@ prose:
         value: annoucements
     _sliders:
     - name: title
-      field:
+      field: 
       label: Title
       element: text
     - name: image-url
