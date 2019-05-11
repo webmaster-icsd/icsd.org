@@ -55,7 +55,7 @@ collections:
 email: webmaster@icsd.org
 description: Build Strong Commmunities.
 baseurl: ''
-url: http://www.icsd.org
+url: https://webmaster-icsd.github.io/icsd.org
 twitter_username: IslamicCenterSD
 github_username: webmaster.icsd
 markdown: kramdown
@@ -253,7 +253,7 @@ prose:
         value: annoucements
     _sliders:
     - name: title
-      field: 
+      field:
       label: Title
       element: text
     - name: image-url
