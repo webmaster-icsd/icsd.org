@@ -38,10 +38,3 @@ jumuah: 12:30 pm / 01:45pm
         </div>
     </div>
 </div>
-
-<div id = 'subscribe-form' class="row py-4 px-lg-3 ">
-    <div class="col-12">
-            <p> ** Please use below form to subscribe to notifications.</p>
-    </div>
-    {% include subscribe-widget.html %}
-</div>
