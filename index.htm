@@ -2,6 +2,118 @@
 layout: home-layout
 ---
 
+{% assign prayer-times-pages = site.nav-pages | where: "title", "Prayer (Iqama) Times" %}
+{% assign prayer-times-page = prayer-times-pages[0]%}
+<div class="row pt-4 pb-2 d-none d-lg-block">
+  <div class="col-12">
+    <div href="#" class="row">
+      <div class="col-12 pb-2">
+        <h5 class="font-weight-bold">Prayer (Iqama) Times</h5>
+      </div>
+      <div class="col-md-2 ">
+        <div class="row">
+          <div class="col-12">
+            <h6>Fajr</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p>{{prayer-times-page.fajr}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-2">
+        <div class="row">
+          <div class="col-12">
+            <h6>Dhuhr</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p>{{prayer-times-page.dhuhr}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-2">
+        <div class="row">
+          <div class="col-12">
+            <h6>Asr</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p>{{prayer-times-page.asr}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-2">
+        <div class="row">
+          <div class="col-12">
+            <h6>Magrib</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p>{{prayer-times-page.magrib}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-2">
+        <div class="row">
+          <div class="col-12">
+            <h6>Isha</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p>{{prayer-times-page.isha}}</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-2">
+        <div class="row">
+          <div class="col-12">
+            <h6>Jumu'ah</h6>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <p>{{prayer-times-page.jumuah}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id = 'prayer-times' class="row py-4 px-lg-3 d-lg-none">
+  <div class="col-12">
+    <h5 class="font-weight-bold mb-3 pb-2">Prayer (Iqama) Times</h5>
+    <div class="row pb-2">
+      <div class="col-4 ">Fajr</div>
+      <div class="col-8">{{prayer-times-page.fajr}}</div>
+    </div>
+    <div class="row py-2">
+      <div class="col-4">Dhuhr</div>
+      <div class="col-8">{{prayer-times-page.dhuhr}}</div>
+    </div>
+    <div class="row py-2">
+      <div class="col-4">Asr</div>
+      <div class="col-8">{{prayer-times-page.asr}}</div>
+    </div>
+    <div class="row py-2">
+      <div class="col-4">Magrib</div>
+      <div class="col-8">{{prayer-times-page.magrib}}</div>
+    </div>
+    <div class="row py-2">
+      <div class="col-4">Isha</div>
+      <div class="col-8">{{prayer-times-page.isha}}</div>
+    </div>
+    <div class="row pt-2">
+      <div class="col-4">Jumu'ah</div>
+      <div class="col-8">{{prayer-times-page.jumuah}}</div>
+    </div>
+  </div>
+</div>
 <div class="row py-4">
   <div class="col-12">
     <div href="#" class="row">
@@ -12,12 +124,11 @@ layout: home-layout
         <a href="{{site.base_url}}/events"> View All</a>
       </div>
       <div id="upcoming-events" class="col-12">
-          <span class="h5"><i class=" py-5 la la-spinner la-spin"></i> Loading ... </span>
+        <span class="h5"><i class=" py-5 la la-spinner la-spin"></i> Loading ... </span>
       </div>
     </div>
   </div>
 </div>
-
 <div class="row pb-4">
   <div class="col-12">
     <div href="#" class="row pb-4">
@@ -31,7 +142,7 @@ layout: home-layout
     <div id="recent-announcements" class="col-12 px-0">
       {% assign announcements = site.announcements | sort: 'date' | reverse %}
       {% for announcement in announcements limit:1 %}
-        {{announcement.content}}
+      {{announcement.content}}
       {% endfor %}
     </div>
   </div>

@@ -1,34 +1,3 @@
-{% assign prayer-times-pages = site.nav-pages | where: "title", "Prayer (Iqama) Times" %}
-{% assign prayer-times-page = prayer-times-pages[0]%}
-<div id = 'prayer-times' class="row py-4 px-lg-3 ">
-    <div class="col-12">
-        <h5 class="font-weight-bold mb-3 pb-2">Prayer (Iqama) Times</h5>
-        <div class="row pb-2">
-            <div class="col-4 ">Fajr</div>
-            <div class="col-8">{{prayer-times-page.fajr}}</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4">Dhuhr</div>
-            <div class="col-8">{{prayer-times-page.dhuhr}}</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4">Asr</div>
-            <div class="col-8">{{prayer-times-page.asr}}</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4">Magrib</div>
-            <div class="col-8">{{prayer-times-page.magrib}}</div>
-        </div>
-        <div class="row py-2">
-            <div class="col-4">Isha</div>
-            <div class="col-8">{{prayer-times-page.isha}}</div>
-        </div>
-        <div class="row pt-2">
-            <div class="col-4">Jumu'ah</div>
-            <div class="col-8">{{prayer-times-page.jumuah}}</div>
-        </div>
-    </div>
-</div>
 <div class="row py-4 px-lg-3 ">
     {% include stream-widget.html %}
 </div>
