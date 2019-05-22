@@ -6,8 +6,6 @@ published: true
 ---
 ![icsd-logo-old.jpg]({{site.baseurl}}/media/icsd-logo-old.jpg)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="23Q7D3V6RK998" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+#### Please use below Paypal link to donate.
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ED463ASKHC25J&source=url
