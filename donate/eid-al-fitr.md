@@ -1,8 +1,10 @@
 ---
 title: Donate Eid-Al-Fitr
-date: 2018-05-03 00:00:00 Z
+date: {}
 layout: page-with-full-width-layout
+published: true
 ---
+![icsd-logo-old.jpg]({{site.baseurl}}/media/icsd-logo-old.jpg)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
