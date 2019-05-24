@@ -2,7 +2,7 @@
 event-date: '2019-05-24 15:01 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: EID MUBARAK!
 ---
 ![]({{site.baseurl}}/media/2019%20Eid%20Poster.jpg)
