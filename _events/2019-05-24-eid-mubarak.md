@@ -5,6 +5,5 @@ collection-name: events
 published: true
 title: EID MUBARAK!
 ---
-![]({{site.baseurl}}/media/2019%20Eid%20Poster.jpg)
-
 ![2019 Eid Poster.jpg]({{site.baseurl}}/media/2019 Eid Poster.jpg)
+
