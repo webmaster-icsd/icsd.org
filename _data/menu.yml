@@ -2,8 +2,7 @@
   type: collection
 - text: Events
 - text: Calendar
-- text: Applications
-  type: collection
+- text: Survey
 - text: Classifieds
 - text: Youth
   title: Youth (ICSD NextGen)
