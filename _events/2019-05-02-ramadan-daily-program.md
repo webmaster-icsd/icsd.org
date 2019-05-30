@@ -1,6 +1,6 @@
 ---
 title: Ramadan Daily Program
-date: {}
+date: 2018-03-07 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: events
 event-date: '2019-05-01 14:56 -0700'
