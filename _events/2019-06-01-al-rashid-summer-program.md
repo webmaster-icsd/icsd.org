@@ -5,4 +5,4 @@ collection-name: events
 published: true
 title: Al Rashid Summer Program
 ---
-![2019 Eid Carnival.jpg]({{site.baseurl}}/media/2019 Eid Carnival.jpg)
+![]({{site.baseurl}}/media/summer%20program.jpg)
