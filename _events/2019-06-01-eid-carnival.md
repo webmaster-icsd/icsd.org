@@ -5,4 +5,4 @@ collection-name: events
 published: false
 title: Eid Carnival!
 ---
-
+![]({{site.baseurl}}/media/2019%20Eid%20Carnival.jpg)
