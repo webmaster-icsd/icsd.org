@@ -1,6 +1,6 @@
 ---
 title: Quran Memorization Contest
-date: {}
+date: '2019-05-08 15:10 -0700'
 event-date: '2019-05-08 15:10 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
