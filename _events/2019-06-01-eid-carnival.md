@@ -1,0 +1,8 @@
+---
+event-date: '2019-06-01 15:50 -0700'
+layout: collection-with-sidebar-layout
+collection-name: events
+published: false
+title: Eid Carnival!
+---
+
