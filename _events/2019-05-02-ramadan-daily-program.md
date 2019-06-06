@@ -4,7 +4,7 @@ date: 2018-03-07 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: events
 event-date: '2019-05-01 14:56 -0700'
-published: true
+published: false
 ---
 
 ### 1st day of Ramadan: Monday, May 6, 2019  
