@@ -2,7 +2,7 @@
 event-date: '2019-07-09 13:04 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: Viewing of Sultan and the Saint
 ---
 ## A New Post
