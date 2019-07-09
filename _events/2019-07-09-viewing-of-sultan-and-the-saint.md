@@ -5,6 +5,4 @@ collection-name: events
 published: true
 title: Viewing of Sultan and the Saint
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![Sultan and Saint.jpg]({{site.baseurl}}/media/Sultan and Saint.jpg)
