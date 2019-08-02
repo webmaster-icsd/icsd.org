@@ -1,5 +1,5 @@
 ---
-title: Donate Eid-Al-Fitr
+title: Donate Eid
 date: {}
 layout: page-with-full-width-layout
 published: true
