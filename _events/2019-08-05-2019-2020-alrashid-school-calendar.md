@@ -5,4 +5,4 @@ collection-name: events
 published: true
 title: '2019-2020 AlRashid School Calendar '
 ---
-[Untitled.png]({{site.baseurl}}/media/Untitled.png)
+![Untitled.png]({{site.baseurl}}/media/Untitled.png)
