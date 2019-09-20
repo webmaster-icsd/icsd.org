@@ -1,10 +1,5 @@
 ---
-title: '#MUSLIMSCOUNT'
-date: {2019-09-20 12:51 -0700}
-published: true
-event-date: '2019-09-20 12:51 -0700'
-layout: collection-with-sidebar-layout
-collection-name: events
+title: 2019 09 20  Muslimscount
 ---
 
 ![1.jpg]({{site.baseurl}}/media/1.jpg)
