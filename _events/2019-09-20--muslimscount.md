@@ -1,6 +1,6 @@
 ---
 title: '#MUSLIMSCOUNT'
-date: {}
+date: {2019-09-20 12:51 -0700}
 published: true
 event-date: '2019-09-20 12:51 -0700'
 layout: collection-with-sidebar-layout
