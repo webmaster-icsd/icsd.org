@@ -1,6 +1,6 @@
 ---
 title: 'About Islam: A Brief Introduction'
-date: {}
+date: 2018-03-01 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
 published: true
