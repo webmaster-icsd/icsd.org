@@ -1,6 +1,6 @@
 ---
 title: Open Mosque Day
-date: {}
+date: {2019-09-19 15:23 -0700}
 event-date: '2019-09-19 15:23 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
