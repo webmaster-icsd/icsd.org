@@ -3,7 +3,6 @@ title: 'About Islam: A Brief Introduction'
 date: 2018-03-01 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
 ---
 
 Islam is a natural and complete way of life. It encourages one to give due attention to his relationship with his Creator (God). It teaches that people find true lasting happiness and peace through being close to God, following His guidance and performing good deeds.
