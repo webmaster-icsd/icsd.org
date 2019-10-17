@@ -1,5 +1,5 @@
 ---
-title: 2018 05 22 Financial Aid
+title: Financial Aid
 date: {}
 layout: page-with-sidebar-layout
 published: false
