@@ -1,6 +1,6 @@
 ---
 title: 2018 05 22 Financial Aid
-published: true
+date: 2018-05-22 00:00:00 Z
 layout: page-with-sidebar-layout
 ---
 
