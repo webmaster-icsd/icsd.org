@@ -1,7 +1,7 @@
 ---
 title: Financial Aid
-date: 2019-10-17 00:00:00 Z
-published: false
+date: {}
+published: true
 layout: page-with-sidebar-layout
 ---
 
