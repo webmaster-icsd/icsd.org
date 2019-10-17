@@ -1,7 +1,8 @@
 ---
 title: 2018 05 22 Financial Aid
-date: 2018-05-22 00:00:00 Z
+date: {}
 layout: page-with-sidebar-layout
+published: true
 ---
 
 In order to receive financial assistance, please print, fill out, and return the following application to ICSD with:  
