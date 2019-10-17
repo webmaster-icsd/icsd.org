@@ -1,6 +1,6 @@
 ---
 title: Financial Aid
-date: {}
+date: {2018-05-22 00:00:00 Z}
 layout: page-with-sidebar-layout
 published: false
 ---
