@@ -1,9 +1,8 @@
 ---
 title: What is the Purpose of Life
-date: 2019-11-27T00:00:00.000Z
+date: 2019-11-27 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
 ---
 
 Where did I come from? Why am I here? Where am I going?
