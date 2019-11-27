@@ -1,9 +1,8 @@
 ---
 title: The Five Pillars of Islam
-date: 2019-11-27T00:00:00.000Z
+date: 2019-11-27 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
 ---
 
 Every sound structure must have a solid foundation in order to remain strong. Islam’s foundation is the five pillars it was built upon, forming the basis of Islamic teaching as taught by Prophet Muhammad (peace be upon him), wherein he said:
