@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: false
+published: true
 title: 'Atheism: An Islamic Perspective'
 ---
 ### What does Islam say about Atheism?
