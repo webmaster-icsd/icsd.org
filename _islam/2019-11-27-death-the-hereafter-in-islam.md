@@ -1,9 +1,8 @@
 ---
 title: Death & the Hereafter in Islam
-date: 2019-11-27T00:00:00.000Z
+date: 2019-11-27 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
 ---
 
 >“Every soul shall taste death.”Qur’an 29:57
