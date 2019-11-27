@@ -1,9 +1,11 @@
 ---
+title: Concept of God in Islam
+date: 2019-11-27 00:00:00 Z
+published: false
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: false
-title: Concept of God in Islam
 ---
+
 ### Is there a God?
 
 There are many rational reasons for believing in God. Three simple reasons are described below:
