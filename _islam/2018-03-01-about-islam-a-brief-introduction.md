@@ -1,8 +1,9 @@
 ---
 title: 'About Islam: A Brief Introduction'
-date: 2018-03-01 00:00:00 Z
+date: 2018-03-01T00:00:00.000Z
 layout: collection-with-sidebar-layout
 collection-name: islam
+published: true
 ---
 
 Islam is a natural and complete way of life. It encourages one to give due attention to his relationship with his Creator (God). It teaches that people find true lasting happiness and peace through being close to God, following His guidance and performing good deeds.  
@@ -30,12 +31,12 @@ Allah sent divine revelation to His Messengers as a guidance and mercy to mankin
 
 The Quran is the literal word of God and the final revelation to all of mankind. There are many clear signs and miracles that it is from God, examples of which include:  
 
-- Contains a simple, pure and universal message which appeals to Man’s inherent beliefs about Almighty God.  
-- Contains a unique style of language that is universally known as the pinnacle of Arabic eloquence and linguistic beauty – yet the Quran was revealed to Prophet Muhammad (peace be upon him) who was known, historically, to be illiterate.  
-- Includes prophecies  
-- Contains many scientific facts which have only been discovered recently despite being revealed over 1400 years ago.  
-- Free from any errors or contradictions.  
-- Preserved, word-for-word, since it was revealed in its original Arabic language (which is spoken today), unlike other scriptures which have been distorted, paraphrased, changed or lost.  
+	- Contains a simple, pure and universal message which appeals to Man’s inherent beliefs about Almighty God.  
+	- Contains a unique style of language that is universally known as the pinnacle of Arabic eloquence and linguistic beauty – yet the Quran was revealed to Prophet Muhammad (peace be upon him) who was known, historically, to be illiterate.  
+	- Includes prophecies  
+	- Contains many scientific facts which have only been discovered recently despite being revealed over 1400 years ago.  
+	- Free from any errors or contradictions.  
+	- Preserved, word-for-word, since it was revealed in its original Arabic language (which is spoken today), unlike other scriptures which have been distorted, paraphrased, changed or lost.  
 
 The most rational explanation for the many unique and miraculous aspects of the Quran is that it can only be from God. Together with the authentic sayings and actions of Prophet Muhammad (peace be upon him), it is the primary source of Islamic knowledge.  
 
