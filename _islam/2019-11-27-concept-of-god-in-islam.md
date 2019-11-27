@@ -1,7 +1,7 @@
 ---
 title: Concept of God in Islam
-date: 2019-11-27 00:00:00 Z
-published: false
+date: 2019-11-27T00:00:00.000Z
+published: true
 layout: collection-with-sidebar-layout
 collection-name: islam
 ---
@@ -106,6 +106,3 @@ Muslims believe in all the Prophets that Allah sent. These prophets include, Ada
 The ultimate purpose of life is to acknowledge the greatness of God, establish a direct connection with him and worship Him alone. The concept of worship in Islam is not limited to rituals such as praying and fasting. It includes all actions that are pleasing to God such as having good manner, being honest, establishing justice, being patient, and helping the needy.  
 
 In conclusion, the foundation of Islam is belief in Oneness and Uniqueness of Almighty God, Who is the creator, sustainer and Lord of all, perfect in all His attributes. He alone deserves all worship. Therein lies our success in this life and hereafter.
-
-
-
