@@ -1,9 +1,8 @@
 ---
 title: The Quran - The Final Revelation to Mankind
-date: 2018-03-13T00:00:00.000Z
+date: 2018-03-13 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
 ---
 
 ### _What is the Qur&#39;an?_
