@@ -1,7 +1,6 @@
 ---
 title: Concept of God in Islam
-date: 2019-11-27T00:00:00.000Z
-published: true
+date: 2019-11-27 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
 ---
