@@ -1,9 +1,8 @@
 ---
 title: 'Prophet Muhammad (peace be upon him) : You Should Know This Man'
-date: 2019-11-27T00:00:00.000Z
+date: 2019-11-27 00:00:00 Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
 ---
 
 ### Who is Muhammad (peace be upon him)?
