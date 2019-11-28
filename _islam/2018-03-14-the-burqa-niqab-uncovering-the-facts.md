@@ -3,7 +3,7 @@ title: The Burqa & Niqab – Uncovering the Facts
 date: 2018-03-14T00:00:00.000Z
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: true
+published: false
 ---
 
 The burqa and niqab have become a topic of much controversy and heated debate. A number of countries have banned the wearing of these religious garments, while others have considered banning or limiting their use.
