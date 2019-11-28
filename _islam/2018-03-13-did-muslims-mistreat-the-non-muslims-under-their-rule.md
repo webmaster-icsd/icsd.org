@@ -1,6 +1,7 @@
 ---
 title: Did Muslims Mistreat the Non-Muslims Under Their Rule?
-date: {}
+date:
+  'Mon Mar 12 2018 17:00:00 GMT-0700 (Pacific Daylight Time)': null
 layout: collection-with-sidebar-layout
 collection-name: islam
 published: false
