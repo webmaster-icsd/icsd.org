@@ -1,8 +1,9 @@
 ---
 title: Who is Prophet Mohammed?
-date: 2018-03-14 00:00:00 Z
+date: 2018-03-14T00:00:00.000Z
 layout: collection-with-sidebar-layout
 collection-name: islam
+published: false
 ---
 
 ## Who is Prophet Mohammed?
