@@ -1,8 +1,9 @@
 ---
 title: Was Islam Spread Through the Sword?
-date: 2018-03-14 00:00:00 Z
+date: 2018-03-14T00:00:00.000Z
 layout: collection-with-sidebar-layout
 collection-name: islam
+published: false
 ---
 
 Muslims expanded beyond Arabia (now Saudi Arabia) in order to propagate Islam and remove any obstacle that stopped them from informing people about it, and giving them the freedom to enter it if they wished, without force. As stated in the Quran: “there is no compulsion in religion” (2:256). 
