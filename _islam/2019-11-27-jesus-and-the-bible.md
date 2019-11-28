@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: false
+published: true
 title: Jesus and the Bible
 ---
 This section quotes several verses from the old and new testaments regarding Jesus (peace be upon him). Please read the section titled” Jesus in Islam” before reading this section.
