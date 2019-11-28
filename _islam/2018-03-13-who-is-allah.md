@@ -1,8 +1,9 @@
 ---
 title: Who is Allah
-date: 2018-03-13 00:00:00 Z
+date: 2018-03-13T00:00:00.000Z
 layout: collection-with-sidebar-layout
 collection-name: islam
+published: false
 ---
 
 Allah is the Arabic name of God where even Arabs of Christian faith call him Allah in their prayers. He is the one and only God the Creator, The Merciful, The Compassionate, The Just, and all other attributes he describes Himself in the Holy Book of Quran. For Muslims and in Islam, a main criteria attributed to God that other faiths might not, is that He cannot have a son, a divine partner, or any other associate. God Almighty warned us and gave the example of how Christians wrongly attribute to him Jesus as a son.
