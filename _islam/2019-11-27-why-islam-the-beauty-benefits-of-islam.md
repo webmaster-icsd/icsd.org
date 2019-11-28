@@ -1,7 +1,7 @@
 ---
 layout: collection-with-sidebar-layout
 collection-name: islam
-published: false
+published: true
 title: Why Islam? The Beauty & Benefits of Islam
 ---
 Are all religions the same? How do I know which is correct? Why should I choose Islam? 
