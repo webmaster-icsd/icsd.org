@@ -81,21 +81,21 @@ And many more; Exodus 8:10, II Samuel 7:22, I Kings 8:23, Psalms 113:5, Isaiah 4
 And a voice from heaven, said, “This is my beloved Son, in whom I am well pleased.” (Matthew 3:17)
 
 ## How about others mentioned as ‘Son(s)’ or ‘First Born’ in the Bible?
- [Israel]: And you shall say unto Pharaoh, “This is what the Lord says: Israel is my son, even my firstborn” (Exodus 4:22)
+Concerning [Israel]: And you shall say unto Pharaoh, “This is what the Lord says: Israel is my son, even my firstborn” (Exodus 4:22)
 
-* [Solomon]: “He [Solomon] shall build a house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel forever. (I Chronicles 22:10, II Samuel 7:13-14)
+Concerning [Solomon]: “He [Solomon] shall build a house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel forever. (I Chronicles 22:10, II Samuel 7:13-14)
 
-* [People]: “You are the children of the Lord your God: you shall not cut yourselves, nor make any baldness between your eyes for the dead”. (Deuteronomy 14:1)
+Concerning [People]: “You are the children of the Lord your God: you shall not cut yourselves, nor make any baldness between your eyes for the dead”. (Deuteronomy 14:1)
 
-* [People]: And I will be a Father unto you, and you shall be my sons and daughters, saith the Lord Almighty” (II Corinthians 6:18) 
+Concerning [People]: And I will be a Father unto you, and you shall be my sons and daughters, saith the Lord Almighty” (II Corinthians 6:18) 
 
-* [Israel and Ephraim]: “They shall come with weeping, and with supplications as I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn” (Jeremiah 31:9)
+Concerning [Israel and Ephraim]: “They shall come with weeping, and with supplications as I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn” (Jeremiah 31:9)
 
-* [David]: I will declare the decree: the Lord said unto me [David], “You are my Son; this day have I become your father” (Psalms 2:7)
+Concerning [David]: I will declare the decree: the Lord said unto me [David], “You are my Son; this day have I become your father” (Psalms 2:7)
 
-* [Peace makers]: “Blessed are the peacemakers: for they shall be called the children of God.” (Matthew 5:9)
+Concerning [Peace makers]: “Blessed are the peacemakers: for they shall be called the children of God.” (Matthew 5:9)
 
-* [Melchizedek the Priest]: For this Melchizedek, king of Salem, priest of the most high God, . . . Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; remains a priest continually [forever]. (Hebrews 7:1-3)
+Concerning [Melchizedek the Priest]: For this Melchizedek, king of Salem, priest of the most high God, . . . Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; remains a priest continually [forever]. (Hebrews 7:1-3)
 
 “Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.” (Luke 3:38)
 
@@ -126,13 +126,13 @@ Do above verses point to a symbolic statement to mean oneness of purpose, or one
 ### Jesus was the expected Messiah, a Prophet
 **Later people elevated Jesus from a teacher, a Prophet, to “Son of God”, “Lord”, and finally “God” himself? How does Bible define him?**
 
-[A teacher]: The same came to Jesus by night, and said unto him: “Rabbi, we know that you are a teacher [who has] come from God: for no man can do these miracles that you do, if God was not with him” (John 3:2)
+Concerning [A teacher]: The same came to Jesus by night, and said unto him: “Rabbi, we know that you are a teacher [who has] come from God: for no man can do these miracles that you do, if God was not with him” (John 3:2)
 
-[A man]: “You men of Israel, hear these words; Jesus of Nazareth, was a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you [which God did among you through him], as you yourselves also know (Acts 2:22) 
+Concerning [A man]: “You men of Israel, hear these words; Jesus of Nazareth, was a man approved of God among you by miracles and wonders and signs, which God did by him in the midst of you [which God did among you through him], as you yourselves also know (Acts 2:22) 
 
-[A Prophet]: Then those men, when they had seen the miracle that Jesus performed, they said: “[surely] This is the prophet who is to come into the world.” (John 6:14)
+Concerning [A Prophet]: Then those men, when they had seen the miracle that Jesus performed, they said: “[surely] This is the prophet who is to come into the world.” (John 6:14)
 
-[A Prophet]: And the multitude [crowd] said, “This is Jesus the prophet of Nazareth of Galilee.” (Matthew 21:11)
+Concerning [A Prophet]: And the multitude [crowd] said, “This is Jesus the prophet of Nazareth of Galilee.” (Matthew 21:11)
 
 See also, John 7:40, Acts, 2:22, 3:13, 22-23, Luke 7:16, 24:19, 9:22, and 4:41 
 
