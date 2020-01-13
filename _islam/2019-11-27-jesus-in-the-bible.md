@@ -81,21 +81,21 @@ And many more; Exodus 8:10, II Samuel 7:22, I Kings 8:23, Psalms 113:5, Isaiah 4
 And a voice from heaven, said, “This is my beloved Son, in whom I am well pleased.” (Matthew 3:17)
 
 ## How about others mentioned as ‘Son(s)’ or ‘First Born’ in the Bible?
-[Israel]: And you shall say unto Pharaoh, “This is what the Lord says: Israel is my son, even my firstborn” (Exodus 4:22)
+ [Israel]: And you shall say unto Pharaoh, “This is what the Lord says: Israel is my son, even my firstborn” (Exodus 4:22)
 
-[Solomon]: “He [Solomon] shall build a house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel forever. (I Chronicles 22:10, II Samuel 7:13-14)
+* [Solomon]: “He [Solomon] shall build a house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel forever. (I Chronicles 22:10, II Samuel 7:13-14)
 
-[People]: “You are the children of the Lord your God: you shall not cut yourselves, nor make any baldness between your eyes for the dead”. (Deuteronomy 14:1)
+* [People]: “You are the children of the Lord your God: you shall not cut yourselves, nor make any baldness between your eyes for the dead”. (Deuteronomy 14:1)
 
-[People]: And I will be a Father unto you, and you shall be my sons and daughters, saith the Lord Almighty” (II Corinthians 6:18) 
+* [People]: And I will be a Father unto you, and you shall be my sons and daughters, saith the Lord Almighty” (II Corinthians 6:18) 
 
-[Israel and Ephraim]: “They shall come with weeping, and with supplications as I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn” (Jeremiah 31:9)
+* [Israel and Ephraim]: “They shall come with weeping, and with supplications as I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn” (Jeremiah 31:9)
 
-[David]: I will declare the decree: the Lord said unto me [David], “You are my Son; this day have I become your father” (Psalms 2:7)
+* [David]: I will declare the decree: the Lord said unto me [David], “You are my Son; this day have I become your father” (Psalms 2:7)
 
-[Peace makers]: “Blessed are the peacemakers: for they shall be called the children of God.” (Matthew 5:9)
+* [Peace makers]: “Blessed are the peacemakers: for they shall be called the children of God.” (Matthew 5:9)
 
-[Melchizedek the Priest]: For this Melchizedek, king of Salem, priest of the most high God, . . . Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; remains a priest continually [forever]. (Hebrews 7:1-3)
+* [Melchizedek the Priest]: For this Melchizedek, king of Salem, priest of the most high God, . . . Without father, without mother, without descent, having neither beginning of days, nor end of life; but made like unto the Son of God; remains a priest continually [forever]. (Hebrews 7:1-3)
 
 “Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God.” (Luke 3:38)
 
