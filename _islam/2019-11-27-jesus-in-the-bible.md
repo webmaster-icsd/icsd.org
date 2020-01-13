@@ -30,8 +30,8 @@ Jesus’s power and authority came from God:
 “But that the world may know that I love the Father; and as the Father gave me commandment, even so I do [I do exactly what my father commands me]” (John 14:31)
 
 ### What Jesus did say
-## Jesus said that he was the Prophet of God:
-And they were offended by him. But Jesus said unto them,” A prophet is not without honor, except in his own country [town], and in his own house.” (Matthew 13:57)
+## Jesus said that he was the **Prophet** of God:
+And they were offended by him. But Jesus said unto them, "A prophet is not without honor, except in his own country [town], and in his own house.” (Matthew 13:57)
 
 “Nevertheless, I must walk today, and tomorrow, and the day following: for it cannot be that a prophet perishes outside of Jerusalem. O Jerusalem, Jerusalem, which [you who] kill the prophets, and stone them [those] that are sent to you . . .” (Luke 13:33-34)
 
