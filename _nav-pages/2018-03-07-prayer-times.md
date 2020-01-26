@@ -4,7 +4,7 @@ date: 2018-03-07 00:00:00 Z
 layout: page-with-full-width-layout
 fajr: 06:00 am
 dhuhr: 12:15 pm
-asr: 03:00 pm
+asr: 03:15 pm
 magrib: 5 mins after sunset
 isha: 07:30 pm
 jumuah: 12:30 pm / 01:45pm
