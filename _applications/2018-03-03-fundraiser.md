@@ -1,6 +1,7 @@
 ---
 title: Fundraiser
 date: 2018-03-03 00:00:00 Z
+published: false
 layout: page-with-sidebar-layout
 ---
 
