@@ -2,7 +2,7 @@
 event-date: '2020-02-08 17:15 -0800'
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: 'Reclaiming Our Faith '
 ---
 ## Reclaiming Our Faith: In Pursuit of Prophetic Principles
