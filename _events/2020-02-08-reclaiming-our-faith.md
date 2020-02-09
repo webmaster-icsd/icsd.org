@@ -11,6 +11,6 @@ Date: Sun Mar 8, 2020 11:00 am - 5:00 pm
 
 Location: SDSU Montezuma Hall, 92115 
 
-Buy Ticket @ https://www.tickettailor.com/events/reclaiminourfaith/348958
+Buy Ticket @ [https://www.tickettailor.com/events/reclaiminourfaith/348958](https://www.tickettailor.com/events/reclaiminourfaith/348958)
 
-![]({{site.baseurl}}/media/Reclaiming%20Our%20Faith.jpg)
+[https://www.tickettailor.com/events/reclaiminourfaith/348958](![]({{site.baseurl}}/media/Reclaiming%20Our%20Faith.jpg))
