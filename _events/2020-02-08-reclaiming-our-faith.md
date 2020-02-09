@@ -13,4 +13,4 @@ Location: SDSU Montezuma Hall, 92115
 
 Buy Ticket @ [https://www.tickettailor.com/events/reclaiminourfaith/348958](https://www.tickettailor.com/events/reclaiminourfaith/348958)
 
-[https://www.tickettailor.com/events/reclaiminourfaith/348958](![]({{site.baseurl}}/media/Reclaiming%20Our%20Faith.jpg))
+![]({{site.baseurl}}/media/Reclaiming%20Our%20Faith.jpg)
