@@ -4,7 +4,7 @@ date: 2018-03-07T00:00:00.000Z
 layout: page-with-full-width-layout
 fajr: '05:30 am'
 dhuhr: '12:15 pm'
-asr: '03:45 pm'
+asr: '04:00 pm'
 magrib: 5 mins after sunset
 isha: '07:30 pm'
 jumuah: '12:30 pm / 01:45pm'
