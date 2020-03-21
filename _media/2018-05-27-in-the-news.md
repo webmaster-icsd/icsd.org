@@ -14,4 +14,3 @@ published: true
 
 ## The Islamic Center of San Diego and the [Muslim Leadership Council](https://www.youtube.com/watch?v=5SCBQAxLDuI)
 
-## San Diego Imam: [COVID-19 is revealing the brotherhood of humanity](https://www.sandiegouniontribune.com/opinion/commentary/story/2020-03-20/commentary-san-diego-imam-covid-19-is-revealing-the-brotherhood-of-humanity) - The San Diego Union-Tribune
