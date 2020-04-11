@@ -2,7 +2,7 @@
 event-date: '2020-04-11 12:14 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: Sewer Infrastructure Project
 ---
 ## Urgent Appeal: Islamic Center Of San Diego Needs Your Support
