@@ -4,6 +4,8 @@ date: 2018-05-27T00:00:00.000Z
 layout: page-with-sidebar-layout
 published: true
 ---
+## Ramadan article in the Union Tribute: [Muslim families prepare for a Ramadan unlike anything before](https://www.sandiegouniontribune.com/communities/san-diego/story/2020-04-23/muslim-families-prepare-for-a-ramadan-unlike-anything-before)
+
 ## Imam Taha speaks with KUSI: [Muslims grapple with Ramadan rituals in coronavirus era](https://www.kusi.com/muslims-grapple-with-ramadan-rituals-in-coronavirus-era/) 
 
 ## San Diego Imam: [COVID-19 is revealing the brotherhood of humanity](https://www.sandiegouniontribune.com/opinion/commentary/story/2020-03-20/commentary-san-diego-imam-covid-19-is-revealing-the-brotherhood-of-humanity) - The San Diego Union-Tribune  
