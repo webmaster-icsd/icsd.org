@@ -5,6 +5,7 @@ published: true
 layout: page-with-sidebar-layout
 ---
 ## Ramadan Mubarak and "Kul am wa entum bikhair"!
-To apply for Zakat al-Fitr, please completely fill out this online [application](https://forms.gle/GEw6VwpLF7QnZ6et8). 
+
+We are no longer accepting new applications for Zakat-ul-Fitr. Sorry for the inconvenience.
 
 JzkumAllah khair
