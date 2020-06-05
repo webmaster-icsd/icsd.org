@@ -2,7 +2,7 @@
 event-date: '2020-06-05 16:06 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: >-
   STATEMENT OF THE ISLAMIC SHURA COUNCIL OF SOUTHERN CALIFORNIA ON POLICE
   VIOLENCE, ANTI BLACKNESS, AND RACISM
@@ -42,4 +42,3 @@ Uplift existing black Muslim institutions through financial support, resource ex
 Join local efforts in your city or county to uplift justice and equality for the Black community.
 
 In Solidarity, Board and Staff of the Islamic Shura Council of Southern California.## A New Post
-
