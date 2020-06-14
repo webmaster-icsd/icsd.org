@@ -14,5 +14,5 @@ Join Zoom Meeting
 
 [https://us02web.zoom.us/j/82028077347?pwd=Skova0NGTmtjdU5hcFUyMlVTWjJDUT09](https://us02web.zoom.us/j/82028077347?pwd=Skova0NGTmtjdU5hcFUyMlVTWjJDUT09)
 
-Meeting ID: 820 2807 7347
+Meeting ID: 820 2807 7347  
 Password: 007185
