@@ -2,7 +2,7 @@
 event-date: '2020-06-13 22:58 -0700'
 layout: collection-with-sidebar-layout
 collection-name: events
-published: false
+published: true
 title: Islam 101 (Introduction to Islam) - Every Sunday 12p
 ---
 ## Islam 101 (Introduction to Islam)
