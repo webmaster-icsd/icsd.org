@@ -9,7 +9,8 @@ title: Islam 101 (Introduction to Islam) - Every Sunday 12p
 
 Time: Jun 14, 2020 12:00 PM Pacific Time (US and Canada)
 
-Join Zoom Meeting
+Join Zoom Meeting  
+
 
 [https://us02web.zoom.us/j/82028077347?pwd=Skova0NGTmtjdU5hcFUyMlVTWjJDUT09](https://us02web.zoom.us/j/82028077347?pwd=Skova0NGTmtjdU5hcFUyMlVTWjJDUT09)
 
