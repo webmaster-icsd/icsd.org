@@ -20,7 +20,7 @@ Given the current circumstances, classes will be held online until further notic
   </div>
 </div>
 
-[AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
+![AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
 
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
 
