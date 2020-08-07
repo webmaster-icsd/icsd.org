@@ -11,7 +11,7 @@ Classes are held on Saturdays during two sessions: Arabic Speaking students from
 
 Given the current circumstances, classes will be held online until further notice. 
 
-Please use below button to pay fees.
+Please use below buttons to pay fees.
 
 <div class="row pt-10 pb-3">
   <div class="col-md-6 col-6 pb-3">
