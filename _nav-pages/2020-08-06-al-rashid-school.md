@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar-layout
-published: false
-title: Al Rashid School
+published: true
+title: Al Rashid Saturday School
 ---
 ## A New Post
 
