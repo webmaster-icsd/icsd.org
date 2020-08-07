@@ -2,7 +2,8 @@
   type: collection
 - text: Events
 - text: Calendar
-- text: Al Rashid School
+- text: School
+  title: Al Rashid Weekend School
 - text: Applications
   type: collection
 - text: Classifieds
