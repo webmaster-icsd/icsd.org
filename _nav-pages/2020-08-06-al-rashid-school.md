@@ -22,6 +22,9 @@ Please use below buttons to pay fees.
   </div>
 </div>
 
+Please use below link for registration
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform?fbclid=IwAR02-Vu2ROj6GvKAZopUnR6btFcXpKP1I0pQrI5TIX5H7iov2MQFUmrtvbc)
+
 ![AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
 
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
