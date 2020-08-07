@@ -11,6 +11,15 @@ Classes are held on Saturdays during two sessions: Arabic Speaking students from
 
 Given the current circumstances, classes will be held online until further notice. 
 
+<div class="row pt-10 pb-3">
+  <div class="col-md-6 col-6 pb-3">
+      <a class="btn btn-sm btn-success" href="https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee" style="width: 100%;padding:12px;">Pay Registration Fees</a>
+  </div>
+  <div class="col-md-6 col-6 pb-3">
+      <a class="btn btn-sm btn-success" href="https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition" style="width: 100%;padding:12px;">Pay Tuition Fees</a>
+  </div>
+</div>
+
 [AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
 
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
