@@ -13,7 +13,7 @@ Given the current circumstances, classes will be held online until further notic
 
 Please use below buttons to pay fees.
 
-Please use below link for registration
+Please use following link for registration
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform?fbclid=IwAR02-Vu2ROj6GvKAZopUnR6btFcXpKP1I0pQrI5TIX5H7iov2MQFUmrtvbc)
 
 
