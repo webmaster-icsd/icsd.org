@@ -11,8 +11,10 @@ Classes are held on Saturdays during two sessions: Arabic Speaking students from
 
 Given the current circumstances, classes will be held online until further notice. 
 
+[AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
+
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
 
 ![Al Rashid Virtual Academy Tuition.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Tuition.png)
 
-![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)
+![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)!
