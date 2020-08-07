@@ -1,7 +1,7 @@
 ---
 layout: page-with-sidebar-layout
 published: true
-title: Al Rashid Saturday School
+title: Al Rashid School
 ---
 Al Rashid School is the weekend learning program at the Islamic Center of San Diego and has been in operation for over 30 years.
 
