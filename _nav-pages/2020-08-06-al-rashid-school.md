@@ -13,6 +13,10 @@ Given the current circumstances, classes will be held online until further notic
 
 Please use below buttons to pay fees.
 
+Please use below link for registration
+[Register here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform?fbclid=IwAR02-Vu2ROj6GvKAZopUnR6btFcXpKP1I0pQrI5TIX5H7iov2MQFUmrtvbc)
+
+
 <div class="row pt-10 pb-3">
   <div class="col-md-6 col-6 pb-3">
       <a class="btn btn-sm btn-success" href="https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee" style="width: 100%;padding:12px;">Registration Fees</a>
@@ -22,13 +26,10 @@ Please use below buttons to pay fees.
   </div>
 </div>
 
-Please use below link for registration
-[Register here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform?fbclid=IwAR02-Vu2ROj6GvKAZopUnR6btFcXpKP1I0pQrI5TIX5H7iov2MQFUmrtvbc)
-
 ![AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
 
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
 
 ![Al Rashid Virtual Academy Tuition.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Tuition.png)
 
-![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)!
+![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)
