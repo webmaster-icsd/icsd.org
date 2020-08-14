@@ -16,6 +16,7 @@ Please use below buttons to pay fees.
 Please use following link for registration
 [Register here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform?fbclid=IwAR02-Vu2ROj6GvKAZopUnR6btFcXpKP1I0pQrI5TIX5H7iov2MQFUmrtvbc)
 
+For assistance with Al Rashid fees: [click here](https://docs.google.com/forms/u/0/d/19mbqgZOdgmCFgTmhr9It7FCWLBsApfr6msY_eW8EUsU/viewform?edit_requested=true).  
 
 <div class="row pt-10 pb-3">
   <div class="col-md-6 col-6 pb-3">
@@ -31,6 +32,5 @@ Please use following link for registration
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
 
 ![Al Rashid Virtual Academy Tuition.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Tuition.png)
-For assistance with Al Rashid fees: [click here](https://docs.google.com/forms/u/0/d/19mbqgZOdgmCFgTmhr9It7FCWLBsApfr6msY_eW8EUsU/viewform?edit_requested=true).
 
 ![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)
