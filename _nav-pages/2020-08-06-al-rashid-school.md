@@ -31,5 +31,6 @@ Please use following link for registration
 ![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
 
 ![Al Rashid Virtual Academy Tuition.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Tuition.png)
+For assistance with Al Rashid fees: [click here](https://docs.google.com/forms/u/0/d/19mbqgZOdgmCFgTmhr9It7FCWLBsApfr6msY_eW8EUsU/viewform?edit_requested=true).
 
 ![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)
