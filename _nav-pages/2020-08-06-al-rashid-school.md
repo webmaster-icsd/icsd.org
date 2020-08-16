@@ -32,9 +32,9 @@ For assistance with fees: [click here](https://docs.google.com/forms/u/0/d/19mbq
   </div>
 </div>
 
-![AlRashidVirtual.png]({{site.baseurl}}/media/AlRashidVirtual.png)
+![AlRashidVirtual.png](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/alrashid%20school%20flyerr%20-%20updated.png)
 
-![Al Rashid Virtual Academy Registration.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Registration.png)
+![Al Rashid Virtual Academy Registration.png](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/alrashidvirtualacademy-calendar-updated.png)
 
 ![Al Rashid Virtual Academy Tuition.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Tuition.png)
 
