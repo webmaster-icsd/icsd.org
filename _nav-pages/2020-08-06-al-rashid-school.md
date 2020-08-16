@@ -11,9 +11,7 @@ Classes are held on Saturdays during two sessions: Arabic Speaking students from
 
 Given the current circumstances, classes will be held online until further notice. 
 
-Please use the buttons below to register and pay fees.
-
-Please use following links: For registration
+## Please use following links: For registration
   <div class="row pt-10 pb-3">
     <div class="col-md-6 col-6 pb-3">
         <a class="btn btn-sm btn-warning" href="https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform?fbclid=IwAR02-Vu2ROj6GvKAZopUnR6btFcXpKP1I0pQrI5TIX5H7iov2MQFUmrtvbc" style="width: 100
@@ -22,6 +20,8 @@ Please use following links: For registration
   </div>
   
 For assistance with fees: [click here](https://docs.google.com/forms/u/0/d/19mbqgZOdgmCFgTmhr9It7FCWLBsApfr6msY_eW8EUsU/viewform?edit_requested=true).  
+
+## Please use the buttons below to register and pay fees.
 
 <div class="row pt-10 pb-3">
   <div class="col-md-6 col-6 pb-3">
