@@ -6,7 +6,7 @@ fajr: '05:00 am'
 dhuhr: '1:15 pm'
 asr: '05:00 pm'
 magrib: 5 mins after sunset
-isha: '09:30 pm'
+isha: '09:00 pm'
 jumuah: '12:30 pm / 01:45pm'
 published: true
 ---
