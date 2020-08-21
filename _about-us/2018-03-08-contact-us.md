@@ -1,7 +1,8 @@
 ---
 title: Contact Us
-date: 2018-03-08 00:00:00 Z
+date: 2018-03-08T00:00:00.000Z
 layout: page-with-full-width-layout
+published: true
 ---
 
 <div class="row">
@@ -39,7 +40,7 @@ layout: page-with-full-width-layout
         <div class="lh-200 align-baseline">
             <i class="font-large la la-map-marker float-left pr-3"></i>
             <address>7050 Eckstrom Avenue,
-             San Diego, CA 92117</address>
+             San Diego, CA 92111</address>
         </div>
         <div class="pb-3 lh-200 align-baseline">
             <i class="font-large la la-phone float-left pr-3"></i>
