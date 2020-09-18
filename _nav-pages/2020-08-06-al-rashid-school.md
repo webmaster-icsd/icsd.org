@@ -39,3 +39,11 @@ For assistance with fees: [click here](https://docs.google.com/forms/u/0/d/19mbq
 ![Al Rashid Virtual Academy Tuition.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Tuition.png)
 
 ![Al Rashid Virtual Academy Calendar.png]({{site.baseurl}}/media/Al%20Rashid%20Virtual%20Academy%20Calendar.png)
+
+![ArshidSchool14andup.jpeg]({{site.baseurl}}/media/ArshidSchool14andup.jpeg)
+
+<div class="row pt-10 pb-3">
+    <div class="col-12 pb-3">
+        <a class="btn btn-sm btn-warning" href="https://forms.gle/LwA8GGdQtQDWvPbQ8" style="width: 100%;padding:12px;white-space: normal;">Boys 14+ Tuition Free - Register here</a>
+    </div>
+  </div>
