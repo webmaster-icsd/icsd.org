@@ -34,7 +34,8 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
     
 Let’s make this project our SADAQAH JARIYAH.
     
-    InshaAllah we plan to develop it into a fully functional COMMUNITY CENTER that can serve as:
+InshaAllah we plan to develop it into a fully functional COMMUNITY CENTER that can serve as:
+
 1. **YOUTH CENTER** to guide, support & nurture our young population.
 1. **DAY CARE CENTER** to nurture our children and support working parents.
 1. **EVENT HALL** for our community & educational events
