@@ -1,9 +1,9 @@
 ---
 title: >-
-  ICSD Youth, Early Education and Community Center. <br/> Make this your SADAQAH
+  ICSD Youth, Early Education and Community Center. <br/> Make it your SADAQAH
   JARIYAH
 date: 2019-02-28T00:00:00.000Z
-layout: page-with-full-width-layout
+layout: page-with-sidebar-layout
 published: true
 ---
 
@@ -30,9 +30,9 @@ published: true
   </div>
 </div>
     
-Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church). Let us use this opportunity to secure our families, our community and our future.
+Our community had a **DREAM**, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church). Let us use this opportunity to secure our families, our community and our future.
     
-Let’s make this project our SADAQAH JARIYAH.
+Let’s make this project our **SADAQAH JARIYAH**.
     
 InshaAllah we plan to develop it into a fully functional COMMUNITY CENTER that can serve as:
 
