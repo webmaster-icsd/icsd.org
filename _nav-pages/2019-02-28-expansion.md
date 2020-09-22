@@ -32,15 +32,22 @@ published: true
 
 <div class="row">
   <div class="col-12">
-    <h2>ICSD Nextgen Collaborates With Blue Owl Learning</h2>
-  	<p>Assalamualaikum  ICSD Nextgen  is honored  to collaborate  with Blue Owl Learning to provide free tutoring for grades K - 12</p>
-    <h2>About Blue Owl Learning</h2>
-        <ul>
-        <li>Mission is to provide free tutoring services to all students</li>
-        <li>All of our tutors are certified and have college level knowledge in their subjects</li>
-        </ul>
-    <h2>Register at</h2>
-    <a href="https://blueowllearning.org/register" >https://blueowllearning.org/register </a>   
+    
+    Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church). Let us use this opportunity to secure our families, our community and our future.
+    
+    Let’s make this project our SADAQAH JARIYAH.
+    
+    InshaAllah we plan to develop it into a fully functional COMMUNITY CENTER that can serve as:
+1. **YOUTH CENTER** to guide, support & nurture our young population.
+1. **DAY CARE CENTER** to nurture our children and support working parents.
+1. **EVENT HALL** for our community & educational events
+1. **COUNSELLING & THERAPY CENTER** for the vulnerable population in our community.
+1. **MENTAL HEALTH CENTER** center to address the needs of our community
+1. **SENIOR CENTER** with activities to support our aging population.
+1. **REVERT SUPPORT CENTER** to address needs of New Muslims.
+    
+    The possibilities are endless and all of this will be possible if we can pay-off the property purchase within the NEXT 6 MONTHS and it can only happen with your help.
+ 
   </div>
 </div>
 <br>
