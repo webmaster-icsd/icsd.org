@@ -28,7 +28,7 @@ published: true
     </div>
   </div>
     
-    ![]({{site.baseurl}}/https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/church-purchase-2020.png)
+![]({{site.baseurl}}/https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/church-purchase-2020.png)
     
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
     
