@@ -1,7 +1,6 @@
 ---
 title: >-
-  ICSD Expansion: Youth, Early Education and Community Center. <br/>It is your
-  SADAQAH JARIYAH
+  ICSD Dream Expansion <br/>It is your Sadaqah Jariah
 date: 2019-02-28T00:00:00.000Z
 layout: expansion-page-with-sidebar-layout
 published: true
@@ -31,7 +30,7 @@ published: true
 ![](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/church-purchase-2020.png)
 
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
-## Please donate and support this project. It is your SADAQAH JARIYAH.
+## Please donate and support this project. It is your Sadaqah Jariah.
 ## We need to raise $1.4 million by February 28th 2021 to make this dream a reality.
 For questions, comments or feedback contact Azeem <br/>
 Ph: <a href="tel:+1-858-345-7662">(858) 345-7662</a> <br/>
