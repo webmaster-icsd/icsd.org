@@ -1,0 +1,20 @@
+<div class="row py-4 px-lg-3 ">
+    <div class="col-12">
+        <h5 class="font-weight-bold mb-3 pb-2">Other Links </h5>
+        {% for item in site.[page.collection] limit:7 %}
+        <div class="row pb-2">
+            <div class="col-12">
+                <a class="lh-150" href="{{ item.url | prepend: site.baseurl}}">{{item.title}}</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="row py-4 px-lg-3 ">
+    {% include stream-widget.html %}
+</div>
+
+<div class="row py-4 px-lg-3 ">
+    {% include subscribe-widget.html %}
+</div>

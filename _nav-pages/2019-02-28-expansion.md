@@ -3,7 +3,7 @@ title: >-
   ICSD Expansion: Youth, Early Education and Community Center. <br/>It is your
   SADAQAH JARIYAH
 date: 2019-02-28T00:00:00.000Z
-layout: page-with-sidebar-layout
+layout: expansion-page-with-sidebar-layout
 published: true
 ---
 
