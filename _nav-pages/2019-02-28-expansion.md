@@ -39,7 +39,7 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
   </div>
 </div>
   
-<div class="d-none d-md-block">
+<div class="d-none d-lg-block">
 For questions or feedback contact Br. Azeem <br/>
 Ph: <a href="tel:+1-858-345-7662">(858) 345-7662</a> <br/>
 Email: <a href="mailto:expansion@icsd.org">expansion@icsd.org</a>
