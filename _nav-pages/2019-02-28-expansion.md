@@ -31,7 +31,7 @@ published: true
 
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
 
-## $1.4 million is need by February 28th 2021 to make this dream a reality. Please donate generously.
+## $1.4 million is needed by February 28th 2021 to make this dream a reality. Please donate generously.
 
 <div class="row pt-10 pb-3">
   <div class="col-12 pb-3 d-flex justify-content-center">
