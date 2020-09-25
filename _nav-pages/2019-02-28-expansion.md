@@ -19,7 +19,9 @@ published: true
   }
 </style>
     
-![](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/icsd-expansion.jpg)
+<div class="video-container">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iEMxFws6-6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
 
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
 
