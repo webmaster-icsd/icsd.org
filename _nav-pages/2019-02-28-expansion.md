@@ -27,7 +27,7 @@ published: true
     </div>
   </div>
     
-![](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/church-purchase-2020.png)
+![](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/icsd-expansion.jpg)
 
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
 
@@ -40,7 +40,7 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
 </div>
   
 <div class="d-none d-lg-block">
-For questions or feedback contact Br. Azeem <br/>
+For questions or feedback contact Azeem Memon<br/>
 Ph: <a href="tel:+1-858-345-7662">(858) 345-7662</a> <br/>
 Email: <a href="mailto:expansion@icsd.org">expansion@icsd.org</a>
 </div>  
