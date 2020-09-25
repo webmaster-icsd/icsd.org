@@ -18,13 +18,6 @@ published: true
     padding-bottom: 3px;
   }
 </style>
-
-<div class="row pt-10 pb-3">
-
-  <div class="col-12 pb-3 d-flex justify-content-center">
-          <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/cause/expansion" style="padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
-    </div>
-  </div>
     
 ![](https://s3.us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/icsd-expansion.jpg)
 
