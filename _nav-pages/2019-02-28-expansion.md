@@ -1,6 +1,5 @@
 ---
-title: >-
-  ICSD Expansion  <br/>It is your Sadaqah Jariah
+title: ICSD Expansion
 date: 2019-02-28T00:00:00.000Z
 layout: expansion-page-with-sidebar-layout
 published: true
