@@ -29,7 +29,7 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
 
 ## $1.4 million is needed by February 28th 2021 to make this dream a reality. Please donate generously.
 
-<div class="col-12 pb-2">
+<div class="col-12 pt-10 pb-2">
         <div style="position:relative;">
           <a href="https://goodbricksapp.com/icsd.org/campaign/expansion" target="_blank">
             <div style="position:absolute;  z-index:500;height:50px;width:100%;"></div>
@@ -42,11 +42,6 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
         </div>
       </div>
       
-<div class="row pt-10 pb-3">
-  <div class="col-12 pb-3 d-flex justify-content-center">
-    <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
-  </div>
-</div>
   
 <div class="d-none d-lg-block">
 For questions or feedback contact Azeem Memon<br/>
