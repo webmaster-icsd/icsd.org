@@ -11,7 +11,7 @@ Time: Every Sunday 12:00 PM Pacific Time (US and Canada)
 
 Join Zoom Meeting  
 
-[https://us02web.zoom.us/j/85231986374?pwd=NFBGaGRoSVRVdE8xY25CUWRKZ1VXZz09](https://us02web.zoom.us/j/85231986374?pwd=NFBGaGRoSVRVdE8xY25CUWRKZ1VXZz09)
+[https://zoom.us/j/97645404600?pwd=QzA4VlVxKzUzQ2JFd3NTTXFEMHhWUT09](https://zoom.us/j/97645404600?pwd=QzA4VlVxKzUzQ2JFd3NTTXFEMHhWUT09)
 
-Meeting ID: 852 3198 6374 
-Password: 337922 
+Meeting ID: 976 4540 4600
+Passcode: 123456
