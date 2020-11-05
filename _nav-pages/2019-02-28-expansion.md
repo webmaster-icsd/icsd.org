@@ -24,6 +24,9 @@ published: true
 </div>
 
 <p>
+<strong>Additional $250,000-$300,000 approx in pledges.</strong> 
+</p>
+<p>
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
 </p>
 
