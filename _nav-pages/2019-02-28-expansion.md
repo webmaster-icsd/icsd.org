@@ -22,10 +22,7 @@ published: true
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLb7-wnSTI_wY8ejWTSb1JuWZ4MGNyCKUH" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </div>
-
-<p>
-<strong>Additional $250,000-$300,000 approx in pledges.</strong> 
-</p>
+<br/>
 <p>
 Our community had a DREAM, a dream where we can have a facility big enough to address the needs of our ever growing community. Alhamdulillah by the mercy of Allah (SWT), Islamic Center of San Diego has been successful in purchasing the neighboring property (church).
 </p>
@@ -41,6 +38,9 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
               </iframe>
             </div>
           </a>
+          <p>
+          <strong>Additional $250,000-$300,000 approx in pledges.</strong> 
+          </p>
           <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
         </div>
       </div>
