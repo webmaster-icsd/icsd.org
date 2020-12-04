@@ -12,5 +12,4 @@ title: Emergency Preparedness
 
 [Disaster Ready Guide](https://drive.google.com/drive/u/0/folders/1WJhf60dHzXnKXo4_3Xmv8th4K6uSUwB1) in Arabic
 
-[Disaster Ready Guide](https://ccdsd.org/wp-content/uploads/2020/06/SPANISH-Disaster-Ready-Guide-SimplePrint-Digital.pdf?utm_source=SenatorBrianJones&utm_medium=Flyer&utm_campaign=SpanishFlyerDisasterReadyGuide) in Spanish  
-
+[Disaster Ready Guide](https://ccdsd.org/wp-content/uploads/2020/06/SPANISH-Disaster-Ready-Guide-SimplePrint-Digital.pdf?utm_source=SenatorBrianJones&utm_medium=Flyer&utm_campaign=SpanishFlyerDisasterReadyGuide) in Spanish
