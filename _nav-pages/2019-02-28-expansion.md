@@ -36,7 +36,7 @@ published: true
     <br/>
      <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
  </div>
-            
+    <br/>
 <div class="video-container">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLb7-wnSTI_wY8ejWTSb1JuWZ4MGNyCKUH" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 </div>
