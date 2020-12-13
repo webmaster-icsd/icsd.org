@@ -23,7 +23,7 @@ published: true
      <br/>
      <h5 class="font-weight-bold">Send your pledges and dua request to </h5>
      <p>
-     Prefered: <a href="sms://+18006050280">Preferred: </a> <br/>
+     Prefered: <a href="sms://+18556880094">Preferred: 855-688-0094</a> <br/>
      Sh AbdelJalil: <a href="sms://+18182169732">Sh AbdelJalil: 818-216-9732</a> <br/>
      Imam Taha: <a href="sms://+1858728615">Imam Taha: 858-722-8615</a> <br/>
      Sh Saad: <a href="sms://+16198406877">Sh Saad: 619-840-6877</a> <br/>
