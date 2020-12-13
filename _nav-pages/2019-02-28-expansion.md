@@ -34,7 +34,6 @@ published: true
                 Facebook: <a href="http://icsd.org/media/live" target="_blank" rel="noopener noreferrer">https://facebook.com/islamiccentersd/live</a>
               </p> <br/>
               <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
-
             </div>
             
 <div class="video-container">
