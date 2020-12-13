@@ -18,23 +18,32 @@ published: true
     padding-bottom: 3px;
   }
 </style>
-    
+ 
+ <div class="col-12 pb-2">
+     <br/>
+     <h5 class="font-weight-bold">Send your pledges and dua request to </h5>
+     <p>
+     Prefered: <a href="sms://+18006050280">Preferred: </a> <br/>
+     Sh AbdelJalil: <a href="sms://+18182169732">Sh AbdelJalil: 818-216-9732</a> <br/>
+     Imam Taha: <a href="sms://+1858728615">Imam Taha: 858-722-8615</a> <br/>
+     Sh Saad: <a href="sms://+16198406877">Sh Saad: 619-840-6877</a> <br/>
+     </p> 
+     <br/>
+     <h5 class="font-weight-bold">Live Streaming / Zoom Meeting Links</h5>
+     <p>
+          Zoom Meeting 1: <a href="https://zoom.us/j/96038546699" target="_blank" rel="noopener noreferrer">https://zoom.us/j/96038546699</a> <br/>
+          Zoom Meeting 2: <a href="https://zoom.us/j/97785884690" target="_blank" rel="noopener noreferrer">https://zoom.us/j/97785884690</a> <br/>
+          Zoom Meeting 3: <a href="https://zoom.us/j/99296297691" target="_blank" rel="noopener noreferrer">https://zoom.us/j/99296297691</a> <br/>
+          YouTube/Website: <a href="http://icsd.org/media/live" target="_blank" rel="noopener noreferrer">http://icsd.org/media/live</a> <br/>
+          Facebook: <a href="http://icsd.org/media/live" target="_blank" rel="noopener noreferrer">https://facebook.com/islamiccentersd/live</a>
+          </p> 
+     <br/>
+      <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
+  </div>
+ <br/>
  <div class="col-md-12 col-12">
     <a href="https://s3-us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/ICSD+EXPANSION+-+Virtual+Fundraiser+12-12-2020.png" target="_blank" rel="noopener noreferrer">
     <img src="https://s3-us-west-2.amazonaws.com/goodbricks.org/static/media/icsd/ICSD+EXPANSION+-+Virtual+Fundraiser+12-12-2020.png"/></a>
- </div>
- <div class="col-12 pb-2">
-    <br/>
-    <h5 class="font-weight-bold">Live Streaming / Zoom Meeting Links</h5>
-    <p>
-    Zoom Meeting 1: <a href="https://zoom.us/j/96038546699" target="_blank" rel="noopener noreferrer">https://zoom.us/j/96038546699</a> <br/>
-    Zoom Meeting 2: <a href="https://zoom.us/j/97785884690" target="_blank" rel="noopener noreferrer">https://zoom.us/j/97785884690</a> <br/>
-    Zoom Meeting 3: <a href="https://zoom.us/j/99296297691" target="_blank" rel="noopener noreferrer">https://zoom.us/j/99296297691</a> <br/>
-    YouTube/Website: <a href="http://icsd.org/media/live" target="_blank" rel="noopener noreferrer">http://icsd.org/media/live</a> <br/>
-    Facebook: <a href="http://icsd.org/media/live" target="_blank" rel="noopener noreferrer">https://facebook.com/islamiccentersd/live</a>
-    </p> 
-    <br/>
-     <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
  </div>
  <br/>
 <div class="video-container">
