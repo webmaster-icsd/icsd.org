@@ -20,7 +20,6 @@ published: true
 </style>
  
  <div class="col-12 pb-2">
-     <br/>
      <h5 class="font-weight-bold">Send your pledges and dua request to </h5>
      <p>
      Prefered: <a href="sms://+18556880094">Preferred: 855-688-0094</a> <br/>
@@ -28,7 +27,6 @@ published: true
      Imam Taha: <a href="sms://+1858728615">Imam Taha: 858-722-8615</a> <br/>
      Sh Saad: <a href="sms://+16198406877">Sh Saad: 619-840-6877</a> <br/>
      </p> 
-     <br/>
      <h5 class="font-weight-bold">Live Streaming / Zoom Meeting Links</h5>
      <p>
           Zoom Meeting 1: <a href="https://zoom.us/j/96038546699" target="_blank" rel="noopener noreferrer">https://zoom.us/j/96038546699</a> <br/>
