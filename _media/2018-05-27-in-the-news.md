@@ -1,10 +1,12 @@
 ---
 title: In the News
-date: 2018-05-27T00:00:00.000Z
+date: {}
 layout: page-with-sidebar-layout
 published: true
 ---
-## Ramadan article in the Union Tribute: [Muslim families prepare for a Ramadan unlike anything before](https://www.sandiegouniontribune.com/communities/san-diego/story/2020-04-23/muslim-families-prepare-for-a-ramadan-unlike-anything-before)
+## Imam Taha speaks with the Union-Tribune: [The Coming New Year](https://www.sandiegouniontribune.com/opinion/commentary/story/2020-12-11/islamic-faith-reflection)
+
+## Ramadan article in the Union-Tribune: [Muslim families prepare for a Ramadan unlike anything before](https://www.sandiegouniontribune.com/communities/san-diego/story/2020-04-23/muslim-families-prepare-for-a-ramadan-unlike-anything-before)
 
 ## Imam Taha speaks with KUSI: [Muslims grapple with Ramadan rituals in coronavirus era](https://www.kusi.com/muslims-grapple-with-ramadan-rituals-in-coronavirus-era/) 
 
@@ -17,3 +19,4 @@ published: true
 ## Al-Iraqia TV reports on [Interfaith Programs](https://www.youtube.com/watch?v=anabsbnbraA) at the Islamic Center of San Diego
 
 ## The Islamic Center of San Diego and the [Muslim Leadership Council](https://www.youtube.com/watch?v=5SCBQAxLDuI)
+
