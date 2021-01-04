@@ -38,9 +38,6 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
               </iframe>
             </div>
           </a>
-          <p>
-          <strong>Additional $200,000 approx in pledges.</strong> 
-          </p>
           <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
         </div>
       </div>
