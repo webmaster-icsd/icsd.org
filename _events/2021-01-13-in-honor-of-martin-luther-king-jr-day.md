@@ -3,7 +3,7 @@ event-date: '2021-01-13 11:34 -0800'
 layout: collection-with-sidebar-layout
 collection-name: events
 published: false
-title: 'In Honor of Martin Luther King, Jr Day'
+title: 'Martin Luther King, Jr Day'
 ---
 ## 13th Annual San Diego Interfaith Community Event
 ## Monday, January 18 @ 10:00 am - 11:00 am
