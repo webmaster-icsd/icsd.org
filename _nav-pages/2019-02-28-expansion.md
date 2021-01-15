@@ -31,7 +31,7 @@ Our community had a DREAM, a dream where we can have a facility big enough to ad
 
 <div class="col-12 pt-10 pb-2">
         <div style="position:relative;">
-          <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/campaign/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
+          <a class="btn btn-sm btn-danger" href="https://goodbricksapp.com/icsd.org/cause/expansion" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards ICSD Expansion</a>
         </div>
       </div>
       
