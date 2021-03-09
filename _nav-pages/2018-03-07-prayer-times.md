@@ -2,7 +2,7 @@
 title: Prayer (Iqama) Times
 date: 2018-03-07T00:00:00.000Z
 layout: page-with-full-width-layout
-fajr: '05:30 am'
+fajr: '05:15 am'
 dhuhr: '12:30 pm'
 asr: '03:30 pm'
 magrib: 5 mins after sunset
