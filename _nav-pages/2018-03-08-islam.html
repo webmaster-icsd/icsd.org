@@ -5,6 +5,12 @@ layout: collection-with-full-width-layout
 collection-name: islam
 ---
 
+<h3>Introduction to Islam</h3>
+<br/>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HxGpYtKABDk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
 {% for item in site.[page.collection-name] %}
 <h6 class="pb-2"><a href="{{item.url | prepend: site.baseurl }}">{{ item.title }}</a></h6>
 {% endfor %}
