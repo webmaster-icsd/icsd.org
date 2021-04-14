@@ -6,6 +6,8 @@ published: true
 ---
 ## The [Importance of Ramadan](https://www.sandiegouniontribune.com/community-voices-project/story/2021-04-13/opinion-ramadan-islam-april-13?fbclid=IwAR3BCu9etg1bEDTPUUUf6FUBW_2CcnJjiG-ZXmtClmO7_Rs0vjztPl2O8Aw) By LALLIA ALLALI
 
+## [Peace](https://www.sandiegouniontribune.com/communities/san-diego/story/2021-01-19/faith-leaders-lead-vigil-calling-for-peace-a-day-before-bidens-inauguration) by Imam Taha Hassane
+
 ## Imam Taha speaks with the Union-Tribune: [The Coming New Year](https://www.sandiegouniontribune.com/opinion/commentary/story/2020-12-11/islamic-faith-reflection)
 
 ## Ramadan article in the Union-Tribune: [Muslim families prepare for a Ramadan unlike anything before](https://www.sandiegouniontribune.com/communities/san-diego/story/2020-04-23/muslim-families-prepare-for-a-ramadan-unlike-anything-before)
