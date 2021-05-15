@@ -6,112 +6,104 @@ published: true
 {% assign prayer-times-pages = site.nav-pages | where: "title", "Prayer (Iqama) Times" %}
 {% assign prayer-times-page = prayer-times-pages[0]%}
 
-<div class="row pt-4 pb-2">
-  <div class="col-12 pt-10 pb-2">
-    <h5 class="font-weight-bold">Ramadan Masjid Operation Fundraiser</h5>
-    <div style="position:relative;">
-      <a href="https://goodbricks.org/cause/icsd.org/masjid-operations-2021" target="_blank">
-        <div style="position:absolute;  z-index:500;height:50px;width:100%;"></div>
-        <div style="overflow: hidden; margin: 15px auto; max-width: 100%;">
-          <iframe scrolling="no" src="https://goodbricksapp.com/icsd.org/campaign/masjid-operations-2021" style="border: 0px none;margin-left: -15px;height: 550px;margin-top: -500px;width: 360px;">
-          </iframe>
-        </div>
-      </a>
-      <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/masjid-operations-2021" style="width: 100%;padding:12px;white-space: normal;">Please Donate Towards Masjid Operations</a>
-    </div>
-  </div>
-  <div class="col-md-12 col-12 pb-3">
-    <a class="btn btn-sm btn-danger" href="https://goodbricks.org/cause/icsd.org/best-10-nights-2021" style="width: 100%;padding:12px; white-space: normal;">AUTOGIVE: Last 10 nights</a>
-  </div>
-</div>
-
 <div class="row pt-4 pb-2 d-lg-block">
-  <div class="col-12">
-    <div href="#" class="row">
-      <div class="col-12 pb-2">
-        <h5 class="font-weight-bold">EId Prayer & Night of 27th</h5>
-        <p>
-          Please click on the link below for details.
-        </p>
-      </div>
-      <div class="col-md-6 col-12 pb-3">
-        <a class="btn btn-sm btn-success" href="https://www.eventbrite.com/e/153434589989" style="width: 100%;padding:12px; white-space: normal;">Eid Prayer @ 7:30am</a>
-      </div>
-      <div class="col-md-6 col-12 pb-3">
-        <a class="btn btn-sm btn-success" href="https://www.eventbrite.com/e/153569710137" style="width: 100%;padding:12px; white-space: normal;">Eid Prayer @ 9:30am</a>
-      </div>
-      <div class="col-6">
-        <a href="http://www.icsd.org/ramadan-2021" rel="noopener noreferrer"><img
-            src="http://icsd.org/media/27th.jpeg"/></a>
-      </div>
-      <div class="col-6 px-2">
-        <a href="http://www.icsd.org/ramadan-2021" rel="noopener noreferrer"><img
-            src="http://icsd.org/media/eidprayer.jpg"/></a>
-      </div>
-    </div>
-  </div>
+	<div class="col-12">
+		<div href="#" class="row">
+			<div class="col-12 pb-2">
+				<h5 class="font-weight-bold">Jumma Registration</h5>
+				<p> ICSD is now open for all daily prayers. <b>Registration is required only for Jumma. </b>
+					<br/>
+					<br/> <a class="btn btn-sm btn-danger" href="http://icsd.org/register">Register Here</a> </p>
+			</div>
+		</div>
+	</div>
 </div>
-
 <div class="row pt-4 pb-2 d-lg-block">
-  <div class="col-12">
-    <div href="#" class="row">
-      <div class="col-12 pb-2">
-        <h5 class="font-weight-bold">Isha/Taraweeh and Jumma Registration</h5>
-        <p>
-          ICSD is now open for all daily prayers. <b>Registration is required only for Isha/Tarwaeeh and Jumma. </b> <br/><br/>
-          <a class="btn btn-sm btn-danger" href="http://icsd.org/register">Register Here</a>
-        </p>
-      </div>
-    </div>
-  </div>
+	<div class="col-12">
+		<div href="#" class="row">
+			<div class="col-12 pb-2">
+				<h5 class="font-weight-bold">COVID-19 vaccine at ICSD</h5>
+				<p> ICSD is coordinating with UCSD to serve as a vaccine center for our community members. Please register here to receive your COVID-19 vaccine at ICSD. <b>Registration required.</b>
+					<br/>
+					<br/> <a class="btn btn-sm btn-success" href="https://forms.gle/N8PmrJ9nMqPkRrk5A">Register Here</a> </p>
+			</div>
+		</div>
+	</div>
 </div>
-
-<div class="row pt-4 pb-2 d-lg-block">
-<div class="col-12">
-  <div href="#" class="row">
-    <div class="col-12 pb-2">
-      <h5 class="font-weight-bold">Iftar-To-Go</h5>
-      <p>
-      ICSD is offering Iftar drive-thru pick-up. <b>Registration is required. </b> <br/><br/>
-      <a class="btn btn-sm btn-danger" href="https://www.eventbrite.com/e/152187461795">Register Here</a>
-      </p>
-    </div>
-    <div class="col-6 px-2">
-      <a href="https://www.eventbrite.com/e/152187461795" rel="noopener noreferrer"><img
-          src="http://icsd.org/media/drive-thru.jpeg"/></a>
-    </div>
-  </div>
+<div class="row pt-4 pb-2 d-none d-lg-block">
+	<div class="col-12">
+		<div href="#" class="row">
+			<div class="col-12 pb-2">
+				<h5 class="font-weight-bold">Prayer (Iqama) Times</h5> </div>
+			<div class="col-md-2 ">
+				<div class="row">
+					<div class="col-12">
+						<h6>Fajr</h6> </div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<p>{{prayer-times-page.fajr}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="row">
+					<div class="col-12">
+						<h6>Dhuhr</h6> </div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<p>{{prayer-times-page.dhuhr}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="row">
+					<div class="col-12">
+						<h6>Asr</h6> </div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<p>{{prayer-times-page.asr}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="row">
+					<div class="col-12">
+						<h6>Magrib</h6> </div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<p>{{prayer-times-page.magrib}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="row">
+					<div class="col-12">
+						<h6>Isha</h6> </div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<p>{{prayer-times-page.isha}}</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-2">
+				<div class="row">
+					<div class="col-12">
+						<h6>Jumu'ah</h6> </div>
+				</div>
+				<div class="row">
+					<div class="col-12">
+						<p>{{prayer-times-page.jumuah}}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-</div>
-
-<div class="row pt-4 pb-2 d-lg-block">
-  <div class="col-12">
-    <div href="#" class="row">
-      <div class="col-12 pb-2">
-        <h5 class="font-weight-bold">COVID-19 vaccine at ICSD</h5>
-        <p>
-          ICSD is coordinating with UCSD to serve as a vaccine center for our community members. Please register here to receive your COVID-19 vaccine at ICSD. <b>Registration required.</b> <br/><br/>
-          <a class="btn btn-sm btn-success" href="https://forms.gle/N8PmrJ9nMqPkRrk5A">Register Here</a>
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!--<div class="row pt-4 pb-2 d-lg-block">-->
-<!--  <div class="col-12">-->
-<!--    <div href="#" class="row">-->
-<!--      <div class="col-12 pb-2">-->
-<!--        <h5 class="font-weight-bold">Will and Trust Preparation</h5>-->
-<!--        <p>-->
-<!--          Please you below link to register for a group discount on will and trust preparation service. <b>Registration required.</b> <br/><br/>-->
-<!--          <a class="btn btn-sm btn-success" href="https://forms.gle/sHtN4tbhpnTJ456UA">Register Here</a>-->
-<!--        </p>-->
-<!--      </div>-->
-<!--    </div>-->
-<!--  </div>-->
-<!--</div>-->
-
 
 <div class="row pt-4 pb-2 d-none d-lg-block">
   <div class="col-12">
