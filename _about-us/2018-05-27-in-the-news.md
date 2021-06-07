@@ -5,7 +5,7 @@ layout: page-with-sidebar-layout
 published: true
 ---
 ## New App helps explain cultural norms.
-[Read Article](https://enewspaper.sandiegouniontribune.com/infinity/article_share.aspx?guid=c86e618b-5310-49f1-bbf1-ab4ae0d02ba9)
+[Read Article](https://www.sandiegouniontribune.com/news/public-safety/story/2021-06-03/san-diego-das-office-develops-app-to-promote-cultural-awareness-for-law-enforcement)
 
 ## Ramadan article in the Union Tribute: [Muslim families prepare for a Ramadan unlike anything before](https://www.sandiegouniontribune.com/communities/san-diego/story/2020-04-23/muslim-families-prepare-for-a-ramadan-unlike-anything-before)
 
