@@ -4,6 +4,8 @@ date: 2021-04-13T00:00:00.000Z
 layout: page-with-sidebar-layout
 published: true
 ---
+## [New app helps explain cultural norms](https://enewspaper.sandiegouniontribune.com/infinity/article_share.aspx?guid=c86e618b-5310-49f1-bbf1-ab4ae0d02ba9)
+
 ## The [Importance of Ramadan](https://www.sandiegouniontribune.com/community-voices-project/story/2021-04-13/opinion-ramadan-islam-april-13?fbclid=IwAR3BCu9etg1bEDTPUUUf6FUBW_2CcnJjiG-ZXmtClmO7_Rs0vjztPl2O8Aw) By LALLIA ALLALI
 
 ## [Peace](https://www.sandiegouniontribune.com/communities/san-diego/story/2021-01-19/faith-leaders-lead-vigil-calling-for-peace-a-day-before-bidens-inauguration) by Imam Taha Hassane
