@@ -9,7 +9,9 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
 
 Classes are held on Saturdays during two sessions: Arabic Speaking students from 10 am -12 am and for non-Arabic speaking students from 2pm - 4 pm.
 
-Given the current circumstances, classes will be held online until further notice. 
+Given the current uncertain circumstances, ICSD will provide updated information coming soon. InshaAllah.
+
+<!-- classes will be held online until further notice. 
 
 ## Please use following links: For registration
   <div class="row pt-10 pb-3">
@@ -47,3 +49,6 @@ For assistance with fees: [click here](https://docs.google.com/forms/u/0/d/19mbq
         <a class="btn btn-sm btn-warning" href="https://forms.gle/LwA8GGdQtQDWvPbQ8" style="width: 100%;padding:12px;white-space: normal;">Boys 14+ Tuition Free - Register here</a>
     </div>
   </div>
+  
+-->
+ 
