@@ -14,6 +14,10 @@ Classes are held on Saturdays during two sessions:
 
 Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021.
 
+![21-22 ARS Calendar.JPG]({{site.baseurl}}/media/21-22 ARS Calendar.JPG)
+
+![21-22 ARS Fees.JPG]({{site.baseurl}}/media/21-22 ARS Fees.JPG)
+
 ## Posting soon: 
 Registration and Payment Links
 
