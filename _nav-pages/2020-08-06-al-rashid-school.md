@@ -7,11 +7,21 @@ Al Rashid School is the weekend learning program at the Islamic Center of San Di
 
 We are dedicated to providing young Muslims the opportunity to have quality learning in Quran, Arabic, and Islamic Studies.
 
-Classes are held on Saturdays during two sessions: Arabic Speaking students from 10 am -12 am and for non-Arabic speaking students from 2pm - 4 pm.
+Al Rashid School online classes will start on September 11, 2021.  
+Classes are held on Saturdays during two sessions:  
+- Arabic Speaking students from 10am-12:30pm  
+- non-Arabic speaking students from 2pm-4:30pm
 
-Given the current uncertain circumstances, classes will be held online until further notice. 
+Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021.
+
+## Posting soon: 
+Registration and Payment Links
+
 
 <!--
+Please fill out the Registration Form online to allow us to place each student in the appropriate classroom.
+A Payment Form will be posted online soon to allow you to pay for the books and tuition.
+
 ## Please use following links: For registration
   <div class="row pt-10 pb-3">
     <div class="col-md-6 col-6 pb-3">
