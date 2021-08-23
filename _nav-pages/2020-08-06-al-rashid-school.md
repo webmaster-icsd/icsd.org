@@ -10,7 +10,7 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
 Al Rashid School online classes will start on September 11, 2021, for students 6 to 18 years of age.  
 Students who are 6 and 7 years old must provide a birth certificate at registration.  
 
-Classes are held on Saturdays during two sessions:
+Classes are held on Saturdays during two sessions:  
      - Arabic Speaking students from 10am-12:30pm  
      - non-Arabic speaking students from 2pm-4:30pm
 
