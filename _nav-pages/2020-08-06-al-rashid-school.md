@@ -11,7 +11,7 @@ Classes are held on Saturdays during two sessions: Arabic Speaking students from
 
 Given the current uncertain circumstances, classes will be held online until further notice. 
 
-
+<!--
 ## Please use following links: For registration
   <div class="row pt-10 pb-3">
     <div class="col-md-6 col-6 pb-3">
@@ -19,7 +19,7 @@ Given the current uncertain circumstances, classes will be held online until fur
         %;padding:12px;">Register Student</a>
     </div>
   </div>
-<!--
+
 For assistance with fees: [click here](https://docs.google.com/forms/u/0/d/19mbqgZOdgmCFgTmhr9It7FCWLBsApfr6msY_eW8EUsU/viewform?edit_requested=true).  
 
 ## Please use the buttons below to register and pay fees.
