@@ -26,7 +26,6 @@ Registration and Payment Links
 
 <!--
 Please fill out the Registration Form online to allow us to place each student in the appropriate classroom.
-A Payment Form will be posted online soon to allow you to pay for the books and tuition.
 
 ## Please use following links: For registration
   <div class="row pt-10 pb-3">
