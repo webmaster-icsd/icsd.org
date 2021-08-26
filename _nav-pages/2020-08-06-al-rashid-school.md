@@ -20,7 +20,7 @@ Due to concerns about the children’s safety and in light of the latest update 
 Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform)
 
 
-## Payment Forms *Registration and Tuition Fee*
+## Payment Forms *(Registration and Tuition Fee)*
 
 [Registration Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee)
 [Tuition Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition)
