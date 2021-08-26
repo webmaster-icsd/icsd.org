@@ -16,10 +16,6 @@ Classes are held on Saturdays during two sessions:
 
 Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021.
 
-![21-22 ARS Calendar.JPG]({{site.baseurl}}/media/21-22 ARS Calendar.JPG)
-
-![21-22 ARS Fees.JPG]({{site.baseurl}}/media/21-22 ARS Fees.JPG)
-
 ## Registration: 
 Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform)
 
@@ -28,6 +24,13 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3
 
 [Registration Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee)
 [Tuition Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition)
+
+
+![21-22 ARS Calendar.JPG]({{site.baseurl}}/media/21-22 ARS Calendar.JPG)
+
+![21-22 ARS Fees.JPG]({{site.baseurl}}/media/21-22 ARS Fees.JPG)
+
+
 
 <!--
 Please fill out the Registration Form online to allow us to place each student in the appropriate classroom.
