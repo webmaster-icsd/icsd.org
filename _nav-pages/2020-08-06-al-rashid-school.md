@@ -23,6 +23,7 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3
 ## Payment Forms *(Registration and Tuition Fee)*
 
 [Registration Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee)
+
 [Tuition Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition)
 
 
