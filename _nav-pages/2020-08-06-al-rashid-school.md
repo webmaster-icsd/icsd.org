@@ -20,9 +20,15 @@ Due to concerns about the children’s safety and in light of the latest update 
 
 ![21-22 ARS Fees.JPG]({{site.baseurl}}/media/21-22 ARS Fees.JPG)
 
-## Posting soon: 
-Registration and Payment Links
+## Registration: 
+Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform)
 
+URL: https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform
+
+## Payment Form *Registration and Tuition Fee*
+
+Registration Fee: https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee
+Tuition Fee: https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition
 
 <!--
 Please fill out the Registration Form online to allow us to place each student in the appropriate classroom.
