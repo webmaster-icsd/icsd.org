@@ -26,9 +26,8 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3
 
 [Tuition Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition)
 
+![ARS Calendar 21-22.png]({{site.baseurl}}/media/ARS Calendar 21-22.png)
 
-![21-22 ARS Calendar.JPG]({{site.baseurl}}/media/21-22 ARS Calendar.JPG)
-
-![21-22 ARS Fees.JPG]({{site.baseurl}}/media/21-22 ARS Fees.JPG)
+![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png)
 
 
