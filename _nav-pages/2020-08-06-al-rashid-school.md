@@ -23,12 +23,11 @@ Due to concerns about the children’s safety and in light of the latest update 
 ## Registration: 
 Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform)
 
-URL: https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform
 
-## Payment Form *Registration and Tuition Fee*
+## Payment Forms *Registration and Tuition Fee*
 
-Registration Fee: https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee
-Tuition Fee: https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition
+[Registration Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee)
+[Tuition Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition)
 
 <!--
 Please fill out the Registration Form online to allow us to place each student in the appropriate classroom.
