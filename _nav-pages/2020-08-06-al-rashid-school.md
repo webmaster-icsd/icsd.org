@@ -22,9 +22,9 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkx
 
 ## Payment Forms *(Registration and Tuition Fee)*
 
-[Registration Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-registration-fee)
+[Registration Fees](https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22)
 
-[Tuition Fees](https://goodbricksapp.com/icsd.org/cause/al-rashid-school-tuition)
+[Tuition Fees](https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22)
 
 ![ARS Calendar 21-22.png]({{site.baseurl}}/media/ARS Calendar 21-22.png)
 
