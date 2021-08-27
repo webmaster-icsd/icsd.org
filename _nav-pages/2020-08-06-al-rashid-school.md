@@ -22,7 +22,10 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkx
 
 ## Payment Forms *(Registration and Tuition Fee)*
 
-[Registration Fees](https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22)
+ <div class="col-6 pb-3">
+       <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22" style="width: 100%;padding:12px;" target="_blank">Registration Fees</a>
+  </div> 
+   
 
 [Tuition Fees](https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22)
 
