@@ -20,14 +20,16 @@ Due to concerns about the children’s safety and in light of the latest update 
 Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse)
 
 
-## Payment Forms *(Registration and Tuition Fee)*
+## Payment Forms *(Registration and Tuition Fees)*
 
+<div class="row pt-10 pb-2" >
  <div class="col-6 pb-3">
        <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22" style="width: 100%;padding:12px;" target="_blank">Registration Fees</a>
   </div> 
-   
-
-[Tuition Fees](https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22)
+  <div class="col-6 pb-3">
+         <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22" style="width: 100%;padding:12px;" target="_blank">Tuition Fees</a>
+    </div> 
+ </div>
 
 ![ARS Calendar 21-22.png]({{site.baseurl}}/media/ARS Calendar 21-22.png)
 
