@@ -17,7 +17,7 @@ Classes are held on Saturdays during two sessions:
 Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021.
 
 ## Registration: 
-Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSfHOSFa-gyfyaiH3f_iaEIxV9qziq86iLxzIUYnrupI9mLx9A/viewform)
+Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse)
 
 
 ## Payment Forms *(Registration and Tuition Fee)*
