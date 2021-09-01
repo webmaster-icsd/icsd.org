@@ -19,6 +19,12 @@ Due to concerns about the children’s safety and in light of the latest update 
 ## Registration: 
 Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse)
 
+<div class="row pt-10 pb-2" >
+  <div class="col-6 pb-3">
+    <a class="btn btn-sm btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse" style="width: 100%;padding:12px;" target="_blank">Register</a>
+  </div> 
+</div>
+ 
 Please register (Boys 14+ Youth Class) [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA)
 
 
@@ -36,5 +42,3 @@ Please register (Boys 14+ Youth Class) [here](https://docs.google.com/forms/d/1-
 ![ARS Calendar 21-22.png]({{site.baseurl}}/media/ARS Calendar 21-22.png)
 
 ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png)
-
-
