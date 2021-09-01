@@ -21,7 +21,7 @@ Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkx
 
 <div class="row pt-10 pb-2" >
   <div class="col-6 pb-3">
-    <a class="btn btn-sm btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse" style="width: 100%;padding:12px;" target="_blank">Register</a>
+    <a class="btn btn-sm btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse" style="width: 100%;padding:12px;" target="_blank">Register Here</a>
   </div> 
 </div>
  
