@@ -24,7 +24,7 @@ Due to concerns about the children’s safety and in light of the latest update 
 </div>
  
  
-For (Boys 14+ Youth Class), please register [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA)
+For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA)
 
 
 ## Payment Forms *(Registration and Tuition Fees)*
