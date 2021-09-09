@@ -4,6 +4,10 @@ date: 2018-05-27T00:00:00.000Z
 layout: page-with-sidebar-layout
 published: true
 ---
+## 20th Anniversary of 9/11
+Imam Taha [shares his opinion](https://www.sandiegouniontribune.com/opinion/commentary/story/2021-09-07/september-11-attack-islamophobia-democracy)
+Lallia [advises educators](https://www.sandiegouniontribune.com/opinion/commentary/story/2021-09-08/september-11-anniversary-school-curriculum-muslim-students)
+
 ## New App helps explain cultural norms. [Read Article](https://www.sandiegouniontribune.com/news/public-safety/story/2021-06-03/san-diego-das-office-develops-app-to-promote-cultural-awareness-for-law-enforcement)
 
 ## Ramadan article in the Union Tribute: [Muslim families prepare for a Ramadan unlike anything before](https://www.sandiegouniontribune.com/communities/san-diego/story/2020-04-23/muslim-families-prepare-for-a-ramadan-unlike-anything-before)
