@@ -6,7 +6,7 @@ published: true
 ---
 ## 20th Anniversary of 9/11
 Imam Taha [shares his insight](https://www.sandiegouniontribune.com/opinion/commentary/story/2021-09-07/september-11-attack-islamophobia-democracy) and looks to the future  
-Lallia [advises educators](https://www.sandiegouniontribune.com/opinion/commentary/story/2021-09-08/september-11-anniversary-school-curriculum-muslim-students)  
+Lallia Allali [advises educators](https://www.sandiegouniontribune.com/opinion/commentary/story/2021-09-08/september-11-anniversary-school-curriculum-muslim-students) on proactively creating a safe school environment  
 
 ## New App helps explain cultural norms. [Read Article](https://www.sandiegouniontribune.com/news/public-safety/story/2021-06-03/san-diego-das-office-develops-app-to-promote-cultural-awareness-for-law-enforcement)
 
