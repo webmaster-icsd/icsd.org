@@ -38,6 +38,6 @@ For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.c
     </div> 
  </div>
 
-![alrashid calendar.jpg]({{site.baseurl}}/media/alrashid calendar.jpg)
+![ARS Calendar.jpg]({{site.baseurl}}/media/alrashid%20calendar.jpg)
 
 ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png)
