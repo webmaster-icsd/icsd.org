@@ -1,6 +1,7 @@
 ---
 title: Activities
-date: {}
+date:
+  'Tue May 15 2018 17:00:00 GMT-0700 (Pacific Daylight Time)': null
 layout: page-with-sidebar-layout
 published: true
 ---
