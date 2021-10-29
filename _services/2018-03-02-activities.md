@@ -1,7 +1,8 @@
 ---
 title: Activities
-date: 2018-03-02 00:00:00 Z
+date: {}
 layout: page-with-sidebar-layout
+published: true
 ---
 
 ## Activities
@@ -11,7 +12,7 @@ There are various regular activities held at ICSD throughout the week. See the I
 We hold a number of lectures and study circles throughout the week. See the activities calendar for the current schedule.
 
 ### Saturday School
-We hold a comprehensive Saturday school to provide our children with basic Islamic education. The subjects covered include Quran, Islamic Studies, and Arabic language instruction. The ages of the students range from four to fourteen. The school is held in two sessions due to the large number of students. See the activities calendar for details.
+We hold a comprehensive Saturday school to provide our children with basic Islamic education. The subjects covered include Quran, Islamic Studies, and Arabic language instruction. The ages of the students range from six to eighteen. The school is held in two sessions due to the large number of students. See the activities calendar for details.
 
 ### Youth Group
 Our Mission is to develop, through knowledge and practice, committed young Muslim men and women capable of spreading and giving root to a comprehensive understanding of Islam and to prepare them to be at the forefront in the development of their communities.
