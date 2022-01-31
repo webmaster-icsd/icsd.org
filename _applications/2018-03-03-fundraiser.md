@@ -5,8 +5,8 @@ published: true
 layout: page-with-sidebar-layout
 ---
 
-## ICSD 2020 Fundraiser Applications
-ICSD is now accepting 2020 Fundraiser Applications. The application cycle will remain open from October 1st through December 10th. Decisions will be announced on the last week of December InshaAllah.
+## ICSD 2022 Fundraiser Applications
+ICSD is now accepting 2022 Fundraiser Applications. The application cycle will remain open from October 1st through December 10th. Decisions will be announced on the last week of December InshaAllah.
 
 Basic requirements:
  1. Must be a non-profit 501 © 3 Muslim Organization (Masajid and schools are excluded from applying)
