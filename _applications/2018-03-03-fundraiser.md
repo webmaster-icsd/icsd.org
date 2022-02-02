@@ -9,7 +9,7 @@ layout: page-with-sidebar-layout
 ICSD is now accepting 2022 Fundraiser Applications. 
 
 Basic requirements:
- 1. Must be a non-profit 501 © 3 Muslim Organization (Masajid and schools are excluded from applying)
+ 1. Must be a non-profit 501©3 Muslim Organization (Masajid and schools are excluded from applying)
  1. Must provide form 990 for the past 2 years upon request
  1. Must provide a summary (within the form) explaining what the funds are needed for
 
