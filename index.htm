@@ -110,72 +110,74 @@ published: true
 </div>
 
 <div id='prayer-times' class="row py-4 px-lg-3 d-lg-none">
-  <div class="col-12">
-    <h5 class="font-weight-bold mb-3 pb-2">Prayer (Iqama) Times</h5>
-    <div class="row pb-2">
-      <div class="col-4 ">Fajr</div>
-      <div class="col-8">{{prayer-times-page.fajr}}</div>
-    </div>
-    <div class="row py-2">
-      <div class="col-4">Dhuhr</div>
-      <div class="col-8">{{prayer-times-page.dhuhr}}</div>
-    </div>
-    <div class="row py-2">
-      <div class="col-4">Asr</div>
-      <div class="col-8">{{prayer-times-page.asr}}</div>
-    </div>
-    <div class="row py-2">
-      <div class="col-4">Magrib</div>
-      <div class="col-8">{{prayer-times-page.magrib}}</div>
-    </div>
-    <div class="row py-2">
-      <div class="col-4">Isha</div>
-      <div class="col-8">{{prayer-times-page.isha}}</div>
-    </div>
-    <div class="row pt-2">
-      <div class="col-4">Jumu'ah</div>
-      <div class="col-8">{{prayer-times-page.jumuah}}</div>
-    </div>
-  </div>
+	<div class="col-12">
+		<h5 class="font-weight-bold mb-3 pb-2">Prayer (Iqama) Times</h5>
+		<div class="row pb-2">
+			<div class="col-4 ">Fajr</div>
+			<div class="col-8">{{prayer-times-page.fajr}}</div>
+		</div>
+		<div class="row py-2">
+			<div class="col-4">Dhuhr</div>
+			<div class="col-8">{{prayer-times-page.dhuhr}}</div>
+		</div>
+		<div class="row py-2">
+			<div class="col-4">Asr</div>
+			<div class="col-8">{{prayer-times-page.asr}}</div>
+		</div>
+		<div class="row py-2">
+			<div class="col-4">Magrib</div>
+			<div class="col-8">{{prayer-times-page.magrib}}</div>
+		</div>
+		<div class="row py-2">
+			<div class="col-4">Isha</div>
+			<div class="col-8">{{prayer-times-page.isha}}</div>
+		</div>
+		<div class="row pt-2">
+			<div class="col-4">Jumu'ah</div>
+			<div class="col-8">{{prayer-times-page.jumuah}}</div>
+		</div>
+	</div>
 </div>
 <div class="row py-4">
-  <div class="col-12">
-    <h5 class="font-weight-bold pb-2">Live Stream</h5>
-    <div class="video-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCu-7HnVhfTd-GPqCnGesG1A&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
-    </div>
-  </div>
+	<div class="col-12">
+		<h5 class="font-weight-bold pb-2">Live Stream</h5>
+		<div onclick="thevid=document.getElementById('thevideo'); thevid.style.display='block'; this.style.display='none'"><img src="/images/icsd-youtube.jpg" style="cursor:pointer" /></div><div id="thevideo" style="display:none">
+		<div class="video-container">
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCu-7HnVhfTd-GPqCnGesG1A&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+		</div>
+	</div>
+	</div>
 </div>
 <div class="row py-4">
-  <div class="col-12">
-    <div href="#" class="row">
-      <div class="col-8">
-        <h5 class="font-weight-bold">Upcoming Events</h5>
-      </div>
-      <div class="col-4 text-right pt-1">
-        <a href="{{site.base_url}}/events"> View All</a>
-      </div>
-      <div id="upcoming-events" class="col-12">
-        <span class="h5"><i class=" py-5 la la-spinner la-spin"></i> Loading ... </span>
-      </div>
-    </div>
-  </div>
+	<div class="col-12">
+		<div href="#" class="row">
+			<div class="col-8">
+				<h5 class="font-weight-bold">Upcoming Events</h5>
+			</div>
+			<div class="col-4 text-right pt-1">
+				<a href="{{site.base_url}}/events"> View All</a>
+			</div>
+			<div id="upcoming-events" class="col-12">
+				<span class="h5"><i class=" py-5 la la-spinner la-spin"></i> Loading ... </span>
+			</div>
+		</div>
+	</div>
 </div>
 <div class="row pb-4">
-  <div class="col-12">
-    <div href="#" class="row pb-4">
-      <div class="col-8">
-        <h5 class="font-weight-bold">Announcements</h5>
-      </div>
-      <div class="col-4 text-right  pt-1">
-        <!--<a href="#"> View All</a>-->
-      </div>
-    </div>
-    <div id="recent-announcements" class="col-12 px-0">
-      {% assign announcements = site.announcements | sort: 'date' | reverse %}
-      {% for announcement in announcements limit:1 %}
-      {{announcement.content}}
-      {% endfor %}
-    </div>
-  </div>
+	<div class="col-12">
+		<div href="#" class="row pb-4">
+			<div class="col-8">
+				<h5 class="font-weight-bold">Announcements</h5>
+			</div>
+			<div class="col-4 text-right  pt-1">
+				<!--<a href="#"> View All</a>-->
+			</div>
+		</div>
+		<div id="recent-announcements" class="col-12 px-0">
+			{% assign announcements = site.announcements | sort: 'date' | reverse %}
+			{% for announcement in announcements limit:1 %}
+			{{announcement.content}}
+			{% endfor %}
+		</div>
+	</div>
 </div>
