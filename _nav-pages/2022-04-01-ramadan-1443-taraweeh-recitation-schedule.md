@@ -5,7 +5,7 @@ title: Ramadan 1443 Taraweeh Recitation Schedule
 ---
 ## Taraweeh Quran Recitation Schedule
 
-Our qari for Ramadan 2022 is Qari **Hassan Hlayhel**. We all welcome him to our community and wish all of use have a blessed ramadan. 
+Our qari for Ramadan 2022 is Qari **Hassan Hlayhel**. We all welcome him to our community and wish all of us have a blessed ramadan. 
 He will be following the below **recitation schedule**.
 
 **Date**| **Night**| **Ayah** | **Page**
