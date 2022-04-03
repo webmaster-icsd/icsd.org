@@ -6,6 +6,6 @@ layout: page-with-sidebar-layout
 ---
 ## Ramadan Mubarak and "Kul am wa entum bikhair"!
 
-[Please register for Zakat al-Fitr](https://docs.google.com/forms/d/e/1FAIpQLScGrEEq-QMkuPGnA5iifF5T_x-YZM9ovkIUa8M_hua9_vg0eg/viewform?usp=sf_link). Also, upload your Photo ID.
+[Please register for Zakat al-Fitr](https://forms.gle/NyGkiGW6WqcQeXqi7). Also, upload your Photo ID.
 
 JzkumAllah khair
