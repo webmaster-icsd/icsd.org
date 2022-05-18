@@ -29,7 +29,7 @@ Information about a summer program and the upcoming 2022 - 2023 school year are 
 <!-- For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA) -->
 
 
-## Payment Forms *( <!--Registration and --> Tuition Fees)*
+## Payment Forms *( <!--Registration and -->Tuition Fees)*
 
  <div class="row pt-10 pb-2">
  <!-- <div class="col-6 pb-3">
