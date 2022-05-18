@@ -14,25 +14,26 @@ Classes are held on Saturdays during two sessions:
 - Arabic Speaking students from 10am-12:30pm  
 - non-Arabic speaking students from 2pm-4:30pm
 
-Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021.
+<!--  Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021. -->
+Information about a summer program and the upcoming 2022 - 2023 school year are pending.
 
-## Registration: 
+<!-- ## Registration: 
 <div class="row pt-10 pb-2" >
   <div class="col-6 pb-3">
     <a class="btn btn-sm btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAKA/formResponse" style="width: 100%;padding:12px;" target="_blank">Register Here</a>
   </div> 
-</div>
+</div>  -->
  
  
-For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA)
+<!-- For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA) -->
 
 
-## Payment Forms *(Registration and Tuition Fees)*
+## Payment Forms *( <!--Registration and --> Tuition Fees)*
 
-<div class="row pt-10 pb-2" >
+<!-- <div class="row pt-10 pb-2" >
  <div class="col-6 pb-3">
        <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22" style="width: 100%;padding:12px;" target="_blank">Registration Fees</a>
-  </div> 
+  </div> -->
   <div class="col-6 pb-3">
          <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22" style="width: 100%;padding:12px;" target="_blank">Tuition Fees</a>
     </div> 
@@ -40,4 +41,4 @@ For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.c
 
 ![ARS Calendar2.jpg]({{site.baseurl}}/media/ARS Calendar2.jpg)
 
-![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png)
+<!-- ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png) -->
