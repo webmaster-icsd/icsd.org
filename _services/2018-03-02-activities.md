@@ -42,7 +42,6 @@ The women’s committee works on programming geared specifically toward women. T
 - Let’s Talk: Mother-Daughter Luncheon  
 - Lecture: “Challenges facing Muslim Women and Youth in America”  
 - Lecture:”Youth Matters”  
-- How to Register your Daughter  
-- Complete this registration form and bring it to any of our meetings. Please note that this youth group is FREE of charge.
+
 
 Email us or contact the ICSD office for more information.
