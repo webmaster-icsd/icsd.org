@@ -15,6 +15,7 @@ Classes are held on Saturdays during two sessions:
 - non-Arabic speaking students from 2pm-4:30pm
 
 <!--  Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021. -->
+
 Information about a summer program and the upcoming 2022 - 2023 school year are pending.
 
 <!-- ## Registration: 
