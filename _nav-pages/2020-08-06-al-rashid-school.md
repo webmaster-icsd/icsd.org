@@ -29,6 +29,10 @@ Information about a summer program and the upcoming 2022 - 2023 school year are 
 <!-- For (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NWA) -->
 
 
+## EMPLOYMENT OPPORTUNITY	
+ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to ...
+![jobopp.png]({{site.baseurl}}/media/jobopp.png)
+
 ## Payment Forms *(<!--Registration and -->Tuition Fees)*
 
  <div class="row pt-10 pb-2">
@@ -44,6 +48,3 @@ Information about a summer program and the upcoming 2022 - 2023 school year are 
 
 <!-- ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png) -->
 
-## EMPLOYMENT OPPORTUNITY	
-ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to ...
-![jobopp.png]({{site.baseurl}}/media/jobopp.png)
