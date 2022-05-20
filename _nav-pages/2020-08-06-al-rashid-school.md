@@ -31,10 +31,6 @@ Information about a summer program and the upcoming 2022 - 2023 school year are 
 
 ## Payment Forms *(<!--Registration and -->Tuition Fees)*
 
-## EMPLOYMENT OPPORTUNITY	
-ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to ...
-![jobopp.png]({{site.baseurl}}/media/jobopp.png)
-
  <div class="row pt-10 pb-2">
  <!-- <div class="col-6 pb-3">
        <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22" style="width: 100%;padding:12px;" target="_blank">Registration Fees</a>
@@ -47,3 +43,7 @@ ALRASHID SCHOOL is accepting applications for the following position until June 
 ![ARS Calendar2.jpg]({{site.baseurl}}/media/ARS Calendar2.jpg)
 
 <!-- ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png) -->
+
+## EMPLOYMENT OPPORTUNITY	
+ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to ...
+![jobopp.png]({{site.baseurl}}/media/jobopp.png)
