@@ -16,6 +16,7 @@ Classes are held on Saturdays during two sessions:
 
 <!--  Due to concerns about the children’s safety and in light of the latest update on the SDUSD guidelines, Al Rashid School will remain virtual at least until December 2021. -->
 
+Last day of classes for this term is May 28, 2022.
 Information about a summer program and the upcoming 2022 - 2023 school year are pending.
 
 <!-- ## Registration: 
@@ -44,6 +45,3 @@ ALRASHID SCHOOL is accepting applications for the following position until June 
 ![jobopp.png]({{site.baseurl}}/media/jobopp.png)
 
 <!-- ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png) -->
-
-![alrashid calendar.jpeg]({{site.baseurl}}/media/alrashid calendar.jpeg)
-
