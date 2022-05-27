@@ -44,3 +44,6 @@ ALRASHID SCHOOL is accepting applications for the following position until June 
 ![jobopp.png]({{site.baseurl}}/media/jobopp.png)
 
 <!-- ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png) -->
+
+![alrashid calendar.jpeg]({{site.baseurl}}/media/alrashid calendar.jpeg)
+
