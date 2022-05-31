@@ -42,6 +42,6 @@ Information about a summer program and the upcoming 2022 - 2023 school year are 
 ## EMPLOYMENT OPPORTUNITY	
 ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to admin@alrashid.icsd.org
 
-![jobopp.png]({{site.baseurl}}/media/jobopp.png)
+![jobopp2.png]({{site.baseurl}}/media/jobopp2.png)
 
 <!-- ![ARS Tuition.png]({{site.baseurl}}/media/ARS Tuition.png) -->
