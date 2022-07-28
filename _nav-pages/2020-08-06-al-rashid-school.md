@@ -31,8 +31,8 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
   
   <!-- <div class="col-6 pb-3">
          <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22" style="width: 100%;padding:12px;" target="_blank">Tuition Fees</a>
-  </div> 
- </div> -->
+  </div> -->
+ </div>
  
 ## EMPLOYMENT OPPORTUNITY	
 ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to admin@alrashid.icsd.org
