@@ -7,7 +7,7 @@ Al Rashid School is the weekend learning program at the Islamic Center of San Di
 
 We are dedicated to providing young Muslims the opportunity to have quality learning in Quran, Arabic, and Islamic Studies.
 
-![Al Rashid Calendar 22-23.png]({{site.baseurl}}/media/Al Rashid Calendar 22-23.png)
+![Al Rashid Calendar 22-23.png]({{site.baseurl}}/media/Al%20Rashid%20Calendar%2022-23.png)
 
 ![Al Rashid Registration Info 22-23.png]({{site.baseurl}}/media/Al Rashid Registration Info 22-23.png)
 
