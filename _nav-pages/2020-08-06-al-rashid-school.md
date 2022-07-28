@@ -34,7 +34,3 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
   </div> -->
  </div>
  
-## EMPLOYMENT OPPORTUNITY	
-ALRASHID SCHOOL is accepting applications for the following position until June 12, 2022. Email your resume and cover letter to admin@alrashid.icsd.org
-
-![jobopp2.png]({{site.baseurl}}/media/jobopp2.png)
