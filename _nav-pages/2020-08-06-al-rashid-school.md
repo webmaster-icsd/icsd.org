@@ -25,11 +25,11 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
 ## Payment Forms *(Registration and Tuition Fees)*
 
  <div class="row pt-10 pb-2">
- <!-- <div class="col-6 pb-3">
-       <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-22" style="width: 100%;padding:12px;" target="_blank">Registration Fees</a>
-  </div> -->
+ <div class="col-6 pb-3">
+       <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-reg-2021-2" style="width: 100%;padding:12px;" target="_blank">Registration Fees</a>
+  </div>
   
-  <!-- <div class="col-6 pb-3">
-         <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-22" style="width: 100%;padding:12px;" target="_blank">Tuition Fees</a>
-  </div> -->
+  <div class="col-6 pb-3">
+         <a class="btn btn-sm btn-success" href="https://goodbricks.org/cause/icsd.org/al-rashid-school-virtual-academy-2021-2" style="width: 100%;padding:12px;" target="_blank">Tuition Fees</a>
+  </div>
  </div>
