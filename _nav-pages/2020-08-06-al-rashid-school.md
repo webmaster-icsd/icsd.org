@@ -14,7 +14,7 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
 ## Registration: 
 <div class="row pt-10 pb-2" >
   <div class="col-6 pb-3">
-    <a class="btn btn-sm btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSdywww36QhNAfHkxe8K-z6RCTegDn0dLs3v1diQ4oGtATwAK/formResponse" style="width: 100%;padding:12px;" target="_blank">Register Here</a>
+    <a class="btn btn-sm btn-success" href="https://docs.google.com/forms/d/e/1FAIpQLSduJreHu-ZOUi9tyB_ZoMPt7OMd2AxD5Kn1crgveKyMZ3Yvpg/viewform" style="width: 100%;padding:12px;" target="_blank">Register Here</a>
   </div> 
 </div>
  
