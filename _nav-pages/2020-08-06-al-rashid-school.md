@@ -18,8 +18,6 @@ We are dedicated to providing young Muslims the opportunity to have quality lear
   </div> 
 </div>
  
-<-- (**Boys 14+ Youth Class**), please **register** [here](https://docs.google.com/forms/d/1-twfnHQFi55cU4XgF2LAnDmHEwBGHD74f-_WkR67NW) -->
-
 ![Al Rashid 22-23 Tuition.png]({{site.baseurl}}/media/Al Rashid 22-23 Tuition.png)
 
 ## Payment Forms *(Registration and Tuition Fees)*
