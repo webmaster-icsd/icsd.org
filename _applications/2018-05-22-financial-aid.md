@@ -5,7 +5,7 @@ published: true
 layout: page-with-sidebar-layout
 ---
 
-In order to apply for financial assistance, please print, fill out, and email the following [application](drive.google.com/drive/u/0/folders/1HAzgM0BwWTeOwRjw83CqWNoczIhfdKRq) to admin@icsd.org along with the following:  
+In order to apply for financial assistance, please print, fill out, and email the following [application](![College Prep 2022](prep30.pdf){width=500px}) to admin@icsd.org along with the following:  
 * Copy of your government issued picture ID  
 * Bills you are requesting help with  
 * Any supporting documents justifying your request.
