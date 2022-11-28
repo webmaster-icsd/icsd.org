@@ -6,5 +6,3 @@ published: true
 ---
 
 Please click [here](https://docs.google.com/presentation/d/1zxg1KgFGc_dMi3LRbsKR0gpdantO-qRc/edit?usp=sharing&ouid=103594088080546385867&rtpof=true&sd=true) to download the presentation 
-
-<iframe src="https://docs.google.com/presentation/d/1zxg1KgFGc_dMi3LRbsKR0gpdantO-qRc/edit?usp=sharing&ouid=103594088080546385867&rtpof=true&sd=true" frameborder="0" width="100%" height="640" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
