@@ -7,6 +7,8 @@ Al Rashid School is the Saturday learning program at the Islamic Center of San D
 
 We are dedicated to providing young Muslims the opportunity to have quality learning in Quran, Arabic, and Islamic Studies.
 
+To contact AlRashid directly, email:  [admin@alrashid.icsd.org](admin@alrashid.icsd.org)
+
 ![22 Al Rashid Calendar.png]({{site.baseurl}}/media/22 Al Rashid Calendar.png)
 
 ![Al Rashid Registration Info 22-23.png]({{site.baseurl}}/media/Al Rashid Registration Info 22-23.png)
